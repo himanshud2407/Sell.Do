@@ -1,0 +1,154 @@
+- generic [active] [ref=f113e1]:
+  - navigation [ref=f113e2]:
+    - generic [ref=f113e3]:
+      - generic [ref=f113e4]: 
+      - generic [ref=f113e6]:
+        - link "Search..." [ref=f113e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f113e9]
+      - searchbox "Search..." [ref=f113e10]
+    - generic [ref=f113e11]:
+      - generic [ref=f113e12]:
+        - link "" [ref=f113e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f113e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f113e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f113e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f113e22]:
+        - generic [aria-hidden] [ref=f113e23]: 
+        - text: "+918069150607"
+      - generic [ref=f113e24]: "Balance: ₹ -2686.44"
+      - generic [ref=f113e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f113e26]:
+    - generic [ref=f113e27]:
+      - link "" [ref=f113e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f113e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f113e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f113e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f113e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f113e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f113e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f113e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f113e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f113e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f113e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f113e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f113e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f113e71]:
+    - navigation "breadcrumb" [ref=f113e74]:
+      - list [ref=f113e75]:
+        - listitem [ref=f113e76]:
+          - link "Home" [ref=f113e77] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f113e78]:
+          - text: 
+          - link "Project & Inventory Management" [ref=f113e79] [cursor=pointer]:
+            - /url: /client/dashboard/products
+        - listitem [ref=f113e80]:
+          - text: 
+          - link "All Projects" [ref=f113e81] [cursor=pointer]:
+            - /url: /client/projects?status=true
+        - listitem [ref=f113e82]:
+          - text: 
+          - generic [ref=f113e83]: Nivaan Meadows - Specs Amenities
+    - form [ref=f113e85]:
+      - generic [ref=f113e86]:
+        - generic [ref=f113e88]:
+          - generic [ref=f113e89]: Nivaan Meadows
+          - list [ref=f113e91] [cursor=pointer]:
+            - listitem [ref=f113e92]:
+              - link "About" [ref=f113e93]:
+                - /url: /client/projects/602f8a6fc82561439a2fd7a8/about
+            - listitem [ref=f113e94]:
+              - link "Address" [ref=f113e95]:
+                - /url: /client/projects/602f8a6fc82561439a2fd7a8/address
+            - listitem [ref=f113e96]:
+              - link "Virtual Walkthrough" [ref=f113e97]:
+                - /url: /client/projects/602f8a6fc82561439a2fd7a8/walkthroughs
+            - listitem [ref=f113e98]:
+              - link "Amenities" [ref=f113e99]:
+                - /url: /client/projects/602f8a6fc82561439a2fd7a8/specs_amenities
+            - listitem [ref=f113e100]:
+              - link "Edit price quote and brochure" [ref=f113e101]:
+                - /url: /client/projects/602f8a6fc82561439a2fd7a8/brochure_price_quote
+            - listitem [ref=f113e102]:
+              - link "Portal Integration Codes" [ref=f113e103]:
+                - /url: /client/projects/602f8a6fc82561439a2fd7a8/extras
+        - generic [ref=f113e104]:
+          - generic [ref=f113e105]: Add specific information for the project. Information added here will be accessible at a single click when you are writing emails
+          - generic [ref=f113e106]: Amenities
+          - generic [ref=f113e110]:
+            - generic [ref=f113e111]: Specifications
+            - link "Add Specification" [ref=f113e114] [cursor=pointer]:
+              - /url: javascript:;
+          - button "Save" [ref=f113e116] [cursor=pointer]
+  - iframe [aria-hidden] [ref=f113e117]:
+    - generic [ref=f114e4]:
+      - generic [ref=f114e5]:
+        - heading "Latest changes" [level=3] [ref=f114e7]
+        - generic [ref=f114e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f114e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f114e10]: New
+            - generic [ref=f114e11]: Improvement
+            - strong [ref=f114e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f114e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f114e14]: New
+            - generic [ref=f114e15]: Improvement
+            - strong [ref=f114e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f114e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f114e18]: New
+            - strong [ref=f114e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f114e20]:
+          - link "Sell-Do updates" [ref=f114e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f114e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f114e23]:
+        - generic [ref=f114e24]:
+          - generic [ref=f114e25]:
+            - link [ref=f114e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f114e27]
+          - paragraph [ref=f114e30]:
+            - link "Read the whole post" [ref=f114e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f114e32]:
+          - generic [ref=f114e33]:
+            - link [ref=f114e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f114e35]
+          - paragraph [ref=f114e38]:
+            - link "Read the whole post" [ref=f114e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f114e40]:
+          - generic [ref=f114e41]:
+            - link [ref=f114e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f114e43]
+          - paragraph [ref=f114e46]:
+            - link "Read the whole post" [ref=f114e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

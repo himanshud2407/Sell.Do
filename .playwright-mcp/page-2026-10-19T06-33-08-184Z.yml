@@ -1,0 +1,80 @@
+- generic [active] [ref=f102e1]:
+  - form [ref=f102e2]:
+    - dialog [ref=f102e3]:
+      - document [ref=f102e4]:
+        - generic [ref=f102e5]:
+          - generic [ref=f102e6]:
+            - heading "Edit User" [level=5] [ref=f102e7]
+            - button "Close" [ref=f102e8]
+          - generic [ref=f102e9]:
+            - tablist [ref=f102e10]:
+              - tab "Personal Details" [ref=f102e11] [cursor=pointer]
+              - tab "Custom fields" [ref=f102e12] [cursor=pointer]
+            - generic [ref=f102e13]:
+              - 'tabpanel "Choose File Max: 300 KiB First name Piyush Last name Khandelwal Phone +91 7709883210 Email accounts@vishalchugera.com Secondary phone Time zone Asia/Kolkata Tags" [ref=f102e14]':
+                - generic [ref=f102e16]:
+                  - generic [ref=f102e17]:
+                    - generic [ref=f102e18] [cursor=pointer]
+                    - button "Choose File" [ref=f102e19]
+                    - generic [ref=f102e20]: "Max: 300 KiB"
+                  - generic [ref=f102e21]:
+                    - generic [ref=f102e22]:
+                      - text: First name
+                      - textbox "First name" [ref=f102e23]: Piyush
+                    - generic [ref=f102e24]:
+                      - text: Last name
+                      - textbox "Last name" [ref=f102e25]: Khandelwal
+                - generic [ref=f102e26]:
+                  - text: Phone
+                  - textbox [ref=f102e27]: +91 7709883210
+                - generic [ref=f102e28]:
+                  - text: Email
+                  - textbox "Email" [ref=f102e29]: accounts@vishalchugera.com
+                - generic [ref=f102e30]:
+                  - text: Secondary phone
+                  - textbox [ref=f102e31]
+                - generic [ref=f102e32]:
+                  - text: Time zone
+                  - textbox "Time zone" [ref=f102e33]: Asia/Kolkata
+                - generic [ref=f102e34]:
+                  - text: Tags
+                  - textbox "Tags" [ref=f102e35]:
+                    - /placeholder: Add tags
+              - tabpanel [ref=f102e36]:
+                - generic [ref=f102e37]:
+                  - text: Linkedin Url
+                  - textbox [ref=f102e38]
+                - generic [ref=f102e39]:
+                  - text: Designation
+                  - textbox [ref=f102e40]
+          - button "Save" [ref=f102e42]
+  - dialog [aria-hidden] [ref=f102e43]:
+    - generic [ref=f102e45]:
+      - generic [ref=f102e46]:
+        - heading [level=5] [ref=f102e47]: In order to move user to Post Sales, User should be removed from following routing
+        - button [aria-hidden] [ref=f102e48]: ×
+      - generic [ref=f102e49]:
+        - paragraph [ref=f102e50]: Make sure user is not the only user in any of the routing and is not present in any workflow actions, in IVR and not a fallback for any user.
+        - tablist [ref=f102e51]:
+          - link [ref=f102e52] [cursor=pointer]:
+            - /url: .rules
+            - text: Rules
+          - link [ref=f102e53] [cursor=pointer]:
+            - /url: .campaigns
+            - text: Campaigns
+          - link [ref=f102e54] [cursor=pointer]:
+            - /url: .projects
+            - text: Projects
+          - link [ref=f102e55] [cursor=pointer]:
+            - /url: .default
+            - text: Default
+          - link [ref=f102e56] [cursor=pointer]:
+            - /url: .workflows
+            - text: Workflows
+          - link [ref=f102e57] [cursor=pointer]:
+            - /url: .ivrs
+            - text: IVR
+          - link [ref=f102e58] [cursor=pointer]:
+            - /url: .fallback_for
+            - text: Fallback For
+      - button [ref=f102e68]: Ok

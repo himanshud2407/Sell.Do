@@ -1,0 +1,18 @@
+- form [ref=f103e2]:
+  - dialog [ref=f103e3]:
+    - document [ref=f103e4]:
+      - generic [ref=f103e5]:
+        - generic [ref=f103e6]:
+          - heading "Change Password" [level=5] [ref=f103e7]
+          - button "Close" [ref=f103e8]
+        - generic [ref=f103e9]:
+          - generic [ref=f103e10]:
+            - text: Current password
+            - textbox "Current password" [ref=f103e11]
+          - generic [ref=f103e12]:
+            - text: Password
+            - textbox "Password" [ref=f103e13]
+          - generic [ref=f103e14]:
+            - text: Password confirmation
+            - textbox "Password confirmation" [ref=f103e15]
+        - button "Save" [ref=f103e17]

@@ -1,0 +1,3 @@
+[     325ms] ReferenceError: $ is not defined
+    at bindSourceFormPrune (https://app.sell.do/client/source_configurations:753:17)
+    at https://app.sell.do/client/source_configurations:761:5

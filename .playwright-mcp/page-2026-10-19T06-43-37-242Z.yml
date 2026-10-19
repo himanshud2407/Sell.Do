@@ -1,0 +1,167 @@
+- generic [active] [ref=f127e1]:
+  - navigation [ref=f127e2]:
+    - generic [ref=f127e3]:
+      - generic [ref=f127e4]: 
+      - generic [ref=f127e6]:
+        - link "Search..." [ref=f127e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f127e9]
+      - searchbox "Search..." [ref=f127e10]
+    - generic [ref=f127e11]:
+      - generic [ref=f127e12]:
+        - link "" [ref=f127e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f127e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f127e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f127e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f127e22]:
+        - generic [aria-hidden] [ref=f127e23]: 
+        - text: "+918069150607"
+      - generic [ref=f127e24]: "Balance: ₹ -2686.64"
+      - generic [ref=f127e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f127e26]:
+    - generic [ref=f127e27]:
+      - link "" [ref=f127e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f127e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f127e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f127e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f127e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f127e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f127e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f127e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f127e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f127e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f127e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f127e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f127e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f127e73]:
+    - generic [ref=f127e79]:
+      - generic [ref=f127e80]:
+        - navigation "breadcrumb"
+      - generic [ref=f127e81]:  
+    - generic [ref=f127e86]:
+      - generic [ref=f127e87]:
+        - generic [ref=f127e89]:
+          - generic [ref=f127e91]:
+            - generic [ref=f127e92]:
+              - link "All Leads" [ref=f127e93] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - textbox [ref=f127e97]
+            - combobox [ref=f127e98]:
+              - option [disabled]
+              - option "Nri Leads"
+              - option "Hot Leads"
+              - option "Warm Leads"
+              - option "All Leads" [selected]
+              - option "Recently Contacted"
+              - option "New Enquiries"
+              - option "Missed Calls Existing"
+              - option "Missed Calls New"
+              - option "Missed Calls"
+              - option "Untouched Leads - 1 Attempt"
+              - option "Untouched Leads - 2 Attempts"
+              - option "Untouched Leads - 3+ Attempts"
+              - option "Scheduled Followups"
+              - option "Missed Followups"
+              - option "Missed Site Visits"
+              - option "Yesterday Missed Followups"
+              - option "Unread Emails"
+              - option "Scheduled Site Visits"
+              - option "Site Visits(Conducted)"
+              - option "Reassigned To Me"
+              - option "Call Later"
+              - option "Conducted Site Visits - 2+"
+              - option "Reengaged Leads"
+              - option "NFA"
+              - option "Incoming"
+              - option "Prospect"
+              - option "Opportunity"
+              - option "Booked"
+              - option "Unqualified"
+              - option "Lost"
+              - option "Leads With Pending Tasks"
+              - option "Purely Untouched"
+              - option "1st Visit"
+              - option "2nd Visit"
+          - paragraph
+        - group [ref=f127e101]:
+          - text:      *          
+          - button "New Lead" [ref=f127e102] [cursor=pointer]
+          - button " Export" [ref=f127e103] [cursor=pointer]:
+            - generic [ref=f127e104]: 
+            - text: Export
+          - group [ref=f127e105]:
+            - button "" [ref=f127e106] [cursor=pointer]
+            - button "" [ref=f127e108] [cursor=pointer]
+      - generic [ref=f127e110]:   
+  - iframe [aria-hidden] [ref=f127e115]:
+    - generic [ref=f128e4]:
+      - generic [ref=f128e5]:
+        - heading "Latest changes" [level=3] [ref=f128e7]
+        - generic [ref=f128e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f128e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f128e10]: New
+            - generic [ref=f128e11]: Improvement
+            - strong [ref=f128e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f128e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f128e14]: New
+            - generic [ref=f128e15]: Improvement
+            - strong [ref=f128e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f128e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f128e18]: New
+            - strong [ref=f128e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f128e20]:
+          - link "Sell-Do updates" [ref=f128e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f128e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f128e23]:
+        - generic [ref=f128e24]:
+          - generic [ref=f128e25]:
+            - link [ref=f128e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f128e27]
+          - paragraph [ref=f128e30]:
+            - link "Read the whole post" [ref=f128e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f128e32]:
+          - generic [ref=f128e33]:
+            - link [ref=f128e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f128e35]
+          - paragraph [ref=f128e38]:
+            - link "Read the whole post" [ref=f128e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f128e40]:
+          - generic [ref=f128e41]:
+            - link [ref=f128e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f128e43]
+          - paragraph [ref=f128e46]:
+            - link "Read the whole post" [ref=f128e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414
+  - text:   

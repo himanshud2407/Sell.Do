@@ -1,0 +1,257 @@
+- generic [active] [ref=f38e1]:
+  - navigation [ref=f38e2]:
+    - generic [ref=f38e3]:
+      - generic [ref=f38e4]: 
+      - generic [ref=f38e6]:
+        - link "Search..." [ref=f38e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f38e9]
+      - searchbox "Search..." [ref=f38e10]
+    - generic [ref=f38e11]:
+      - generic [ref=f38e12]:
+        - link "" [ref=f38e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f38e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f38e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f38e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f38e22]:
+        - generic [aria-hidden] [ref=f38e23]: 
+        - text: "+918069150607"
+      - generic [ref=f38e24]: "Balance: ₹ -2683.94"
+      - generic [ref=f38e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f38e26]:
+    - generic [ref=f38e27]:
+      - link "" [ref=f38e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f38e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f38e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f38e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f38e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f38e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f38e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f38e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f38e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f38e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f38e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f38e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f38e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f38e71]:
+    - generic [ref=f38e72]:
+      - navigation "breadcrumb" [ref=f38e74]:
+        - list [ref=f38e75]:
+          - listitem [ref=f38e76]:
+            - link "Home" [ref=f38e77] [cursor=pointer]:
+              - /url: /client/dashboard/settings
+          - listitem [ref=f38e78]:
+            - text: 
+            - link "Settings Management" [ref=f38e79] [cursor=pointer]:
+              - /url: /client/dashboard/settings
+          - listitem [ref=f38e80]:  All Lists
+      - button "Take a tour" [ref=f38e82] [cursor=pointer]
+    - generic [ref=f38e85]:
+      - generic [ref=f38e86]:
+        - generic [ref=f38e87]: 34 items.
+        - group [ref=f38e91]:
+          - link "New List" [ref=f38e92] [cursor=pointer]:
+            - /url: /client/search_criteria/new
+          - button "" [ref=f38e93] [cursor=pointer]
+      - generic [ref=f38e96]:
+        - generic [ref=f38e97]:
+          - table [ref=f38e98]:
+            - rowgroup [ref=f38e99]:
+              - row [ref=f38e100]:
+                - columnheader "name" [ref=f38e101]
+                - columnheader "Type" [ref=f38e102]
+                - columnheader "Available For" [ref=f38e103]
+                - columnheader "Actions" [ref=f38e104]
+            - rowgroup [ref=f38e105]:
+              - row [ref=f38e106]:
+                - cell "2nd Visit 08/12/2022 01:32 PM" [ref=f38e107]
+                - cell "User Generated" [ref=f38e108]
+                - cell "Export" [ref=f38e109]
+                - cell [ref=f38e110]:
+                  - link "" [ref=f38e112] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f38e114]:
+                - cell "1st Visit 08/12/2022 01:31 PM" [ref=f38e115]
+                - cell "User Generated" [ref=f38e116]
+                - cell "Export" [ref=f38e117]
+                - cell [ref=f38e118]:
+                  - link "" [ref=f38e120] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f38e122]:
+                - cell "Purely Untouched 05/04/2022 08:27 AM" [ref=f38e123]
+                - cell "System Generated Non Editable" [ref=f38e124]
+                - cell "Sales, Pre Sales, Export, and Marketing" [ref=f38e125]
+                - cell [ref=f38e126]:
+                  - link "" [ref=f38e128] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f38e130]:
+                - cell "Leads With Pending Tasks 12/02/2021 09:40 AM" [ref=f38e131]
+                - cell "System Generated Non Editable" [ref=f38e132]
+                - cell "Sales, Pre Sales, Export, and Marketing" [ref=f38e133]
+                - cell [ref=f38e134]:
+                  - link "" [ref=f38e136] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f38e138]:
+                - cell "Lost 12/02/2021 09:40 AM" [ref=f38e139]
+                - cell "System Generated Non Editable" [ref=f38e140]
+                - cell "Sales, Pre Sales, Export, and Marketing" [ref=f38e141]
+                - cell [ref=f38e142]:
+                  - link "" [ref=f38e144] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f38e146]:
+                - cell "Unqualified 12/02/2021 09:40 AM" [ref=f38e147]
+                - cell "System Generated Non Editable" [ref=f38e148]
+                - cell "Sales, Pre Sales, Export, and Marketing" [ref=f38e149]
+                - cell [ref=f38e150]:
+                  - link "" [ref=f38e152] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f38e154]:
+                - cell "Booked 12/02/2021 09:40 AM" [ref=f38e155]
+                - cell "System Generated Non Editable" [ref=f38e156]
+                - cell "Sales, Pre Sales, Export, and Marketing" [ref=f38e157]
+                - cell [ref=f38e158]:
+                  - link "" [ref=f38e160] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f38e162]:
+                - cell "Opportunity 12/02/2021 09:40 AM" [ref=f38e163]
+                - cell "System Generated Non Editable" [ref=f38e164]
+                - cell "Sales, Pre Sales, Export, and Marketing" [ref=f38e165]
+                - cell [ref=f38e166]:
+                  - link "" [ref=f38e168] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f38e170]:
+                - cell "Prospect 12/02/2021 09:40 AM" [ref=f38e171]
+                - cell "System Generated Non Editable" [ref=f38e172]
+                - cell "Sales, Pre Sales, Export, and Marketing" [ref=f38e173]
+                - cell [ref=f38e174]:
+                  - link "" [ref=f38e176] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f38e178]:
+                - cell "Incoming 12/02/2021 09:40 AM" [ref=f38e179]
+                - cell "System Generated Non Editable" [ref=f38e180]
+                - cell "Sales, Pre Sales, Export, and Marketing" [ref=f38e181]
+                - cell [ref=f38e182]:
+                  - link "" [ref=f38e184] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f38e186]:
+                - cell "Unscheduled Leads 12/02/2021 09:40 AM" [ref=f38e187]
+                - cell "System Generated Non Editable" [ref=f38e188]
+                - cell "Sales, Pre Sales, Export, and Marketing" [ref=f38e189]
+                - cell [ref=f38e190]:
+                  - link "" [ref=f38e192] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f38e194]:
+                - cell "Reengaged Leads 12/02/2021 09:40 AM" [ref=f38e195]
+                - cell "System Generated Non Editable" [ref=f38e196]
+                - cell "Sales, Pre Sales, Export, and Marketing" [ref=f38e197]
+                - cell [ref=f38e198]:
+                  - link "" [ref=f38e200] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f38e202]:
+                - cell "Conducted Site Visits 2+ 12/02/2021 09:40 AM" [ref=f38e203]
+                - cell "System Generated Non Editable" [ref=f38e204]
+                - cell "Sales, Pre Sales, Export, and Marketing" [ref=f38e205]
+                - cell [ref=f38e206]:
+                  - link "" [ref=f38e208] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f38e210]:
+                - cell "Call Later 12/02/2021 09:40 AM" [ref=f38e211]
+                - cell "System Generated Non Editable" [ref=f38e212]
+                - cell "Sales, Pre Sales, Export, and Marketing" [ref=f38e213]
+                - cell [ref=f38e214]:
+                  - link "" [ref=f38e216] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f38e218]:
+                - cell "Reassigned To Me 12/02/2021 09:40 AM" [ref=f38e219]
+                - cell "System Generated Non Editable" [ref=f38e220]
+                - cell "Sales, Pre Sales, Export, and Marketing" [ref=f38e221]
+                - cell [ref=f38e222]:
+                  - link "" [ref=f38e224] [cursor=pointer]:
+                    - /url: javascript:void(0);
+          - navigation "Pagination" [ref=f38e227]:
+            - list [ref=f38e228]:
+              - listitem [ref=f38e229]:
+                - generic [ref=f38e230] [cursor=pointer]: ← Previous
+              - listitem [ref=f38e231]:
+                - generic: "1"
+              - listitem [ref=f38e232]:
+                - link "2" [ref=f38e233] [cursor=pointer]:
+                  - /url: /client/search_criteria?page=2
+              - listitem [ref=f38e234]:
+                - link "3" [ref=f38e235] [cursor=pointer]:
+                  - /url: /client/search_criteria?page=3
+              - listitem [ref=f38e236]:
+                - link "Next →" [ref=f38e237] [cursor=pointer]:
+                  - /url: /client/search_criteria?page=2
+        - text: 
+  - iframe [aria-hidden] [ref=f38e238]:
+    - generic [ref=f39e4]:
+      - generic [ref=f39e5]:
+        - heading "Latest changes" [level=3] [ref=f39e7]
+        - generic [ref=f39e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f39e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f39e10]: New
+            - generic [ref=f39e11]: Improvement
+            - strong [ref=f39e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f39e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f39e14]: New
+            - generic [ref=f39e15]: Improvement
+            - strong [ref=f39e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f39e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f39e18]: New
+            - strong [ref=f39e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f39e20]:
+          - link "Sell-Do updates" [ref=f39e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f39e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f39e23]:
+        - generic [ref=f39e24]:
+          - generic [ref=f39e25]:
+            - link [ref=f39e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f39e27]
+          - paragraph [ref=f39e30]:
+            - link "Read the whole post" [ref=f39e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f39e32]:
+          - generic [ref=f39e33]:
+            - link [ref=f39e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f39e35]
+          - paragraph [ref=f39e38]:
+            - link "Read the whole post" [ref=f39e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f39e40]:
+          - generic [ref=f39e41]:
+            - link [ref=f39e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f39e43]
+          - paragraph [ref=f39e46]:
+            - link "Read the whole post" [ref=f39e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

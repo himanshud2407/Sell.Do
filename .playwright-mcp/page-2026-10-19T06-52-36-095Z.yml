@@ -1,0 +1,149 @@
+- generic [active] [ref=f159e1]:
+  - navigation [ref=f159e7]:
+    - generic [ref=f159e8]:
+      - generic [ref=f159e9]: 
+      - generic [ref=f159e11]:
+        - link "Search..." [ref=f159e12] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f159e14]
+      - searchbox "Search..." [ref=f159e15]
+    - generic [ref=f159e16]:
+      - generic [ref=f159e17]:
+        - link "" [ref=f159e18] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f159e21] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f159e23]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f159e25] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f159e27]:
+        - generic [aria-hidden] [ref=f159e28]: 
+        - text: "+918069150607"
+      - generic [ref=f159e29]: "Balance: ₹ -2687.24"
+      - generic [ref=f159e30]: "Leads Balance: 8104"
+  - text:  
+  - generic [ref=f159e31]:
+    - generic [ref=f159e32]:
+      - link "" [ref=f159e36] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f159e39] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f159e42] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f159e45] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f159e48] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f159e51] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f159e54] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f159e57] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f159e60] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f159e63] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f159e66] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f159e69] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f159e72] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f159e76]:
+    - generic [ref=f159e81]:
+      - generic [ref=f159e82] [cursor=pointer]: 
+      - generic [ref=f159e84] [cursor=pointer]: 
+      - generic [ref=f159e86] [cursor=pointer]: 
+      - generic [ref=f159e88] [cursor=pointer]: 
+    - generic [ref=f159e90]:
+      - generic [ref=f159e91]:
+        - generic [ref=f159e92]:
+          - heading [level=3] [ref=f159e94]:
+            - text: Lead Lost Reasons
+            - link "" [ref=f159e95] [cursor=pointer]:
+              - /url: javascript:;
+          - generic [ref=f159e98]:
+            - generic [ref=f159e99]: 
+            - textbox "Use Custom Range to edit" [ref=f159e100]:
+              - /placeholder: Duration
+              - text: 01/10/2026 00:00:00 - 19/10/2026 23:59:59
+          - link "Filters (1) " [ref=f159e102] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Filters (1)
+            - generic [ref=f159e103]: 
+        - generic [ref=f159e104]:
+          - generic [ref=f159e107]:
+            - link "Sales" [ref=f159e108]:
+              - /url: javascript:;
+            - text: "|"
+            - link "Team" [ref=f159e109] [cursor=pointer]:
+              - /url: javascript:;
+            - text: "|"
+          - generic [ref=f159e111]:
+            - text:  |
+            - link " Print" [ref=f159e112] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=f159e113]: 
+              - text: Print
+            - text: "|"
+            - link " Export" [ref=f159e114] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=f159e115]: 
+              - text: Export
+      - text:           
+  - iframe [aria-hidden] [ref=f159e118]:
+    - generic [ref=f160e4]:
+      - generic [ref=f160e5]:
+        - heading "Latest changes" [level=3] [ref=f160e7]
+        - generic [ref=f160e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f160e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f160e10]: New
+            - generic [ref=f160e11]: Improvement
+            - strong [ref=f160e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f160e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f160e14]: New
+            - generic [ref=f160e15]: Improvement
+            - strong [ref=f160e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f160e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f160e18]: New
+            - strong [ref=f160e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f160e20]:
+          - link "Sell-Do updates" [ref=f160e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f160e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f160e23]:
+        - generic [ref=f160e24]:
+          - generic [ref=f160e25]:
+            - link [ref=f160e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f160e27]
+          - paragraph [ref=f160e30]:
+            - link "Read the whole post" [ref=f160e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f160e32]:
+          - generic [ref=f160e33]:
+            - link [ref=f160e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f160e35]
+          - paragraph [ref=f160e38]:
+            - link "Read the whole post" [ref=f160e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f160e40]:
+          - generic [ref=f160e41]:
+            - link [ref=f160e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f160e43]
+          - paragraph [ref=f160e46]:
+            - link "Read the whole post" [ref=f160e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414
+  - text: 

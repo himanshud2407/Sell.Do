@@ -1,0 +1,304 @@
+- generic [active] [ref=f21e1]:
+  - navigation [ref=f21e2]:
+    - generic [ref=f21e3]:
+      - generic [ref=f21e4]: 
+      - generic [ref=f21e6]:
+        - link "Search..." [ref=f21e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f21e9]
+      - searchbox "Search..." [ref=f21e10]
+    - generic [ref=f21e11]:
+      - generic [ref=f21e12]:
+        - link "" [ref=f21e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f21e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f21e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f21e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f21e22]:
+        - generic [aria-hidden] [ref=f21e23]: 
+        - text: "+918069150607"
+      - generic [ref=f21e24]: "Balance: ₹ -2683.94"
+      - generic [ref=f21e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f21e26]:
+    - generic [ref=f21e27]:
+      - link "" [ref=f21e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f21e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f21e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f21e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f21e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f21e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f21e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f21e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f21e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f21e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f21e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f21e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f21e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f21e71]:
+    - navigation "breadcrumb" [ref=f21e74]:
+      - list [ref=f21e75]:
+        - listitem [ref=f21e76]:
+          - link "Home" [ref=f21e77] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f21e78]:
+          - text: 
+          - link "Project & Inventory Management" [ref=f21e79] [cursor=pointer]:
+            - /url: /client/dashboard/products
+        - listitem [ref=f21e80]:  All Projects
+    - generic [ref=f21e84]:
+      - generic [ref=f21e85]:
+        - generic [ref=f21e86]: 15 items.
+        - group [ref=f21e90]:
+          - link "New Project" [ref=f21e91] [cursor=pointer]:
+            - /url: /client/projects/new
+          - link "" [ref=f21e92] [cursor=pointer]:
+            - /url: https://selldo-v2cdn-production.blr1.cdn.digitaloceanspaces.com/assets/real-estate-project-import-sample-077e4e26a7e354fc7f9ace5719c3c22cdf800b8e33bded15308605594a55aa18.csv
+          - button [ref=f21e94] [cursor=pointer]:
+            - text: Bulk Modify Projects
+            - button "Choose File" [ref=f21e95]
+          - link "" [ref=f21e96] [cursor=pointer]:
+            - /url: /client/projects/download_sample_file?file_name=bulk-modify-projects-sample.csv
+          - button "" [ref=f21e98] [cursor=pointer]
+      - generic [ref=f21e101]:
+        - table [ref=f21e103]:
+          - rowgroup [ref=f21e104]:
+            - row [ref=f21e105]:
+              - columnheader "Project" [ref=f21e106]
+              - columnheader "Active" [ref=f21e107]
+              - columnheader "Created on" [ref=f21e108]
+              - columnheader "Integrated Portals" [ref=f21e109]
+              - columnheader "Actions" [ref=f21e110]
+          - rowgroup [ref=f21e111]:
+            - row [ref=f21e112]:
+              - cell [ref=f21e113]:
+                - link "Nivaan Meadows" [ref=f21e114] [cursor=pointer]:
+                  - /url: /client/projects/602f8a6fc82561439a2fd7a8/about
+              - cell "Yes" [ref=f21e115]
+              - cell "19/02/2021" [ref=f21e116]
+              - cell "1 " [ref=f21e117]:
+                - text: "1"
+                - generic [ref=f21e118] [cursor=pointer]: 
+              - cell [ref=f21e119]:
+                - link "" [ref=f21e121] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - row [ref=f21e123]:
+              - cell [ref=f21e124]:
+                - link "Self Properties" [ref=f21e125] [cursor=pointer]:
+                  - /url: /client/projects/6051b818ed23e975cdd5ab25/about
+              - cell "Yes" [ref=f21e126]
+              - cell "17/03/2021" [ref=f21e127]
+              - cell [ref=f21e128]
+              - cell [ref=f21e129]:
+                - link "" [ref=f21e131] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - row [ref=f21e133]:
+              - cell [ref=f21e134]:
+                - link "Nivaan Legacy" [ref=f21e135] [cursor=pointer]:
+                  - /url: /client/projects/60d9c3a7a6bbc938ea62511c/about
+              - cell "Yes" [ref=f21e136]
+              - cell "28/06/2021" [ref=f21e137]
+              - cell [ref=f21e138]
+              - cell [ref=f21e139]:
+                - link "" [ref=f21e141] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - row [ref=f21e143]:
+              - cell [ref=f21e144]:
+                - link "Fire Fly" [ref=f21e145] [cursor=pointer]:
+                  - /url: /client/projects/6142d7a8a6bbc91d86366118/about
+              - cell "Yes" [ref=f21e146]
+              - cell "16/09/2021" [ref=f21e147]
+              - cell [ref=f21e148]
+              - cell [ref=f21e149]:
+                - link "" [ref=f21e151] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - row [ref=f21e153]:
+              - cell [ref=f21e154]:
+                - link "nivaan nirvana" [ref=f21e155] [cursor=pointer]:
+                  - /url: /client/projects/61659b28a6bbc977689ed0f2/about
+              - cell "Yes" [ref=f21e156]
+              - cell "12/10/2021" [ref=f21e157]
+              - cell "1 " [ref=f21e158]:
+                - text: "1"
+                - generic [ref=f21e159] [cursor=pointer]: 
+              - cell [ref=f21e160]:
+                - link "" [ref=f21e162] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - row [ref=f21e164]:
+              - cell [ref=f21e165]:
+                - link "Nivaan Elegance" [ref=f21e166] [cursor=pointer]:
+                  - /url: /client/projects/622af566a6bbc9565b999f1d/about
+              - cell "Yes" [ref=f21e167]
+              - cell "11/03/2022" [ref=f21e168]
+              - cell [ref=f21e169]
+              - cell [ref=f21e170]:
+                - link "" [ref=f21e172] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - row [ref=f21e174]:
+              - cell [ref=f21e175]:
+                - link "Nivaan Hills" [ref=f21e176] [cursor=pointer]:
+                  - /url: /client/projects/62737846ed23e968728e7ca5/about
+              - cell "Yes" [ref=f21e177]
+              - cell "05/05/2022" [ref=f21e178]
+              - cell "1 " [ref=f21e179]:
+                - text: "1"
+                - generic [ref=f21e180] [cursor=pointer]: 
+              - cell [ref=f21e181]:
+                - link "" [ref=f21e183] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - row [ref=f21e185]:
+              - cell [ref=f21e186]:
+                - link "Suraksha" [ref=f21e187] [cursor=pointer]:
+                  - /url: /client/projects/627cbf2e4443ae1f288a7ddd/about
+              - cell "Yes" [ref=f21e188]
+              - cell "12/05/2022" [ref=f21e189]
+              - cell "1 " [ref=f21e190]:
+                - text: "1"
+                - generic [ref=f21e191] [cursor=pointer]: 
+              - cell [ref=f21e192]:
+                - link "" [ref=f21e194] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - row [ref=f21e196]:
+              - cell [ref=f21e197]:
+                - link "Sai Jyoti Shirdi" [ref=f21e198] [cursor=pointer]:
+                  - /url: /client/projects/6376194da6bbc94bc19a002c/about
+              - cell "Yes" [ref=f21e199]
+              - cell "17/11/2022" [ref=f21e200]
+              - cell [ref=f21e201]
+              - cell [ref=f21e202]:
+                - link "" [ref=f21e204] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - row [ref=f21e206]:
+              - cell [ref=f21e207]:
+                - link "Nivaan Water Edge" [ref=f21e208] [cursor=pointer]:
+                  - /url: /client/projects/652e0d675d8defd1ef72fdab/about
+              - cell "Yes" [ref=f21e209]
+              - cell "17/10/2023" [ref=f21e210]
+              - cell [ref=f21e211]
+              - cell [ref=f21e212]:
+                - link "" [ref=f21e214] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - row [ref=f21e216]:
+              - cell [ref=f21e217]:
+                - link "Nivaan Sparsh" [ref=f21e218] [cursor=pointer]:
+                  - /url: /client/projects/65a61931a3d855ed97f2f3ab/about
+              - cell "Yes" [ref=f21e219]
+              - cell "16/01/2024" [ref=f21e220]
+              - cell "1 " [ref=f21e221]:
+                - text: "1"
+                - generic [ref=f21e222] [cursor=pointer]: 
+              - cell [ref=f21e223]:
+                - link "" [ref=f21e225] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - row [ref=f21e227]:
+              - cell [ref=f21e228]:
+                - link "Pristine City" [ref=f21e229] [cursor=pointer]:
+                  - /url: /client/projects/65ab97fc5d8def346f289e77/about
+              - cell "Yes" [ref=f21e230]
+              - cell "20/01/2024" [ref=f21e231]
+              - cell [ref=f21e232]
+              - cell [ref=f21e233]:
+                - link "" [ref=f21e235] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - row [ref=f21e237]:
+              - cell [ref=f21e238]:
+                - link "Nivaan Grandeur" [ref=f21e239] [cursor=pointer]:
+                  - /url: /client/projects/65b3323158f1e7548a8a640d/about
+              - cell "Yes" [ref=f21e240]
+              - cell "26/01/2024" [ref=f21e241]
+              - cell "1 " [ref=f21e242]:
+                - text: "1"
+                - generic [ref=f21e243] [cursor=pointer]: 
+              - cell [ref=f21e244]:
+                - link "" [ref=f21e246] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - row [ref=f21e248]:
+              - cell [ref=f21e249]:
+                - link "Nivaan Skylark" [ref=f21e250] [cursor=pointer]:
+                  - /url: /client/projects/67095d57e11487bb9123cfad/about
+              - cell "Yes" [ref=f21e251]
+              - cell "11/10/2024" [ref=f21e252]
+              - cell [ref=f21e253]
+              - cell [ref=f21e254]:
+                - link "" [ref=f21e256] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - row [ref=f21e258]:
+              - cell [ref=f21e259]:
+                - link "Nivaan Vivanta" [ref=f21e260] [cursor=pointer]:
+                  - /url: /client/projects/6a73053547c7f53bbe16ea72/about
+              - cell "Yes" [ref=f21e261]
+              - cell "05/08/2026" [ref=f21e262]
+              - cell [ref=f21e263]
+              - cell [ref=f21e264]:
+                - link "" [ref=f21e266] [cursor=pointer]:
+                  - /url: javascript:void(0);
+        - text: 
+  - iframe [aria-hidden] [ref=f21e268]:
+    - generic [ref=f22e4]:
+      - generic [ref=f22e5]:
+        - heading "Latest changes" [level=3] [ref=f22e7]
+        - generic [ref=f22e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f22e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f22e10]: New
+            - generic [ref=f22e11]: Improvement
+            - strong [ref=f22e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f22e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f22e14]: New
+            - generic [ref=f22e15]: Improvement
+            - strong [ref=f22e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f22e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f22e18]: New
+            - strong [ref=f22e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f22e20]:
+          - link "Sell-Do updates" [ref=f22e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f22e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f22e23]:
+        - generic [ref=f22e24]:
+          - generic [ref=f22e25]:
+            - link [ref=f22e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f22e27]
+          - paragraph [ref=f22e30]:
+            - link "Read the whole post" [ref=f22e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f22e32]:
+          - generic [ref=f22e33]:
+            - link [ref=f22e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f22e35]
+          - paragraph [ref=f22e38]:
+            - link "Read the whole post" [ref=f22e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f22e40]:
+          - generic [ref=f22e41]:
+            - link [ref=f22e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f22e43]
+          - paragraph [ref=f22e46]:
+            - link "Read the whole post" [ref=f22e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

@@ -1,0 +1,435 @@
+- generic [active] [ref=f63e1]:
+  - navigation [ref=f63e2]:
+    - generic [ref=f63e3]:
+      - generic [ref=f63e4]: 
+      - generic [ref=f63e6]:
+        - link "Search..." [ref=f63e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f63e9]
+      - searchbox "Search..." [ref=f63e10]
+    - generic [ref=f63e11]:
+      - generic [ref=f63e12]:
+        - link "" [ref=f63e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f63e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f63e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f63e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f63e22]:
+        - generic [aria-hidden] [ref=f63e23]: 
+        - text: "+918069150607"
+      - generic [ref=f63e24]: "Balance: ₹ -2684.84"
+      - generic [ref=f63e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f63e26]:
+    - generic [ref=f63e27]:
+      - link "" [ref=f63e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f63e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f63e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f63e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f63e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f63e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f63e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f63e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f63e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f63e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f63e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f63e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f63e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f63e71]:
+    - navigation "breadcrumb" [ref=f63e74]:
+      - list [ref=f63e75]:
+        - listitem [ref=f63e76]:
+          - link "Home" [ref=f63e77] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f63e78]:
+          - text: 
+          - link "Settings Management" [ref=f63e79] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f63e80]:  Bulk Job History
+    - generic [ref=f63e84]:
+      - generic [ref=f63e85]:
+        - generic [ref=f63e86]: 212 items. *Please note the output file will expire in 48 hours.
+        - group [ref=f63e90]:
+          - button "" [ref=f63e91] [cursor=pointer]
+      - generic [ref=f63e94]:
+        - generic [ref=f63e95]:
+          - table [ref=f63e96]:
+            - rowgroup [ref=f63e97]:
+              - row [ref=f63e98]:
+                - columnheader "ID" [ref=f63e99]
+                - columnheader "Type" [ref=f63e100]
+                - columnheader "Duration" [ref=f63e101]
+                - columnheader "Created By" [ref=f63e102]
+                - columnheader "Status" [ref=f63e103]
+                - columnheader "Records count" [ref=f63e104]
+                - columnheader "Output file" [ref=f63e105]
+                - columnheader "Job Errors" [ref=f63e106]
+                - columnheader "Actions" [ref=f63e107]
+            - rowgroup [ref=f63e108]:
+              - row [ref=f63e109]:
+                - cell [ref=f63e110]:
+                  - text: 6ad5a069659e9300ca56f8dc
+                  - button "" [ref=f63e111] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e113]
+                - 'cell "Started at: 19/10/2026 10:15 AM Completed at: 19/10/2026 10:15 AM" [ref=f63e114]'
+                - cell "Nikita Dodeja" [ref=f63e115]
+                - cell "Completed" [ref=f63e116]
+                - cell "1" [ref=f63e117]
+                - cell [ref=f63e118]:
+                  - link "Download" [ref=f63e119] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_0c92b19b78bbff4a1f66c399fbf33fb8_6025ff024443ae01970f6487_1792385132.csv
+                - cell "NA" [ref=f63e120]
+                - cell [ref=f63e122]:
+                  - link "" [ref=f63e124] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+              - row [ref=f63e126]:
+                - cell [ref=f63e127]:
+                  - text: 6ad48b8e659e938c3ab6b192
+                  - button "" [ref=f63e128] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e130]
+                - 'cell "Started at: 18/10/2026 02:34 PM Completed at: 18/10/2026 02:34 PM" [ref=f63e131]'
+                - cell "Nikita Dodeja" [ref=f63e132]
+                - cell "Completed" [ref=f63e133]
+                - cell "2" [ref=f63e134]
+                - cell [ref=f63e135]:
+                  - link "Download" [ref=f63e136] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_c1f10bc6d8f5d9670b3c0fe84869b003_6025ff024443ae01970f6487_1792314256.csv
+                - cell "NA" [ref=f63e137]
+                - cell [ref=f63e139]:
+                  - link "" [ref=f63e141] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+              - row [ref=f63e143]:
+                - cell [ref=f63e144]:
+                  - text: 6ad48b53628ba2263e3c40a8
+                  - button "" [ref=f63e145] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e147]
+                - 'cell "Started at: 18/10/2026 02:33 PM Completed at: 18/10/2026 02:33 PM" [ref=f63e148]'
+                - cell "Nikita Dodeja" [ref=f63e149]
+                - cell "Completed" [ref=f63e150]
+                - cell "2" [ref=f63e151]
+                - cell [ref=f63e152]:
+                  - link "Download" [ref=f63e153] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_2ecafb36d068c456473db755658746d7_6025ff024443ae01970f6487_1792314223.csv
+                - cell "NA" [ref=f63e154]
+                - cell [ref=f63e156]:
+                  - link "" [ref=f63e158] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+              - row [ref=f63e160]:
+                - cell [ref=f63e161]:
+                  - text: 6ad33f5c628ba254c7682dd8
+                  - button "" [ref=f63e162] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e164]
+                - 'cell "Started at: 17/10/2026 02:56 PM Completed at: 17/10/2026 02:56 PM" [ref=f63e165]'
+                - cell "Nikita Dodeja" [ref=f63e166]
+                - cell "Completed" [ref=f63e167]
+                - cell "2" [ref=f63e168]
+                - cell [ref=f63e169]:
+                  - link "Download" [ref=f63e170] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_d8fbd8253d614c595dd25270be08293f_6025ff024443ae01970f6487_1792229217.csv
+                - cell "NA" [ref=f63e171]
+                - cell [ref=f63e173]:
+                  - link "" [ref=f63e175] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+              - row [ref=f63e177]:
+                - cell [ref=f63e178]:
+                  - text: 6ad33f38a2e3a93a656debeb
+                  - button "" [ref=f63e179] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e181]
+                - 'cell "Started at: 17/10/2026 02:56 PM Completed at: 17/10/2026 02:56 PM" [ref=f63e182]'
+                - cell "Nikita Dodeja" [ref=f63e183]
+                - cell "Completed" [ref=f63e184]
+                - cell "1" [ref=f63e185]
+                - cell [ref=f63e186]:
+                  - link "Download" [ref=f63e187] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_d7ad95e0934f9b92cd66c1c8d4f6502d_6025ff024443ae01970f6487_1792229180.csv
+                - cell "NA" [ref=f63e188]
+                - cell [ref=f63e190]:
+                  - link "" [ref=f63e192] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+              - row [ref=f63e194]:
+                - cell [ref=f63e195]:
+                  - text: 6ad33f18a2e3a938926ded49
+                  - button "" [ref=f63e196] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e198]
+                - 'cell "Started at: 17/10/2026 02:55 PM Completed at: 17/10/2026 02:56 PM" [ref=f63e199]'
+                - cell "Nikita Dodeja" [ref=f63e200]
+                - cell "Completed" [ref=f63e201]
+                - cell "2" [ref=f63e202]
+                - cell [ref=f63e203]:
+                  - link "Download" [ref=f63e204] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_f22e8499f38ced270c100066901f0921_6025ff024443ae01970f6487_1792229169.csv
+                - cell "NA" [ref=f63e205]
+                - cell [ref=f63e207]:
+                  - link "" [ref=f63e209] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+              - row [ref=f63e211]:
+                - cell [ref=f63e212]:
+                  - text: 6ad30c9df7794dbed619172b
+                  - button "" [ref=f63e213] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e215]
+                - 'cell "Started at: 17/10/2026 11:20 AM Completed at: 17/10/2026 11:20 AM" [ref=f63e216]'
+                - cell "Nikita Dodeja" [ref=f63e217]
+                - cell "Completed" [ref=f63e218]
+                - cell "3" [ref=f63e219]
+                - cell [ref=f63e220]:
+                  - link "Download" [ref=f63e221] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_b02ac48b77f7653788f884dd65d3f44d_6025ff024443ae01970f6487_1792216226.csv
+                - cell "NA" [ref=f63e222]
+                - cell [ref=f63e224]:
+                  - link "" [ref=f63e226] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+              - row [ref=f63e228]:
+                - cell [ref=f63e229]:
+                  - text: 6ad30c4aa4dfa02db54bf905
+                  - button "" [ref=f63e230] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e232]
+                - 'cell "Started at: 17/10/2026 11:18 AM Completed at: 17/10/2026 11:19 AM" [ref=f63e233]'
+                - cell "Nikita Dodeja" [ref=f63e234]
+                - cell "Completed" [ref=f63e235]
+                - cell "2" [ref=f63e236]
+                - cell [ref=f63e237]:
+                  - link "Download" [ref=f63e238] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_6e741b65eb9efbfd645c6e01a23b2001_6025ff024443ae01970f6487_1792216142.csv
+                - cell "NA" [ref=f63e239]
+                - cell [ref=f63e241]:
+                  - link "" [ref=f63e243] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+              - row [ref=f63e245]:
+                - cell [ref=f63e246]:
+                  - text: 6ad20880659e93f181d61245
+                  - button "" [ref=f63e247] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e249]
+                - 'cell "Started at: 16/10/2026 04:50 PM Completed at: 16/10/2026 04:50 PM" [ref=f63e250]'
+                - cell "Nikita Dodeja" [ref=f63e251]
+                - cell "Completed" [ref=f63e252]
+                - cell "1" [ref=f63e253]
+                - cell [ref=f63e254]:
+                  - link "Download" [ref=f63e255] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_ba2ea14a09cf420fc9b30a8d86a5cbdf_6025ff024443ae01970f6487_1792149637.csv
+                - cell "NA" [ref=f63e256]
+                - cell [ref=f63e258]:
+                  - link "" [ref=f63e260] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+              - row [ref=f63e262]:
+                - cell [ref=f63e263]:
+                  - text: 6ad20866628ba29241f8a16c
+                  - button "" [ref=f63e264] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e266]
+                - 'cell "Started at: 16/10/2026 04:50 PM Completed at: 16/10/2026 04:50 PM" [ref=f63e267]'
+                - cell "Nikita Dodeja" [ref=f63e268]
+                - cell "Completed" [ref=f63e269]
+                - cell "1" [ref=f63e270]
+                - cell [ref=f63e271]:
+                  - link "Download" [ref=f63e272] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_0371a162f7457a6c74cf373b8a0be9ea_6025ff024443ae01970f6487_1792149610.csv
+                - cell "NA" [ref=f63e273]
+                - cell [ref=f63e275]:
+                  - link "" [ref=f63e277] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+              - row [ref=f63e279]:
+                - cell [ref=f63e280]:
+                  - text: 6ad1d462628ba23afff83dc9
+                  - button "" [ref=f63e281] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e283]
+                - 'cell "Started at: 16/10/2026 01:08 PM Completed at: 16/10/2026 01:08 PM" [ref=f63e284]'
+                - cell "Nikita Dodeja" [ref=f63e285]
+                - cell "Completed" [ref=f63e286]
+                - cell "8" [ref=f63e287]
+                - cell [ref=f63e288]:
+                  - link "Download" [ref=f63e289] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_221bfba1b3ec1d0f0babaf314166cce4_6025ff024443ae01970f6487_1792136304.csv
+                - cell "NA" [ref=f63e290]
+                - cell [ref=f63e292]:
+                  - link "" [ref=f63e294] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+              - row [ref=f63e296]:
+                - cell [ref=f63e297]:
+                  - text: 6ad1d3f4628ba2387ef8405b
+                  - button "" [ref=f63e298] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e300]
+                - 'cell "Started at: 16/10/2026 01:06 PM Completed at: 16/10/2026 01:06 PM" [ref=f63e301]'
+                - cell "Nikita Dodeja" [ref=f63e302]
+                - cell "Completed" [ref=f63e303]
+                - cell "6" [ref=f63e304]
+                - cell [ref=f63e305]:
+                  - link "Download" [ref=f63e306] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_1615c70fceba8bc5a6bc0c0a9fb16f8e_6025ff024443ae01970f6487_1792136212.csv
+                - cell "NA" [ref=f63e307]
+                - cell [ref=f63e309]:
+                  - link "" [ref=f63e311] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+              - row [ref=f63e313]:
+                - cell [ref=f63e314]:
+                  - text: 6ad1d3aec71433880a7b3b1a
+                  - button "" [ref=f63e315] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e317]
+                - 'cell "Started at: 16/10/2026 01:05 PM Completed at: 16/10/2026 01:05 PM" [ref=f63e318]'
+                - cell "Nikita Dodeja" [ref=f63e319]
+                - cell "Completed" [ref=f63e320]
+                - cell "11" [ref=f63e321]
+                - cell [ref=f63e322]:
+                  - link "Download" [ref=f63e323] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_29603332f156784cd79f850e1e9dfdec_6025ff024443ae01970f6487_1792136117.csv
+                - cell "NA" [ref=f63e324]
+                - cell [ref=f63e326]:
+                  - link "" [ref=f63e328] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+              - row [ref=f63e330]:
+                - cell [ref=f63e331]:
+                  - text: 6ad1d288a2e3a90cc4c39616
+                  - button "" [ref=f63e332] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e334]
+                - 'cell "Started at: 16/10/2026 01:00 PM Completed at: 16/10/2026 01:01 PM" [ref=f63e335]'
+                - cell "Nikita Dodeja" [ref=f63e336]
+                - cell "Completed" [ref=f63e337]
+                - cell "3" [ref=f63e338]
+                - cell [ref=f63e339]:
+                  - link "Download" [ref=f63e340] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_e021c9b8dcc2bf44d5864fc45b467ad9_6025ff024443ae01970f6487_1792135859.csv
+                - cell "NA" [ref=f63e341]
+                - cell [ref=f63e343]:
+                  - link "" [ref=f63e345] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+              - row [ref=f63e347]:
+                - cell [ref=f63e348]:
+                  - text: 6ad1d107f7794d0117e829ad
+                  - button "" [ref=f63e349] [cursor=pointer]
+                - cell "Reassign Lead Via Selection" [ref=f63e351]
+                - 'cell "Started at: 16/10/2026 12:53 PM Completed at: 16/10/2026 12:54 PM" [ref=f63e352]'
+                - cell "Nikita Dodeja" [ref=f63e353]
+                - cell "Completed" [ref=f63e354]
+                - cell "7" [ref=f63e355]
+                - cell [ref=f63e356]:
+                  - link "Download" [ref=f63e357] [cursor=pointer]:
+                    - /url: https://selldo-static-production.nyc3.digitaloceanspaces.com/reassign_lead_by_selection_776574062aa2f1b1b3caffc85c5c01c3_6025ff024443ae01970f6487_1792135492.csv
+                - cell "NA" [ref=f63e358]
+                - cell [ref=f63e360]:
+                  - link "" [ref=f63e362] [cursor=pointer]:
+                    - /url: javascript:void(0);
+                  - text: 
+          - navigation "Pagination" [ref=f63e365]:
+            - list [ref=f63e366]:
+              - listitem [ref=f63e367]:
+                - generic [ref=f63e368] [cursor=pointer]: ← Previous
+              - listitem [ref=f63e369]:
+                - generic: "1"
+              - listitem [ref=f63e370]:
+                - link "2" [ref=f63e371] [cursor=pointer]:
+                  - /url: /client/bulk_jobs?page=2
+              - listitem [ref=f63e372]:
+                - link "3" [ref=f63e373] [cursor=pointer]:
+                  - /url: /client/bulk_jobs?page=3
+              - listitem [ref=f63e374]:
+                - link "4" [ref=f63e375] [cursor=pointer]:
+                  - /url: /client/bulk_jobs?page=4
+              - listitem [ref=f63e376]:
+                - link "5" [ref=f63e377] [cursor=pointer]:
+                  - /url: /client/bulk_jobs?page=5
+              - listitem [ref=f63e378]:
+                - link "6" [ref=f63e379] [cursor=pointer]:
+                  - /url: /client/bulk_jobs?page=6
+              - listitem [ref=f63e380]:
+                - link "7" [ref=f63e381] [cursor=pointer]:
+                  - /url: /client/bulk_jobs?page=7
+              - listitem [ref=f63e382]:
+                - link "8" [ref=f63e383] [cursor=pointer]:
+                  - /url: /client/bulk_jobs?page=8
+              - listitem [ref=f63e384]:
+                - link "9" [ref=f63e385] [cursor=pointer]:
+                  - /url: /client/bulk_jobs?page=9
+              - listitem [ref=f63e386]:
+                - generic [ref=f63e387] [cursor=pointer]: …
+              - listitem [ref=f63e388]:
+                - link "14" [ref=f63e389] [cursor=pointer]:
+                  - /url: /client/bulk_jobs?page=14
+              - listitem [ref=f63e390]:
+                - link "15" [ref=f63e391] [cursor=pointer]:
+                  - /url: /client/bulk_jobs?page=15
+              - listitem [ref=f63e392]:
+                - link "Next →" [ref=f63e393] [cursor=pointer]:
+                  - /url: /client/bulk_jobs?page=2
+        - text: 
+  - text:   
+  - iframe [aria-hidden] [ref=f63e394]:
+    - generic [ref=f64e4]:
+      - generic [ref=f64e5]:
+        - heading "Latest changes" [level=3] [ref=f64e7]
+        - generic [ref=f64e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f64e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f64e10]: New
+            - generic [ref=f64e11]: Improvement
+            - strong [ref=f64e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f64e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f64e14]: New
+            - generic [ref=f64e15]: Improvement
+            - strong [ref=f64e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f64e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f64e18]: New
+            - strong [ref=f64e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f64e20]:
+          - link "Sell-Do updates" [ref=f64e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f64e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f64e23]:
+        - generic [ref=f64e24]:
+          - generic [ref=f64e25]:
+            - link [ref=f64e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f64e27]
+          - paragraph [ref=f64e30]:
+            - link "Read the whole post" [ref=f64e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f64e32]:
+          - generic [ref=f64e33]:
+            - link [ref=f64e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f64e35]
+          - paragraph [ref=f64e38]:
+            - link "Read the whole post" [ref=f64e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f64e40]:
+          - generic [ref=f64e41]:
+            - link [ref=f64e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f64e43]
+          - paragraph [ref=f64e46]:
+            - link "Read the whole post" [ref=f64e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

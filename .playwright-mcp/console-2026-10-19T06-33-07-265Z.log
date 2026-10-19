@@ -1,0 +1,4 @@
+[     716ms] ReferenceError: $ is not defined
+    at https://app.sell.do/client/users/6025ff054443ae01970f64e4/edit:86:3
+[     720ms] ReferenceError: $ is not defined
+    at https://app.sell.do/client/users/6025ff054443ae01970f64e4/edit:148:1

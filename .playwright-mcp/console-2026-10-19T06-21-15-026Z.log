@@ -1,0 +1,2 @@
+[     319ms] ReferenceError: $ is not defined
+    at https://app.sell.do/client/configuration/pre_sales:78:2

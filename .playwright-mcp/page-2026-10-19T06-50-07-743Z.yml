@@ -1,0 +1,216 @@
+- generic [active] [ref=f151e1]:
+  - navigation [ref=f151e2]:
+    - generic [ref=f151e3]:
+      - generic [ref=f151e4]: 
+      - generic [ref=f151e6]:
+        - link "Search..." [ref=f151e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f151e9]
+      - searchbox "Search..." [ref=f151e10]
+    - generic [ref=f151e11]:
+      - generic [ref=f151e12]:
+        - link "" [ref=f151e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f151e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f151e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f151e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f151e22]:
+        - generic [aria-hidden] [ref=f151e23]: 
+        - text: "+918069150607"
+      - generic [ref=f151e24]: "Balance: ₹ -2687.14"
+      - generic [ref=f151e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f151e26]:
+    - generic [ref=f151e27]:
+      - link "" [ref=f151e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f151e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f151e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f151e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f151e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f151e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f151e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f151e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f151e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f151e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f151e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f151e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f151e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f151e76]:
+    - navigation [ref=f151e77]:
+      - listitem [ref=f151e78]:
+        - link "Home" [ref=f151e79] [cursor=pointer]:
+          - /url: /client/dashboard/settings
+      - listitem [ref=f151e80]:  Custom Reports
+    - generic: 
+    - generic [ref=f151e84]:
+      - generic [ref=f151e85]: 6 items.
+      - generic [ref=f151e89]:
+        - group [ref=f151e90]:
+          - link [ref=f151e91] [cursor=pointer]:
+            - /url: ""
+            - generic [aria-hidden] [ref=f151e92]: 
+        - group [ref=f151e93]:
+          - generic [ref=f151e94]:
+            - searchbox "Search" [ref=f151e95]
+            - generic [ref=f151e96] [cursor=pointer]
+        - group [ref=f151e99]:
+          - link [ref=f151e100] [cursor=pointer]:
+            - /url: ""
+            - generic [aria-hidden] [ref=f151e101]: 
+        - group [ref=f151e102]:
+          - link [ref=f151e103] [cursor=pointer]:
+            - /url: ""
+            - generic [aria-hidden] [ref=f151e104]: 
+        - group [ref=f151e105]:
+          - link "Create New Report" [ref=f151e106] [cursor=pointer]:
+            - /url: /client/reporting/custom-reports/new
+    - table [ref=f151e109]:
+      - rowgroup [ref=f151e110]:
+        - row [ref=f151e111]:
+          - columnheader "Report Name" [ref=f151e113]
+          - columnheader "Entity Type" [ref=f151e116]
+          - columnheader "Report Type" [ref=f151e119]
+          - columnheader "Chart Type" [ref=f151e122]
+          - columnheader "Created At ▲" [ref=f151e125] [cursor=pointer]:
+            - generic [ref=f151e126]: Created At
+            - generic [ref=f151e127]: ▲
+          - columnheader "Updated At ▲" [ref=f151e129] [cursor=pointer]:
+            - generic [ref=f151e130]: Updated At
+            - generic [ref=f151e131]: ▲
+      - rowgroup [ref=f151e133]:
+        - row [ref=f151e134]:
+          - cell "Inventory Snapshot" [ref=f151e135]
+          - cell "Project Unit" [ref=f151e137]
+          - cell "Multi Dimensional" [ref=f151e139]
+          - cell "Table" [ref=f151e141]
+          - cell "Aug 26, 2024 12:24:44 PM" [ref=f151e143]
+          - cell "Aug 26, 2024 12:24:44 PM" [ref=f151e145]
+          - cell [ref=f151e147]:
+            - button [ref=f151e150] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f151e151]: 
+        - row [ref=f151e152]:
+          - cell "MTD Bookings by Sales" [ref=f151e153]
+          - cell "Booking Detail" [ref=f151e155]
+          - cell "Multi Dimensional" [ref=f151e157]
+          - cell "Table" [ref=f151e159]
+          - cell "Aug 26, 2024 12:24:44 PM" [ref=f151e161]
+          - cell "Aug 26, 2024 12:24:44 PM" [ref=f151e163]
+          - cell [ref=f151e165]:
+            - button [ref=f151e168] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f151e169]: 
+        - row [ref=f151e170]:
+          - cell "MTD Booking by Projects" [ref=f151e171]
+          - cell "Booking Detail" [ref=f151e173]
+          - cell "Multi Dimensional" [ref=f151e175]
+          - cell "Table" [ref=f151e177]
+          - cell "Aug 26, 2024 12:24:44 PM" [ref=f151e179]
+          - cell "Aug 26, 2024 12:24:44 PM" [ref=f151e181]
+          - cell [ref=f151e183]:
+            - button [ref=f151e186] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f151e187]: 
+        - row [ref=f151e188]:
+          - cell "MTD Visits by Sales" [ref=f151e189]
+          - cell "Site Visit" [ref=f151e191]
+          - cell "Multi Dimensional" [ref=f151e193]
+          - cell "Bar" [ref=f151e195]
+          - cell "Aug 26, 2024 12:24:44 PM" [ref=f151e197]
+          - cell "Aug 26, 2024 12:24:44 PM" [ref=f151e199]
+          - cell [ref=f151e201]:
+            - button [ref=f151e204] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f151e205]: 
+        - row [ref=f151e206]:
+          - cell "MTD Visits by Project" [ref=f151e207]
+          - cell "Site Visit" [ref=f151e209]
+          - cell "Multi Dimensional" [ref=f151e211]
+          - cell "Bar" [ref=f151e213]
+          - cell "Aug 26, 2024 12:24:44 PM" [ref=f151e215]
+          - cell "Aug 26, 2024 12:24:44 PM" [ref=f151e217]
+          - cell [ref=f151e219]:
+            - button [ref=f151e222] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f151e223]: 
+        - row [ref=f151e224]:
+          - cell "Lead Stage Stats" [ref=f151e225]
+          - cell "Lead" [ref=f151e227]
+          - cell "Multi Dimensional" [ref=f151e229]
+          - cell "Bar" [ref=f151e231]
+          - cell "Aug 26, 2024 12:24:44 PM" [ref=f151e233]
+          - cell "Aug 26, 2024 12:24:44 PM" [ref=f151e235]
+          - cell [ref=f151e237]:
+            - button [ref=f151e240] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f151e241]: 
+    - navigation [ref=f151e243]:
+      - generic [ref=f151e244]: 1-6 of 6
+      - generic [ref=f151e245]:
+        - button "First Page" [disabled] [ref=f151e246]
+        - button "Previous Page" [disabled] [ref=f151e250]
+        - button "Next Page" [disabled] [ref=f151e254]
+        - button "Last Page" [disabled] [ref=f151e258]
+  - iframe [aria-hidden] [ref=f151e262]:
+    - generic [ref=f152e4]:
+      - generic [ref=f152e5]:
+        - heading "Latest changes" [level=3] [ref=f152e7]
+        - generic [ref=f152e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f152e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f152e10]: New
+            - generic [ref=f152e11]: Improvement
+            - strong [ref=f152e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f152e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f152e14]: New
+            - generic [ref=f152e15]: Improvement
+            - strong [ref=f152e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f152e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f152e18]: New
+            - strong [ref=f152e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f152e20]:
+          - link "Sell-Do updates" [ref=f152e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f152e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f152e23]:
+        - generic [ref=f152e24]:
+          - generic [ref=f152e25]:
+            - link [ref=f152e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f152e27]
+          - paragraph [ref=f152e30]:
+            - link "Read the whole post" [ref=f152e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f152e32]:
+          - generic [ref=f152e33]:
+            - link [ref=f152e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f152e35]
+          - paragraph [ref=f152e38]:
+            - link "Read the whole post" [ref=f152e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f152e40]:
+          - generic [ref=f152e41]:
+            - link [ref=f152e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f152e43]
+          - paragraph [ref=f152e46]:
+            - link "Read the whole post" [ref=f152e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

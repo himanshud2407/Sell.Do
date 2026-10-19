@@ -1,0 +1,210 @@
+- generic [active] [ref=f23e1]:
+  - navigation [ref=f23e2]:
+    - generic [ref=f23e3]:
+      - generic [ref=f23e4]: 
+      - generic [ref=f23e6]:
+        - link "Search..." [ref=f23e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f23e9]
+      - searchbox "Search..." [ref=f23e10]
+    - generic [ref=f23e11]:
+      - generic [ref=f23e12]:
+        - link "" [ref=f23e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f23e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f23e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f23e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f23e22]:
+        - generic [aria-hidden] [ref=f23e23]: 
+        - text: "+918069150607"
+      - generic [ref=f23e24]: "Balance: ₹ -2683.94"
+      - generic [ref=f23e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f23e26]:
+    - generic [ref=f23e27]:
+      - link "" [ref=f23e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f23e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f23e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f23e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f23e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f23e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f23e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f23e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f23e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f23e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f23e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f23e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f23e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f23e71]:
+    - navigation "breadcrumb" [ref=f23e74]:
+      - list [ref=f23e75]:
+        - listitem [ref=f23e76]:
+          - link "Home" [ref=f23e77] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f23e78]:
+          - text: 
+          - link "Project & Inventory Management" [ref=f23e79] [cursor=pointer]:
+            - /url: /client/dashboard/products
+        - listitem [ref=f23e80]:
+          - text: 
+          - link "All Projects" [ref=f23e81] [cursor=pointer]:
+            - /url: /client/projects?status=true
+        - listitem [ref=f23e82]:
+          - text: 
+          - generic [ref=f23e83]: Nivaan Meadows - About
+    - form [ref=f23e85]:
+      - generic [ref=f23e86]:
+        - generic [ref=f23e88]:
+          - generic [ref=f23e89]: Nivaan Meadows
+          - list [ref=f23e91] [cursor=pointer]:
+            - listitem [ref=f23e92]:
+              - link "About" [ref=f23e93]:
+                - /url: /client/projects/602f8a6fc82561439a2fd7a8/about
+            - listitem [ref=f23e94]:
+              - link "Address" [ref=f23e95]:
+                - /url: /client/projects/602f8a6fc82561439a2fd7a8/address
+            - listitem [ref=f23e96]:
+              - link "Virtual Walkthrough" [ref=f23e97]:
+                - /url: /client/projects/602f8a6fc82561439a2fd7a8/walkthroughs
+            - listitem [ref=f23e98]:
+              - link "Amenities" [ref=f23e99]:
+                - /url: /client/projects/602f8a6fc82561439a2fd7a8/specs_amenities
+            - listitem [ref=f23e100]:
+              - link "Edit price quote and brochure" [ref=f23e101]:
+                - /url: /client/projects/602f8a6fc82561439a2fd7a8/brochure_price_quote
+            - listitem [ref=f23e102]:
+              - link "Portal Integration Codes" [ref=f23e103]:
+                - /url: /client/projects/602f8a6fc82561439a2fd7a8/extras
+        - generic [ref=f23e104]:
+          - generic [ref=f23e105]:
+            - generic [ref=f23e106]:
+              - generic [ref=f23e107]: Project Name *
+              - textbox "Project Name *" [ref=f23e108]:
+                - /placeholder: Name
+                - text: Nivaan Meadows
+            - generic [ref=f23e109]:
+              - generic [ref=f23e110]: Description
+              - generic [ref=f23e111]:
+                - generic [ref=f23e112]:
+                  - button "" [ref=f23e115] [cursor=pointer]
+                  - generic [ref=f23e117]:
+                    - button "" [ref=f23e118] [cursor=pointer]
+                    - button "" [ref=f23e120] [cursor=pointer]
+                    - button "" [ref=f23e122] [cursor=pointer]
+                    - button "" [ref=f23e124] [cursor=pointer]
+                  - generic [ref=f23e127]:
+                    - button "14" [ref=f23e128] [cursor=pointer]
+                    - text: 
+                  - generic [ref=f23e129]:
+                    - button "" [ref=f23e130] [cursor=pointer]
+                    - button "" [ref=f23e132] [cursor=pointer]
+                    - generic [ref=f23e134]:
+                      - button "" [ref=f23e135] [cursor=pointer]
+                      - text:      
+                - generic [ref=f23e138]:
+                  - paragraph [ref=f23e139]: Nivaan Meadows greets you with nature's boundless beauty at one of Pune City's most sought after locations, Kesnand-Wagholi. Set foot in with a lasting impression of the grand entrance that opens doors to endless opportunities of your new dream abode. A vast green spread of 390 plots for you to build your own blissful masterpiece. A safe gated community with facilities to fulfill your wellness dreams and urban social life's needs.
+                  - paragraph [ref=f23e140]: Live your dream of owning a bungalow in a gated residential community that not only offers spacious settings amidst a picturesque environment but also embodies elements that come together to form a balanced and peaceful lifestyle.
+            - generic [ref=f23e146]:
+              - generic [ref=f23e147]: Rera project id
+              - textbox "RERA PROJECT ID" [ref=f23e148]: P52100023936
+            - generic [ref=f23e149]:
+              - generic [ref=f23e150]: Sales
+              - link "" [ref=f23e151] [cursor=pointer]:
+                - /url: javascript:;
+              - list [ref=f23e154]:
+                - listitem [ref=f23e155]:
+                  - textbox [ref=f23e156]: Sales
+              - textbox "Sales" [ref=f23e157]
+            - generic [ref=f23e158]:
+              - generic [ref=f23e159]: Notify to Emails
+              - link "" [ref=f23e160] [cursor=pointer]:
+                - /url: javascript:;
+              - list [ref=f23e163]:
+                - listitem [ref=f23e164]:
+                  - textbox "Notify to Emails" [ref=f23e165]: Enter emails
+              - textbox "Enter emails" [ref=f23e166]
+            - generic [ref=f23e167]:
+              - generic [ref=f23e169]:
+                - generic [ref=f23e170]: Launched On
+                - textbox "Launched On" [ref=f23e171]
+              - generic [ref=f23e173]:
+                - generic [ref=f23e174]: Expected Completion
+                - textbox "Expected Completion" [ref=f23e175]
+              - generic [ref=f23e177]:
+                - generic [ref=f23e178]: Possession
+                - textbox "Possession" [ref=f23e179]: 30/06/2021
+            - generic [ref=f23e180]:
+              - generic [ref=f23e181]: Is active
+              - generic [ref=f23e182]: Active
+              - generic [ref=f23e184]: Inactive
+              - text: 
+          - button "Save" [ref=f23e188] [cursor=pointer]
+  - iframe [aria-hidden] [ref=f23e189]:
+    - generic [ref=f24e4]:
+      - generic [ref=f24e5]:
+        - heading "Latest changes" [level=3] [ref=f24e7]
+        - generic [ref=f24e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f24e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f24e10]: New
+            - generic [ref=f24e11]: Improvement
+            - strong [ref=f24e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f24e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f24e14]: New
+            - generic [ref=f24e15]: Improvement
+            - strong [ref=f24e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f24e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f24e18]: New
+            - strong [ref=f24e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f24e20]:
+          - link "Sell-Do updates" [ref=f24e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f24e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f24e23]:
+        - generic [ref=f24e24]:
+          - generic [ref=f24e25]:
+            - link [ref=f24e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f24e27]
+          - paragraph [ref=f24e30]:
+            - link "Read the whole post" [ref=f24e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f24e32]:
+          - generic [ref=f24e33]:
+            - link [ref=f24e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f24e35]
+          - paragraph [ref=f24e38]:
+            - link "Read the whole post" [ref=f24e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f24e40]:
+          - generic [ref=f24e41]:
+            - link [ref=f24e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f24e43]
+          - paragraph [ref=f24e46]:
+            - link "Read the whole post" [ref=f24e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

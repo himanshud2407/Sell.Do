@@ -1,0 +1,241 @@
+- generic [active] [ref=f181e1]:
+  - navigation [ref=f181e2]:
+    - generic [ref=f181e3]:
+      - generic [ref=f181e4]: 
+      - generic [ref=f181e6]:
+        - link "Search..." [ref=f181e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f181e9]
+      - searchbox "Search..." [ref=f181e10]
+    - generic [ref=f181e11]:
+      - generic [ref=f181e12]:
+        - link "" [ref=f181e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f181e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f181e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f181e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f181e22]:
+        - generic [aria-hidden] [ref=f181e23]: 
+        - text: "+918069150607"
+      - generic [ref=f181e24]: "Balance: ₹ -2688.14"
+      - generic [ref=f181e25]: "Leads Balance: 8101"
+  - text:  
+  - generic [ref=f181e26]:
+    - generic [ref=f181e27]:
+      - link "" [ref=f181e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f181e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f181e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f181e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f181e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f181e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f181e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f181e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f181e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f181e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f181e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f181e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f181e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f181e71]:
+    - generic [ref=f181e76]:
+      - generic [ref=f181e77] [cursor=pointer]: 
+      - generic [ref=f181e79] [cursor=pointer]: 
+      - generic [ref=f181e81] [cursor=pointer]: 
+      - generic [ref=f181e83] [cursor=pointer]: 
+    - generic [ref=f181e85]:
+      - generic [ref=f181e86]:
+        - generic [ref=f181e87]:
+          - heading [level=3] [ref=f181e89]:
+            - text: Site visit by campaign
+            - link "" [ref=f181e90] [cursor=pointer]:
+              - /url: javascript:;
+          - generic [ref=f181e93]:
+            - generic [ref=f181e94]: 
+            - textbox "Use Custom Range to edit" [ref=f181e95]:
+              - /placeholder: Duration
+              - text: 01/10/2026 00:00:00 - 19/10/2026 23:59:59
+          - link "Filters (3) " [ref=f181e97] [cursor=pointer]:
+            - /url: javascript:;
+            - text: Filters (3)
+            - generic [ref=f181e98]: 
+        - generic [ref=f181e99]:
+          - generic [ref=f181e102]:
+            - link "Campaign" [ref=f181e103]:
+              - /url: javascript:;
+            - text: "|"
+            - link "Publisher" [ref=f181e104] [cursor=pointer]:
+              - /url: javascript:;
+            - text: "|"
+            - link "Sub Source / Sub Campaign" [ref=f181e105] [cursor=pointer]:
+              - /url: javascript:;
+            - text: "|"
+            - link "Medium" [ref=f181e106] [cursor=pointer]:
+              - /url: javascript:;
+            - text: "|"
+            - link "Medium Value" [ref=f181e107] [cursor=pointer]:
+              - /url: javascript:;
+            - text: "|"
+          - generic [ref=f181e109]:
+            - link " Refresh" [ref=f181e110] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=f181e111]: 
+              - text: Refresh
+            - text: "|"
+            - link " Print" [ref=f181e112] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=f181e113]: 
+              - text: Print
+            - text: "|"
+            - link " Export" [ref=f181e114] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=f181e115]: 
+              - text: Export
+      - img [ref=f181e119]:
+        - generic [ref=f181e122]: Leads may show interest in multiple campaigns. So the count may not match total leads.
+        - generic [ref=f181e127]:
+          - generic [ref=f181e128] [cursor=pointer]
+          - generic [ref=f181e151] [cursor=pointer]
+          - generic [ref=f181e154] [cursor=pointer]
+          - generic [ref=f181e157] [cursor=pointer]
+          - generic [ref=f181e159] [cursor=pointer]
+          - generic [ref=f181e161] [cursor=pointer]
+          - generic [ref=f181e163] [cursor=pointer]
+          - generic [ref=f181e166] [cursor=pointer]
+          - generic [ref=f181e177] [cursor=pointer]
+        - generic [ref=f181e193]: Total Site Visits - 210
+        - generic [ref=f181e194]:
+          - generic [ref=f181e195]: "77"
+          - generic [ref=f181e196]: "11"
+          - generic [ref=f181e197]: "11"
+          - generic [ref=f181e198]: "33"
+          - generic [ref=f181e199]: "5555"
+          - generic [ref=f181e200]: "11"
+          - generic [ref=f181e201]: "11"
+          - generic [ref=f181e202]: "44"
+          - generic [ref=f181e203]: "77"
+          - generic [ref=f181e204]: "33"
+          - generic [ref=f181e205]: "2222"
+          - generic [ref=f181e206]: "11"
+          - generic [ref=f181e207]: "33"
+          - generic [ref=f181e208]: "11"
+          - generic [ref=f181e209]: "66"
+          - generic [ref=f181e210]: "77"
+          - generic [ref=f181e211]: "11"
+          - generic [ref=f181e212]: "44"
+          - generic [ref=f181e213]: "11"
+          - generic [ref=f181e214]: "66"
+          - generic [ref=f181e215]: "6262"
+          - generic [ref=f181e216]: "55"
+          - generic [ref=f181e217]: "11"
+          - generic [ref=f181e218]: "22"
+          - generic [ref=f181e219]: "22"
+          - generic [ref=f181e220]: "22"
+          - generic [ref=f181e221]: "11"
+        - generic [ref=f181e225]:
+          - generic [ref=f181e226]: Nivaan Meadows
+          - generic [ref=f181e229]: Self Properties
+          - generic [ref=f181e232]: nivaan nirvana
+          - generic [ref=f181e235]: Nivaan Hills
+          - generic [ref=f181e238]: Nivaan Water Edge
+          - generic [ref=f181e241]: Nivaan Sparsh
+          - generic [ref=f181e244]: Pristine City
+          - generic [ref=f181e247]: Nivaan Grandeur
+          - generic [ref=f181e250]: Nivaan Vivanta
+        - generic [ref=f181e253]:
+          - generic [ref=f181e254]: Organic
+          - generic [ref=f181e255]: Magic Bricks Dec 2025
+          - generic [ref=f181e256]: Nm Fb Ls2 Image2 Mar
+          - generic [ref=f181e257]: Nivaan Meadows Website
+          - generic [ref=f181e258]: Channel Partner
+          - generic [ref=f181e259]: Sparsh Eng June 25
+          - generic [ref=f181e260]: Remarketing
+          - generic [ref=f181e261]: Housing Dec 2025
+          - generic [ref=f181e262]: Team-default-outbound
+          - generic [ref=f181e263]: Nm Fb Ls3 Image2 Mar
+          - generic [ref=f181e264]: Nivaan Meadows Site Hoarding
+          - generic [ref=f181e265]: Ss Fb Jan 26 3 Images
+          - generic [ref=f181e266]: Nm Mof Work Lg Man
+          - generic [ref=f181e267]: Nm Fb Vdo Det Cpl Mah June
+          - generic [ref=f181e268]: Reference
+          - generic [ref=f181e269]: Nm Mof Int & Life Lg Man
+          - generic [ref=f181e270]: 99 Acer Nirvana
+          - generic [ref=f181e271]: Nm Mof Re Lg Man
+          - generic [ref=f181e272]: Exhibition
+          - generic [ref=f181e273]: Suraksha Website
+          - generic [ref=f181e274]: Walkin
+          - generic [ref=f181e275]: Google Ads
+          - generic [ref=f181e276]: Nivaan Hills Remarketing
+          - generic [ref=f181e277]: Nm | Fb | Open | Dec 25 99l
+          - generic [ref=f181e278]: Fb Sparsh Mar Bung + Plot
+          - generic [ref=f181e279]: Nivaan Water Edge Webpage
+          - generic [ref=f181e280]: Grandeur Lead Campaign
+      - text:            
+  - iframe [aria-hidden] [ref=f181e281]:
+    - generic [ref=f182e4]:
+      - generic [ref=f182e5]:
+        - heading "Latest changes" [level=3] [ref=f182e7]
+        - generic [ref=f182e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f182e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f182e10]: New
+            - generic [ref=f182e11]: Improvement
+            - strong [ref=f182e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f182e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f182e14]: New
+            - generic [ref=f182e15]: Improvement
+            - strong [ref=f182e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f182e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f182e18]: New
+            - strong [ref=f182e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f182e20]:
+          - link "Sell-Do updates" [ref=f182e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f182e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f182e23]:
+        - generic [ref=f182e24]:
+          - generic [ref=f182e25]:
+            - link [ref=f182e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f182e27]
+          - paragraph [ref=f182e30]:
+            - link "Read the whole post" [ref=f182e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f182e32]:
+          - generic [ref=f182e33]:
+            - link [ref=f182e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f182e35]
+          - paragraph [ref=f182e38]:
+            - link "Read the whole post" [ref=f182e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f182e40]:
+          - generic [ref=f182e41]:
+            - link [ref=f182e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f182e43]
+          - paragraph [ref=f182e46]:
+            - link "Read the whole post" [ref=f182e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414
+  - text: 

@@ -1,0 +1,388 @@
+- generic [active] [ref=f50e1]:
+  - navigation [ref=f50e2]:
+    - generic [ref=f50e3]:
+      - generic [ref=f50e4]: 
+      - generic [ref=f50e6]:
+        - link "Search..." [ref=f50e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f50e9]
+      - searchbox "Search..." [ref=f50e10]
+    - generic [ref=f50e11]:
+      - generic [ref=f50e12]:
+        - link "" [ref=f50e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f50e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f50e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f50e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f50e22]:
+        - generic [aria-hidden] [ref=f50e23]: 
+        - text: "+918069150607"
+      - generic [ref=f50e24]: "Balance: ₹ -2684.74"
+      - generic [ref=f50e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f50e26]:
+    - generic [ref=f50e27]:
+      - link "" [ref=f50e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f50e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f50e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f50e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f50e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f50e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f50e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f50e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f50e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f50e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f50e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f50e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f50e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f50e71]:
+    - navigation "breadcrumb" [ref=f50e74]:
+      - list [ref=f50e75]:
+        - listitem [ref=f50e76]:
+          - link "Home" [ref=f50e77] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f50e78]:
+          - text: 
+          - link "Settings Management" [ref=f50e79] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f50e80]:
+          - text: 
+          - link "Routing Setup" [ref=f50e81] [cursor=pointer]:
+            - /url: /client/dashboard/routing_setup
+        - listitem [ref=f50e82]:  Routing Configuration
+    - generic [ref=f50e84]:
+      - generic [ref=f50e86]:
+        - generic [ref=f50e87]: administration
+        - list [ref=f50e88] [cursor=pointer]:
+          - listitem [ref=f50e89]:
+            - link "User Management" [ref=f50e90]:
+              - /url: /client/dashboard/users
+          - listitem [ref=f50e91]:
+            - link "Billing" [ref=f50e92]:
+              - /url: /client/dashboard/billing
+          - listitem [ref=f50e93]:
+            - link "Search Lists" [ref=f50e94]:
+              - /url: /client/search_criteria
+          - listitem [ref=f50e95]:
+            - link "Lead Settings" [ref=f50e96]:
+              - /url: /client/dashboard/lead_settings
+          - listitem [ref=f50e97]:
+            - link "Import" [ref=f50e98]:
+              - /url: /client/dashboard/import
+          - listitem [ref=f50e99]:
+            - link "Export" [ref=f50e100]:
+              - /url: /client/export/export_types
+          - listitem [ref=f50e101]:
+            - link "Telephony" [ref=f50e102]:
+              - /url: /client/dashboard/telephony_settings
+          - listitem [ref=f50e103]:
+            - link "Partner Settings" [ref=f50e104]:
+              - /url: /client/dashboard/channel_partners_settings
+          - listitem [ref=f50e105]:
+            - link "Custom Fields" [ref=f50e106]:
+              - /url: /client/dashboard/custom_fields
+          - listitem [ref=f50e107]:
+            - link "Company Details" [ref=f50e108]:
+              - /url: /client/edit
+          - listitem [ref=f50e109]:
+            - link "Pre/Sales Configuration" [ref=f50e110]:
+              - /url: /client/configuration/pre_sales
+          - listitem [ref=f50e111]:
+            - link "Booking Lists" [ref=f50e112]:
+              - /url: /client/bookings_search_criteria
+          - listitem [ref=f50e113]:
+            - link "Goals" [ref=f50e114]:
+              - /url: /client/goals
+          - listitem [ref=f50e115]:
+            - link "User Targets" [ref=f50e116]:
+              - /url: /client/user_targets
+          - listitem [ref=f50e117]:
+            - link "Reassign Leads" [ref=f50e118]:
+              - /url: /client/reassign_leads_form
+          - listitem [ref=f50e119]:
+            - link "Bulk Job History" [ref=f50e120]:
+              - /url: /client/bulk_jobs
+          - listitem [ref=f50e121]:
+            - link "Webhook History" [ref=f50e122]:
+              - /url: /client/audits?type=Webhook
+          - listitem [ref=f50e123]:
+            - link "Routing Setup" [ref=f50e124]:
+              - /url: /client/dashboard/routing_setup
+          - listitem [ref=f50e125]:
+            - link "Bulk Check Lead Presence" [ref=f50e126]:
+              - /url: /client/bulk_check_leads_presence_form
+      - generic [ref=f50e127]:
+        - generic [ref=f50e131]:
+          - generic [ref=f50e132]:
+            - generic [ref=f50e133]:
+              - generic [aria-hidden] [ref=f50e134]: 
+              - generic [ref=f50e135]: Settings
+            - generic [ref=f50e137]:
+              - generic [ref=f50e138]:
+                - text: Enable Auxiliary Routing
+                - link "" [ref=f50e139] [cursor=pointer]:
+                  - /url: javascript:;
+              - generic [ref=f50e141]: Enabled
+            - generic [ref=f50e143]:
+              - generic [ref=f50e144]:
+                - generic [ref=f50e145]: Routing Strategy
+                - generic [ref=f50e146]:
+                  - link "Round Robin" [ref=f50e147] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                  - textbox [ref=f50e151]
+                - textbox [ref=f50e152]: round_robin
+              - generic [ref=f50e153]:
+                - generic [ref=f50e154]:
+                  - text: Quota Window
+                  - link "" [ref=f50e155] [cursor=pointer]:
+                    - /url: javascript:;
+                - generic [ref=f50e157]:
+                  - link "Daily" [ref=f50e158] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                  - textbox [ref=f50e162]
+                - textbox [ref=f50e163]: daily
+          - generic [ref=f50e164]:
+            - generic [ref=f50e165]:
+              - generic [aria-hidden] [ref=f50e166]: 
+              - generic [ref=f50e167]: Matching Priority
+            - generic [ref=f50e168]:
+              - generic [ref=f50e169]:
+                - text: Routing Priority
+                - link "" [ref=f50e170] [cursor=pointer]:
+                  - /url: javascript:;
+                - generic [ref=f50e172]: You can add up to 5 routing priorities.
+              - generic [ref=f50e173]:
+                - generic [ref=f50e174]:
+                  - list [ref=f50e176]:
+                    - listitem [ref=f50e177]:
+                      - textbox [ref=f50e178]: Routing Priority
+                  - textbox "Routing Priority" [ref=f50e179]
+                - button "Add" [ref=f50e180] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f50e181]: 
+            - generic [ref=f50e182]:
+              - generic [ref=f50e183]:
+                - generic [ref=f50e184]: "1"
+                - generic [ref=f50e185]: Project
+                - generic [ref=f50e186]: Source
+                - button "Close" [ref=f50e187] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f50e188]: ×
+              - generic [ref=f50e189]:
+                - generic [ref=f50e190]: "2"
+                - generic [ref=f50e191]: Project
+                - button "Close" [ref=f50e192] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f50e193]: ×
+              - generic [ref=f50e194]:
+                - generic [ref=f50e195]: "3"
+                - generic [ref=f50e196]: Project
+                - generic [ref=f50e197]: Campaign
+                - generic [ref=f50e198]: Source
+                - generic [ref=f50e199]: Sub Source
+                - generic [ref=f50e200]: Medium Type
+                - generic [ref=f50e201]: Medium Value
+                - button "Close" [ref=f50e202] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f50e203]: ×
+          - button "Save" [ref=f50e205] [cursor=pointer]
+        - generic [ref=f50e206]:
+          - generic [ref=f50e210]:
+            - generic [ref=f50e212]:
+              - generic [aria-hidden] [ref=f50e213]: 
+              - generic [ref=f50e214]: Routing Rules
+            - generic [ref=f50e215]:
+              - link "New Routing Rule" [ref=f50e216] [cursor=pointer]:
+                - /url: /client/configuration/routing_configuration/routing_rules/new
+              - generic [ref=f50e217]:
+                - button "Bulk Modify Choose File" [ref=f50e218] [cursor=pointer]:
+                  - generic [ref=f50e219]: Bulk Modify
+                  - button "Choose File" [ref=f50e220]
+                - link "Download sample file" [ref=f50e221] [cursor=pointer]:
+                  - /url: /client/configuration/routing_configuration/routing_rules/download_sample_file?file_name=bulk-modify-routing-rules-sample.csv
+                  - generic [aria-hidden] [ref=f50e222]: 
+              - button "Filters" [ref=f50e224] [cursor=pointer]:
+                - generic [ref=f50e225]: 
+          - generic [ref=f50e227]:
+            - generic [ref=f50e228]:
+              - generic [ref=f50e231]:
+                - generic [ref=f50e232]:
+                  - generic [ref=f50e233]:
+                    - generic [ref=f50e234]: Name
+                    - generic "Nivaan Meadows" [ref=f50e235]
+                  - generic [ref=f50e236]:
+                    - link "Edit" [ref=f50e237] [cursor=pointer]:
+                      - /url: /client/configuration/routing_configuration/routing_rules/69fc514f735dafd8361bf75a/edit
+                    - link "Delete" [ref=f50e238] [cursor=pointer]:
+                      - /url: /client/configuration/routing_configuration/routing_rules/69fc514f735dafd8361bf75a
+                - generic [ref=f50e239]:
+                  - generic [ref=f50e240]:
+                    - generic [aria-hidden] [ref=f50e241]: 
+                    - generic [ref=f50e242]: Settings
+                  - generic [ref=f50e243]:
+                    - generic [ref=f50e244]:
+                      - generic [ref=f50e245]: Stickiness
+                      - generic [ref=f50e246]: "Yes"
+                    - generic [ref=f50e248]:
+                      - generic [ref=f50e249]: NRI Routing
+                      - generic [ref=f50e250]: "No"
+                    - generic [ref=f50e252]:
+                      - generic [ref=f50e253]: Routing Rule Strategy
+                      - generic [ref=f50e254]: Round Robin
+                - generic [ref=f50e256]:
+                  - generic [ref=f50e257]:
+                    - generic [aria-hidden] [ref=f50e258]: 
+                    - generic [ref=f50e259]: Assignees
+                  - generic [ref=f50e261]:
+                    - generic [ref=f50e262]: Sales
+                    - generic [ref=f50e264]:
+                      - generic [ref=f50e265]: Rachna Gaikwad
+                      - generic [ref=f50e266]: Chandrakant Sakat
+                      - generic [ref=f50e267]: Pravin Malusare
+                      - generic [ref=f50e268]: +15 more
+                - generic [ref=f50e269]:
+                  - generic [ref=f50e270]:
+                    - generic [aria-hidden] [ref=f50e271]: 
+                    - generic [ref=f50e272]: Matching Criteria
+                  - generic [ref=f50e273]:
+                    - generic [ref=f50e274]:
+                      - generic [ref=f50e275]: Campaign(s)
+                      - generic [ref=f50e276]: N/A
+                    - generic [ref=f50e277]:
+                      - generic [ref=f50e278]: Project(s)
+                      - generic [ref=f50e279]: Nivaan Meadows
+                    - generic [ref=f50e282]:
+                      - generic [ref=f50e283]: Source(s)
+                      - generic [ref=f50e284]: N/A
+                    - generic [ref=f50e285]:
+                      - generic [ref=f50e286]: Sub Source(s)
+                      - generic [ref=f50e287]: N/A
+                    - generic [ref=f50e288]:
+                      - generic [ref=f50e289]: Medium Type(s)
+                      - generic [ref=f50e290]: N/A
+                    - generic [ref=f50e291]:
+                      - generic [ref=f50e292]: Medium Value(s)
+                      - generic [ref=f50e293]: N/A
+                    - generic [ref=f50e294]:
+                      - generic [ref=f50e295]: Location(s)
+                      - generic [ref=f50e296]: N/A
+              - generic [ref=f50e299]:
+                - generic [ref=f50e300]:
+                  - generic [ref=f50e301]:
+                    - generic [ref=f50e302]: Name
+                    - generic "default" [ref=f50e303]
+                  - link "Edit" [ref=f50e305] [cursor=pointer]:
+                    - /url: /client/configuration/routing_configuration/routing_rules/62b06126a6bbc917b00ff3c2/edit
+                - generic [ref=f50e306]:
+                  - generic [ref=f50e307]:
+                    - generic [aria-hidden] [ref=f50e308]: 
+                    - generic [ref=f50e309]: Settings
+                  - generic [ref=f50e310]:
+                    - generic [ref=f50e311]:
+                      - generic [ref=f50e312]: Stickiness
+                      - generic [ref=f50e313]: "Yes"
+                    - generic [ref=f50e315]:
+                      - generic [ref=f50e316]: NRI Routing
+                      - generic [ref=f50e317]: "No"
+                    - generic [ref=f50e319]:
+                      - generic [ref=f50e320]: Routing Rule Strategy
+                      - generic [ref=f50e321]: Round Robin
+                - generic [ref=f50e323]:
+                  - generic [ref=f50e324]:
+                    - generic [aria-hidden] [ref=f50e325]: 
+                    - generic [ref=f50e326]: Assignees
+                  - generic [ref=f50e328]:
+                    - generic [ref=f50e329]: Sales
+                    - generic [ref=f50e330]: Roma Tejwaney
+                - generic [ref=f50e333]:
+                  - generic [ref=f50e334]:
+                    - generic [aria-hidden] [ref=f50e335]: 
+                    - generic [ref=f50e336]: Matching Criteria
+                  - generic [ref=f50e337]:
+                    - generic [ref=f50e338]:
+                      - generic [ref=f50e339]: Campaign(s)
+                      - generic [ref=f50e340]: N/A
+                    - generic [ref=f50e341]:
+                      - generic [ref=f50e342]: Project(s)
+                      - generic [ref=f50e343]: N/A
+                    - generic [ref=f50e344]:
+                      - generic [ref=f50e345]: Source(s)
+                      - generic [ref=f50e346]: N/A
+                    - generic [ref=f50e347]:
+                      - generic [ref=f50e348]: Sub Source(s)
+                      - generic [ref=f50e349]: N/A
+                    - generic [ref=f50e350]:
+                      - generic [ref=f50e351]: Medium Type(s)
+                      - generic [ref=f50e352]: N/A
+                    - generic [ref=f50e353]:
+                      - generic [ref=f50e354]: Medium Value(s)
+                      - generic [ref=f50e355]: N/A
+                    - generic [ref=f50e356]:
+                      - generic [ref=f50e357]: Location(s)
+                      - generic [ref=f50e358]: N/A
+            - text: 
+  - iframe [aria-hidden] [ref=f50e360]:
+    - generic [ref=f51e4]:
+      - generic [ref=f51e5]:
+        - heading "Latest changes" [level=3] [ref=f51e7]
+        - generic [ref=f51e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f51e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f51e10]: New
+            - generic [ref=f51e11]: Improvement
+            - strong [ref=f51e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f51e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f51e14]: New
+            - generic [ref=f51e15]: Improvement
+            - strong [ref=f51e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f51e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f51e18]: New
+            - strong [ref=f51e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f51e20]:
+          - link "Sell-Do updates" [ref=f51e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f51e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f51e23]:
+        - generic [ref=f51e24]:
+          - generic [ref=f51e25]:
+            - link [ref=f51e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f51e27]
+          - paragraph [ref=f51e30]:
+            - link "Read the whole post" [ref=f51e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f51e32]:
+          - generic [ref=f51e33]:
+            - link [ref=f51e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f51e35]
+          - paragraph [ref=f51e38]:
+            - link "Read the whole post" [ref=f51e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f51e40]:
+          - generic [ref=f51e41]:
+            - link [ref=f51e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f51e43]
+          - paragraph [ref=f51e46]:
+            - link "Read the whole post" [ref=f51e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

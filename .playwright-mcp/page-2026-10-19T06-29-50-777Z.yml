@@ -1,0 +1,302 @@
+- generic [active] [ref=f90e1]:
+  - navigation [ref=f90e2]:
+    - generic [ref=f90e3]:
+      - generic [ref=f90e4]: 
+      - generic [ref=f90e6]:
+        - link "Search..." [ref=f90e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f90e9]
+      - searchbox "Search..." [ref=f90e10]
+    - generic [ref=f90e11]:
+      - generic [ref=f90e12]:
+        - link "" [ref=f90e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f90e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f90e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f90e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f90e22]:
+        - generic [aria-hidden] [ref=f90e23]: 
+        - text: "+918069150607"
+      - generic [ref=f90e24]: "Balance: ₹ -2684.94"
+      - generic [ref=f90e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f90e26]:
+    - generic [ref=f90e27]:
+      - link "" [ref=f90e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f90e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f90e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f90e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f90e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f90e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f90e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f90e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f90e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f90e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f90e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f90e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f90e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f90e71]:
+    - navigation "breadcrumb" [ref=f90e74]:
+      - list [ref=f90e75]:
+        - listitem [ref=f90e76]:
+          - link "Home" [ref=f90e77] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f90e78]:
+          - text: 
+          - link "Marketing Automation" [ref=f90e79] [cursor=pointer]:
+            - /url: /client/dashboard/automation
+        - listitem [ref=f90e80]:  WhatsApp Templates
+    - generic [ref=f90e84]:
+      - generic [ref=f90e85]:
+        - generic [ref=f90e86]: 24 items.
+        - group [ref=f90e91]:
+          - link "New WhatsApp Template" [ref=f90e92] [cursor=pointer]:
+            - /url: /client/whatsapp_templates/new
+          - button " 2" [ref=f90e93] [cursor=pointer]:
+            - generic [ref=f90e94]: 
+            - generic [ref=f90e95]: "2"
+      - generic [ref=f90e97]:
+        - generic [ref=f90e98]:
+          - table [ref=f90e99]:
+            - rowgroup [ref=f90e100]:
+              - row [ref=f90e101]:
+                - columnheader "Name" [ref=f90e102]
+                - columnheader "WhatsApp content" [ref=f90e103]
+                - columnheader "WhatsApp Vendor Template" [ref=f90e104]
+                - columnheader "Whatsapp Account" [ref=f90e105]
+                - columnheader "Active" [ref=f90e106]
+                - columnheader "Created At" [ref=f90e107]
+                - columnheader "Actions" [ref=f90e108]
+            - rowgroup [ref=f90e109]:
+              - row [ref=f90e110]:
+                - cell "Default Bulk Share Properties" [ref=f90e111]
+                - cell "*Dear $lead_name*, I hope this message finds you well. With regards to your interest we are pleased to share with you the detailed information about the property/properties as below. $property_details *Thank you*, *$sales_name* | *$client_name*" [ref=f90e112]
+                - cell [ref=f90e113]
+                - cell "WebWhatsapp" [ref=f90e114]
+                - cell "Yes" [ref=f90e115]
+                - cell "10 Jul 2024 11:28 PM" [ref=f90e116]
+                - cell [ref=f90e117]:
+                  - link "" [ref=f90e119] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f90e121]:
+                - cell "Default WebWhatsapp Template" [ref=f90e122]
+                - cell "Hello $lead_name, greeting..." [ref=f90e123]
+                - cell [ref=f90e124]
+                - cell "WebWhatsapp" [ref=f90e125]
+                - cell "Yes" [ref=f90e126]
+                - cell "12 Jun 2024 12:43 PM" [ref=f90e127]
+                - cell [ref=f90e128]:
+                  - link "" [ref=f90e130] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f90e132]:
+                - cell "Share payment link to lead" [ref=f90e133]
+                - cell "Dear $lead_name, $sales_name from $client_name has shared payment link with you. Please click the link below to make an online payment. $url_shortener_link" [ref=f90e134]
+                - cell [ref=f90e135]
+                - cell [ref=f90e136]
+                - cell "Yes" [ref=f90e137]
+                - cell "12 Feb 2021 9:40 AM" [ref=f90e138]
+                - cell [ref=f90e139]:
+                  - link "" [ref=f90e141] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f90e143]:
+                - cell "DND message to Applicant" [ref=f90e144]
+                - cell "Dear Customer, thank you for your interest in $client_short_name. We couldn't connect your call as you are registered in DND. Please call us on $ivr_number" [ref=f90e145]
+                - cell [ref=f90e146]
+                - cell [ref=f90e147]
+                - cell "Yes" [ref=f90e148]
+                - cell "12 Feb 2021 9:40 AM" [ref=f90e149]
+                - cell [ref=f90e150]:
+                  - link "" [ref=f90e152] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f90e154]:
+                - cell "Walkthrough sync code" [ref=f90e155]
+                - cell "Dear customer, please click here $vr_link to begin the guided VR tour" [ref=f90e156]
+                - cell [ref=f90e157]
+                - cell [ref=f90e158]
+                - cell "Yes" [ref=f90e159]
+                - cell "12 Feb 2021 9:40 AM" [ref=f90e160]
+                - cell [ref=f90e161]:
+                  - link "" [ref=f90e163] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f90e165]:
+                - cell "DND message to Lead" [ref=f90e166]
+                - cell "Dear Customer, thank you for your interest in $client_short_name. We couldn't connect your call as you are registered in DND. Please call us on $ivr_number" [ref=f90e167]
+                - cell [ref=f90e168]
+                - cell [ref=f90e169]
+                - cell "Yes" [ref=f90e170]
+                - cell "12 Feb 2021 9:40 AM" [ref=f90e171]
+                - cell [ref=f90e172]:
+                  - link "" [ref=f90e174] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f90e176]:
+                - cell "Verification Code to Lead" [ref=f90e177]
+                - cell "Thank you for your interest in $client_short_name. Your verification code is $verification_code." [ref=f90e178]
+                - cell [ref=f90e179]
+                - cell [ref=f90e180]
+                - cell "Yes" [ref=f90e181]
+                - cell "12 Feb 2021 9:40 AM" [ref=f90e182]
+                - cell [ref=f90e183]:
+                  - link "" [ref=f90e185] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f90e187]:
+                - cell "Incoming call answered to sales person" [ref=f90e188]
+                - 'cell "you just spoke to $lead_name leadid: $lead_id" [ref=f90e189]'
+                - cell [ref=f90e190]
+                - cell [ref=f90e191]
+                - cell "Yes" [ref=f90e192]
+                - cell "12 Feb 2021 9:40 AM" [ref=f90e193]
+                - cell [ref=f90e194]:
+                  - link "" [ref=f90e196] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f90e198]:
+                - cell "Incoming call not answered to sales person" [ref=f90e199]
+                - 'cell "missed call from $lead_name id: $lead_id" [ref=f90e200]'
+                - cell [ref=f90e201]
+                - cell [ref=f90e202]
+                - cell "Yes" [ref=f90e203]
+                - cell "12 Feb 2021 9:40 AM" [ref=f90e204]
+                - cell [ref=f90e205]:
+                  - link "" [ref=f90e207] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f90e209]:
+                - cell "Followup reminder" [ref=f90e210]
+                - cell "$followup_type followup reminder for $lead_name leadid $lead_id" [ref=f90e211]
+                - cell [ref=f90e212]
+                - cell [ref=f90e213]
+                - cell "Yes" [ref=f90e214]
+                - cell "12 Feb 2021 9:40 AM" [ref=f90e215]
+                - cell [ref=f90e216]:
+                  - link "" [ref=f90e218] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f90e220]:
+                - cell "Site visit reminder to sales person" [ref=f90e221]
+                - 'cell "$sitevisit_type Sitevisit reminder for $lead_name leadid $lead_id, visit on: $time $sales_otp_text" [ref=f90e222]'
+                - cell [ref=f90e223]
+                - cell [ref=f90e224]
+                - cell "Yes" [ref=f90e225]
+                - cell "12 Feb 2021 9:40 AM" [ref=f90e226]
+                - cell [ref=f90e227]:
+                  - link "" [ref=f90e229] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f90e231]:
+                - cell "Site visit reminder to lead" [ref=f90e232]
+                - cell "Dear Customer, this is a gentle reminder for your $sitevisit_type today at $project_name at $time $lead_otp_text" [ref=f90e233]
+                - cell [ref=f90e234]
+                - cell [ref=f90e235]
+                - cell "Yes" [ref=f90e236]
+                - cell "12 Feb 2021 9:40 AM" [ref=f90e237]
+                - cell [ref=f90e238]:
+                  - link "" [ref=f90e240] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f90e242]:
+                - cell "Site visit scheduled to invitees" [ref=f90e243]
+                - cell "Dear $sales_name, You have been invited for Site Visit of $lead_name ($lead_id) on $date at $project_name by $activity_owner." [ref=f90e244]
+                - cell [ref=f90e245]
+                - cell [ref=f90e246]
+                - cell "Yes" [ref=f90e247]
+                - cell "12 Feb 2021 9:40 AM" [ref=f90e248]
+                - cell [ref=f90e249]:
+                  - link "" [ref=f90e251] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f90e253]:
+                - cell "Site visit re-scheduled to lead" [ref=f90e254]
+                - cell "We are pleased to inform you that your visit to $project_name has been scheduled on $date at $time. $lead_otp_text We eagerly look forward to welcome you." [ref=f90e255]
+                - cell [ref=f90e256]
+                - cell [ref=f90e257]
+                - cell "Yes" [ref=f90e258]
+                - cell "12 Feb 2021 9:40 AM" [ref=f90e259]
+                - cell [ref=f90e260]:
+                  - link "" [ref=f90e262] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f90e264]:
+                - cell "Site visit conducted to lead" [ref=f90e265]
+                - cell "Thank you for visiting $project_name. It was indeed a pleasure meeting you at our site. We look forward to hearing from you soon. Warm Regards $sales_name." [ref=f90e266]
+                - cell [ref=f90e267]
+                - cell [ref=f90e268]
+                - cell "Yes" [ref=f90e269]
+                - cell "12 Feb 2021 9:40 AM" [ref=f90e270]
+                - cell [ref=f90e271]:
+                  - link "" [ref=f90e273] [cursor=pointer]:
+                    - /url: javascript:void(0);
+          - navigation "Pagination" [ref=f90e276]:
+            - list [ref=f90e277]:
+              - listitem [ref=f90e278]:
+                - generic [ref=f90e279] [cursor=pointer]: ← Previous
+              - listitem [ref=f90e280]:
+                - generic: "1"
+              - listitem [ref=f90e281]:
+                - link "2" [ref=f90e282] [cursor=pointer]:
+                  - /url: /client/whatsapp_templates?page=2&search_params%5Bactive%5D=true
+              - listitem [ref=f90e283]:
+                - link "Next →" [ref=f90e284] [cursor=pointer]:
+                  - /url: /client/whatsapp_templates?page=2&search_params%5Bactive%5D=true
+        - text: 
+  - iframe [aria-hidden] [ref=f90e285]:
+    - generic [ref=f91e4]:
+      - generic [ref=f91e5]:
+        - heading "Latest changes" [level=3] [ref=f91e7]
+        - generic [ref=f91e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f91e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f91e10]: New
+            - generic [ref=f91e11]: Improvement
+            - strong [ref=f91e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f91e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f91e14]: New
+            - generic [ref=f91e15]: Improvement
+            - strong [ref=f91e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f91e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f91e18]: New
+            - strong [ref=f91e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f91e20]:
+          - link "Sell-Do updates" [ref=f91e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f91e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f91e23]:
+        - generic [ref=f91e24]:
+          - generic [ref=f91e25]:
+            - link [ref=f91e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f91e27]
+          - paragraph [ref=f91e30]:
+            - link "Read the whole post" [ref=f91e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f91e32]:
+          - generic [ref=f91e33]:
+            - link [ref=f91e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f91e35]
+          - paragraph [ref=f91e38]:
+            - link "Read the whole post" [ref=f91e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f91e40]:
+          - generic [ref=f91e41]:
+            - link [ref=f91e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f91e43]
+          - paragraph [ref=f91e46]:
+            - link "Read the whole post" [ref=f91e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

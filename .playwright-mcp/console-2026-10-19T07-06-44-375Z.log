@@ -1,0 +1,2 @@
+[     550ms] ReferenceError: $ is not defined
+    at https://app.sell.do/client/configuration/inventory_configuration:174:3

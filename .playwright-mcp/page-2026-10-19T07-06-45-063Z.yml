@@ -1,0 +1,83 @@
+- dialog [ref=f189e2]:
+  - document [ref=f189e3]:
+    - generic [ref=f189e4]:
+      - generic [ref=f189e5]:
+        - heading "Inventory Configuration" [level=5] [ref=f189e6]
+        - button "Close" [ref=f189e7]
+      - generic [ref=f189e8]:
+        - tablist [ref=f189e9]:
+          - tab "Basics" [selected] [ref=f189e10] [cursor=pointer]
+          - tab "Projects" [ref=f189e11] [cursor=pointer]
+        - generic [ref=f189e12]:
+          - tabpanel [ref=f189e13]:
+            - form [ref=f189e14]:
+              - generic [ref=f189e17]:
+                - checkbox "Enable Inventory(This change cannot be reverted. Please contact support if you want to enable it)" [disabled] [ref=f189e18]
+                - text: Enable Inventory(This change cannot be reverted. Please contact support if you want to enable it)
+              - generic [ref=f189e21]:
+                - checkbox "Allow inventory addition notification to users Enabling it will allow system to send push notification to all the users after creation of new inventories" [ref=f189e22]
+                - text: Allow inventory addition notification to users
+                - link "Enabling it will allow system to send push notification to all the users after creation of new inventories":
+                  - /url: javascript:;
+              - generic [ref=f189e26]:
+                - checkbox "Project Enabling it will allow system to send push notification to all the users after creation of new project" [ref=f189e27]
+                - text: Project
+                - link "Enabling it will allow system to send push notification to all the users after creation of new project":
+                  - /url: javascript:;
+              - generic [ref=f189e31]:
+                - checkbox "Project Unit This option will be available after enabling the inventory" [disabled] [ref=f189e32]
+                - text: Project Unit
+                - link "This option will be available after enabling the inventory":
+                  - /url: javascript:;
+              - generic [ref=f189e33]:
+                - generic [ref=f189e36]:
+                  - checkbox "Auto Enable Inventory for New Projects(Please contact support if you want to enable it)" [disabled] [ref=f189e37]
+                  - text: Auto Enable Inventory for New Projects(Please contact support if you want to enable it)
+                - generic [ref=f189e40]:
+                  - checkbox "Auto Calculate Carpet and Saleable AreaAll base prices, associated to floor plans, will be calculated automatically by multiplying the base rates with the saleable areas" [checked] [ref=f189e41]
+                  - text: Auto Calculate Carpet and Saleable Area
+                  - link "All base prices, associated to floor plans, will be calculated automatically by multiplying the base rates with the saleable areas":
+                    - /url: javascript:;
+                - generic [ref=f189e44]:
+                  - checkbox "Enabled IPC (This change cannot be reverted.) This option enables the input of developers in the inventory which can be associated to your projects. This is useful if you plan to use Sell.Do as a Channel Partner or have JVs with other developers" [ref=f189e45]
+                  - text: Enabled IPC (This change cannot be reverted.)
+                  - link "This option enables the input of developers in the inventory which can be associated to your projects. This is useful if you plan to use Sell.Do as a Channel Partner or have JVs with other developers":
+                    - /url: javascript:;
+                - generic [ref=f189e48]:
+                  - checkbox "Negotiation & Approvals (This change cannot be reverted.)Enabling this would allow sales to apply discount while book any unit and allow admin to approve/reject it" [disabled] [ref=f189e49]
+                  - text: Negotiation & Approvals (This change cannot be reverted.)
+                  - link "Enabling this would allow sales to apply discount while book any unit and allow admin to approve/reject it":
+                    - /url: javascript:;
+                - generic [ref=f189e52]:
+                  - checkbox "Allow booking detail status automation after approval (This change is dependent on Negotiation & Approvals) This option allows user to select 'Confirmed' option on booking after approval of negotiation or discount" [disabled] [ref=f189e53]
+                  - text: Allow booking detail status automation after approval (This change is dependent on Negotiation & Approvals)
+                  - link "This option allows user to select 'Confirmed' option on booking after approval of negotiation or discount":
+                    - /url: javascript:;
+                - generic [ref=f189e56]:
+                  - checkbox "Can Create Price QuotesEnabling it will enable sales executive to create price quote for leads" [disabled] [ref=f189e57]
+                  - text: Can Create Price Quotes
+                  - link "Enabling it will enable sales executive to create price quote for leads":
+                    - /url: javascript:;
+                - generic [ref=f189e58]:
+                  - text: Allowed property types (This change cannot be reverted. Resale units tab will be available once resale is saved here)
+                  - link "This would allow to add property with mentioned types.":
+                    - /url: javascript:;
+                  - textbox "Allowed property types" [disabled] [ref=f189e59]: sale
+                - generic [ref=f189e60]:
+                  - text: Available to roles
+                  - link "This would give inventory access to selected role users except Inventory Configuration":
+                    - /url: javascript:;
+                  - textbox "Available to roles" [disabled] [ref=f189e61]
+              - button "Save" [ref=f189e63]
+          - tabpanel [ref=f189e64]:
+            - form [ref=f189e65]:
+              - generic [ref=f189e68]:
+                - checkbox "Allow editing amenities on project(This change cannot be reverted.)If you check this option, this will allow editing amenities at project-level" [ref=f189e69]
+                - text: Allow editing amenities on project(This change cannot be reverted.)
+                - link "If you check this option, this will allow editing amenities at project-level":
+                  - /url: javascript:;
+              - generic [ref=f189e70]:
+                - generic [ref=f189e71]: Amenities
+                - link "Add Amenity Configuration" [ref=f189e73] [cursor=pointer]:
+                  - /url: javascript:;
+              - button "Save" [ref=f189e75]

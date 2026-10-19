@@ -1,0 +1,1005 @@
+- generic [active] [ref=f129e1]:
+  - navigation [ref=f129e2]:
+    - generic [ref=f129e3]:
+      - generic [ref=f129e4]: 
+      - generic [ref=f129e6]:
+        - link "Search..." [ref=f129e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f129e9]
+      - searchbox "Search..." [ref=f129e10]
+    - generic [ref=f129e11]:
+      - generic [ref=f129e12]:
+        - link "" [ref=f129e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f129e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f129e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f129e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f129e22]:
+        - generic [aria-hidden] [ref=f129e23]: 
+        - text: "+918069150607"
+      - generic [ref=f129e24]: "Balance: ₹ -2686.64"
+      - generic [ref=f129e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f129e26]:
+    - generic [ref=f129e27]:
+      - link "" [ref=f129e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f129e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f129e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f129e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f129e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f129e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f129e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f129e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f129e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f129e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f129e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f129e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f129e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f129e74]:
+    - navigation "breadcrumb" [ref=f129e77]:
+      - list [ref=f129e79]:
+        - listitem [ref=f129e80]:
+          - link "Home" [ref=f129e81] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f129e82]:
+          - text: 
+          - link "inbound calls" [ref=f129e83] [cursor=pointer]:
+            - /url: /client/0/calls/inbound
+    - generic [ref=f129e87]:
+      - generic [ref=f129e88]:
+        - generic [ref=f129e89]:
+          - generic [ref=f129e90]:
+            - generic [ref=f129e91]:
+              - link "Inbound" [ref=f129e92] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - textbox [ref=f129e96]
+            - combobox [ref=f129e97]:
+              - option "All"
+              - option "Inbound" [selected]
+              - option "Outbound"
+          - paragraph
+        - button " 1" [ref=f129e100] [cursor=pointer]:
+          - generic [ref=f129e101]: 
+          - generic [ref=f129e102]: "1"
+      - generic [ref=f129e106]:
+        - generic [ref=f129e108]:
+          - table [ref=f129e109]:
+            - rowgroup [ref=f129e110]:
+              - row [ref=f129e111]:
+                - columnheader "Lead ID" [ref=f129e112]
+                - columnheader "Lead Name" [ref=f129e113]
+                - columnheader "Status" [ref=f129e114]
+                - columnheader "Duration" [ref=f129e115]
+                - columnheader "Activity Owner" [ref=f129e116]
+                - columnheader "Lead Owner" [ref=f129e117]
+                - columnheader "Activity date" [ref=f129e118]
+                - columnheader "Call recording" [ref=f129e119]
+                - columnheader "AI Data" [ref=f129e120]
+                - columnheader "Actions" [ref=f129e121]
+            - rowgroup [ref=f129e122]:
+              - row [ref=f129e123]:
+                - cell [ref=f129e124]:
+                  - link "#87419" [ref=f129e125] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Manish Gavde" [ref=f129e126]
+                - cell "Not Answered" [ref=f129e127]
+                - cell "00:00:00" [ref=f129e128]
+                - cell "Monika Chavan" [ref=f129e129]
+                - cell "Monika Chavan" [ref=f129e130]
+                - cell "Oct 19, 2026 at 12:11 PM" [ref=f129e131]
+                - cell "No recording available" [ref=f129e132]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e134]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e136]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e137]: 
+                - cell [ref=f129e138]:
+                  - link "" [ref=f129e140] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e142]:
+                - cell [ref=f129e143]:
+                  - link "#73673" [ref=f129e144] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Santosh kumar" [ref=f129e145]
+                - cell "Answered" [ref=f129e146]
+                - cell "00:00:19" [ref=f129e147]
+                - cell "Jyoti Inamdar" [ref=f129e148]
+                - cell "Jyoti Inamdar" [ref=f129e149]
+                - cell "Oct 19, 2026 at 12:02 PM" [ref=f129e150]
+                - cell "Your browser does not support the audio element. You can" [ref=f129e151]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e154]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e156]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e157]: 
+                - cell [ref=f129e158]:
+                  - link "" [ref=f129e160] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e162]:
+                - cell [ref=f129e163]:
+                  - link "#3588" [ref=f129e164] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Umesh Ratnaparkhi" [ref=f129e165]
+                - cell "Answered" [ref=f129e166]
+                - cell "00:02:24" [ref=f129e167]
+                - cell "Rohit Gaikwad" [ref=f129e168]
+                - cell "Rohit Gaikwad" [ref=f129e169]
+                - cell "Oct 19, 2026 at 12:00 PM" [ref=f129e170]
+                - cell "Your browser does not support the audio element. You can" [ref=f129e171]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e174]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e176]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e177]: 
+                - cell [ref=f129e178]:
+                  - link "" [ref=f129e180] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e182]:
+                - cell [ref=f129e183]:
+                  - link "#78827" [ref=f129e184] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Nitin G" [ref=f129e185]
+                - cell "Not Answered" [ref=f129e186]
+                - cell "00:00:00" [ref=f129e187]
+                - cell "Chandrakant Sakat" [ref=f129e188]
+                - cell "Pooja Sade" [ref=f129e189]
+                - cell "Oct 19, 2026 at 11:57 AM" [ref=f129e190]
+                - cell "No recording available" [ref=f129e191]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e193]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e195]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e196]: 
+                - cell [ref=f129e197]:
+                  - link "" [ref=f129e199] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e201]:
+                - cell [ref=f129e202]:
+                  - link "#78827" [ref=f129e203] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Nitin G" [ref=f129e204]
+                - cell "Answered" [ref=f129e205]
+                - cell "00:02:39" [ref=f129e206]
+                - cell "Suvarna Ingle" [ref=f129e207]
+                - cell "Pooja Sade" [ref=f129e208]
+                - cell "Oct 19, 2026 at 11:57 AM" [ref=f129e209]
+                - cell "Your browser does not support the audio element. You can" [ref=f129e210]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e213]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e215]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e216]: 
+                - cell [ref=f129e217]:
+                  - link "" [ref=f129e219] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e221]:
+                - cell [ref=f129e222]:
+                  - link "#78827" [ref=f129e223] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Nitin G" [ref=f129e224]
+                - cell "Not Answered" [ref=f129e225]
+                - cell "00:00:00" [ref=f129e226]
+                - cell "Monika Chavan" [ref=f129e227]
+                - cell "Pooja Sade" [ref=f129e228]
+                - cell "Oct 19, 2026 at 11:57 AM" [ref=f129e229]
+                - cell "No recording available" [ref=f129e230]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e232]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e234]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e235]: 
+                - cell [ref=f129e236]:
+                  - link "" [ref=f129e238] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e240]:
+                - cell [ref=f129e241]:
+                  - link "#78827" [ref=f129e242] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Nitin G" [ref=f129e243]
+                - cell "Not Answered" [ref=f129e244]
+                - cell "00:00:00" [ref=f129e245]
+                - cell "Anand Abnave" [ref=f129e246]
+                - cell "Pooja Sade" [ref=f129e247]
+                - cell "Oct 19, 2026 at 11:57 AM" [ref=f129e248]
+                - cell "No recording available" [ref=f129e249]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e251]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e253]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e254]: 
+                - cell [ref=f129e255]:
+                  - link "" [ref=f129e257] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e259]:
+                - cell [ref=f129e260]:
+                  - link "#50681" [ref=f129e261] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Amol Tukaram Jare" [ref=f129e262]
+                - cell "Answered" [ref=f129e263]
+                - cell "00:08:14" [ref=f129e264]
+                - cell "Almas Khan" [ref=f129e265]
+                - cell "Almas Khan" [ref=f129e266]
+                - cell "Oct 19, 2026 at 11:48 AM" [ref=f129e267]
+                - cell "No recording available" [ref=f129e268]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e270]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e272]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e273]: 
+                - cell [ref=f129e274]:
+                  - link "" [ref=f129e276] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e278]:
+                - cell [ref=f129e279]:
+                  - link "#88847" [ref=f129e280] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Gaurang shah" [ref=f129e281]
+                - cell "Answered" [ref=f129e282]
+                - cell "00:00:17" [ref=f129e283]
+                - cell "Sana Shaikh" [ref=f129e284]
+                - cell "Sana Shaikh" [ref=f129e285]
+                - cell "Oct 19, 2026 at 11:38 AM" [ref=f129e286]
+                - cell "Your browser does not support the audio element. You can" [ref=f129e287]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e290]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e292]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e293]: 
+                - cell [ref=f129e294]:
+                  - link "" [ref=f129e296] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e298]:
+                - cell [ref=f129e299]:
+                  - link "#79417" [ref=f129e300] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Nitesh gujrati" [ref=f129e301]
+                - cell "Answered" [ref=f129e302]
+                - cell "00:05:46" [ref=f129e303]
+                - cell "Almas Khan" [ref=f129e304]
+                - cell "Almas Khan" [ref=f129e305]
+                - cell "Oct 19, 2026 at 11:30 AM" [ref=f129e306]
+                - cell "No recording available" [ref=f129e307]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e309]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e311]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e312]: 
+                - cell [ref=f129e313]:
+                  - link "" [ref=f129e315] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e317]:
+                - cell [ref=f129e318]:
+                  - link "#85184" [ref=f129e319] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Anjali Tupe" [ref=f129e320]
+                - cell "Not Answered" [ref=f129e321]
+                - cell "00:00:00" [ref=f129e322]
+                - cell "Roma Tejwaney" [ref=f129e323]
+                - cell "Abhishek Ranpise" [ref=f129e324]
+                - cell "Oct 19, 2026 at 11:23 AM" [ref=f129e325]
+                - cell "No recording available" [ref=f129e326]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e328]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e330]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e331]: 
+                - cell [ref=f129e332]:
+                  - link "" [ref=f129e334] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e336]:
+                - cell [ref=f129e337]:
+                  - link "#88668" [ref=f129e338] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Mr Pravin" [ref=f129e339]
+                - cell "Answered" [ref=f129e340]
+                - cell "00:00:35" [ref=f129e341]
+                - cell "Chirag Gaikwad" [ref=f129e342]
+                - cell "Chirag Gaikwad" [ref=f129e343]
+                - cell "Oct 19, 2026 at 11:04 AM" [ref=f129e344]
+                - cell "No recording available" [ref=f129e345]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e347]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e349]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e350]: 
+                - cell [ref=f129e351]:
+                  - link "" [ref=f129e353] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e355]:
+                - cell [ref=f129e356]:
+                  - link "#87419" [ref=f129e357] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Manish Gavde" [ref=f129e358]
+                - cell "Answered" [ref=f129e359]
+                - cell "00:00:43" [ref=f129e360]
+                - cell "Monika Chavan" [ref=f129e361]
+                - cell "Monika Chavan" [ref=f129e362]
+                - cell "Oct 19, 2026 at 10:51 AM" [ref=f129e363]
+                - cell "Your browser does not support the audio element. You can" [ref=f129e364]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e367]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e369]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e370]: 
+                - cell [ref=f129e371]:
+                  - link "" [ref=f129e373] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e375]:
+                - cell [ref=f129e376]:
+                  - link "#56729" [ref=f129e377] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Vcp Rohit Shingare" [ref=f129e378]
+                - cell "Answered" [ref=f129e379]
+                - cell "00:00:30" [ref=f129e380]
+                - cell "Chetan Bankar" [ref=f129e381]
+                - cell "Aishwarya Kadam" [ref=f129e382]
+                - cell "Oct 19, 2026 at 10:42 AM" [ref=f129e383]
+                - cell "No recording available" [ref=f129e384]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e386]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e388]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e389]: 
+                - cell [ref=f129e390]:
+                  - link "" [ref=f129e392] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e394]:
+                - cell [ref=f129e395]:
+                  - link "#86331" [ref=f129e396] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Niranjan Lad" [ref=f129e397]
+                - cell "Not Answered" [ref=f129e398]
+                - cell "00:00:00" [ref=f129e399]
+                - cell "Viraj Vcpipl" [ref=f129e400]
+                - cell "Pooja Sade" [ref=f129e401]
+                - cell "Oct 19, 2026 at 10:35 AM" [ref=f129e402]
+                - cell "No recording available" [ref=f129e403]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e405]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e407]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e408]: 
+                - cell [ref=f129e409]:
+                  - link "" [ref=f129e411] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e413]:
+                - cell [ref=f129e414]:
+                  - link "#86331" [ref=f129e415] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Niranjan Lad" [ref=f129e416]
+                - cell "Not Answered" [ref=f129e417]
+                - cell "00:00:00" [ref=f129e418]
+                - cell "Abhishek Ranpise" [ref=f129e419]
+                - cell "Pooja Sade" [ref=f129e420]
+                - cell "Oct 19, 2026 at 10:35 AM" [ref=f129e421]
+                - cell "No recording available" [ref=f129e422]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e424]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e426]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e427]: 
+                - cell [ref=f129e428]:
+                  - link "" [ref=f129e430] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e432]:
+                - cell [ref=f129e433]:
+                  - link "#86331" [ref=f129e434] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Niranjan Lad" [ref=f129e435]
+                - cell "Not Answered" [ref=f129e436]
+                - cell "00:00:00" [ref=f129e437]
+                - cell "Monika Chavan" [ref=f129e438]
+                - cell "Pooja Sade" [ref=f129e439]
+                - cell "Oct 19, 2026 at 10:35 AM" [ref=f129e440]
+                - cell "No recording available" [ref=f129e441]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e443]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e445]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e446]: 
+                - cell [ref=f129e447]:
+                  - link "" [ref=f129e449] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e451]:
+                - cell [ref=f129e452]:
+                  - link "#86331" [ref=f129e453] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Niranjan Lad" [ref=f129e454]
+                - cell "Answered" [ref=f129e455]
+                - cell "00:05:29" [ref=f129e456]
+                - cell "Roma Tejwaney" [ref=f129e457]
+                - cell "Pooja Sade" [ref=f129e458]
+                - cell "Oct 19, 2026 at 10:35 AM" [ref=f129e459]
+                - cell "Your browser does not support the audio element. You can" [ref=f129e460]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e463]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e465]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e466]: 
+                - cell [ref=f129e467]:
+                  - link "" [ref=f129e469] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e471]:
+                - cell [ref=f129e472]:
+                  - link "#87176" [ref=f129e473] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Amol Sunil Vidhate" [ref=f129e474]
+                - cell "Answered" [ref=f129e475]
+                - cell "00:00:28" [ref=f129e476]
+                - cell "Pravin Malusare" [ref=f129e477]
+                - cell "Pravin Malusare" [ref=f129e478]
+                - cell "Oct 19, 2026 at 10:21 AM" [ref=f129e479]
+                - cell "Your browser does not support the audio element. You can" [ref=f129e480]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e483]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e485]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e486]: 
+                - cell [ref=f129e487]:
+                  - link "" [ref=f129e489] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e491]:
+                - cell [ref=f129e492]:
+                  - link "#86331" [ref=f129e493] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Niranjan Lad" [ref=f129e494]
+                - cell "Answered" [ref=f129e495]
+                - cell "00:00:04" [ref=f129e496]
+                - cell "Nitesh Shedge" [ref=f129e497]
+                - cell "Pooja Sade" [ref=f129e498]
+                - cell "Oct 19, 2026 at 8:23 AM" [ref=f129e499]
+                - cell "No recording available" [ref=f129e500]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e502]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e504]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e505]: 
+                - cell [ref=f129e506]:
+                  - link "" [ref=f129e508] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e510]:
+                - cell [ref=f129e511]:
+                  - link "#86331" [ref=f129e512] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Niranjan Lad" [ref=f129e513]
+                - cell "Not Answered" [ref=f129e514]
+                - cell "00:00:00" [ref=f129e515]
+                - cell "Asif Sayyad" [ref=f129e516]
+                - cell "Pooja Sade" [ref=f129e517]
+                - cell "Oct 19, 2026 at 8:23 AM" [ref=f129e518]
+                - cell "No recording available" [ref=f129e519]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e521]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e523]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e524]: 
+                - cell [ref=f129e525]:
+                  - link "" [ref=f129e527] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e529]:
+                - cell [ref=f129e530]:
+                  - link "#86331" [ref=f129e531] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Niranjan Lad" [ref=f129e532]
+                - cell "Not Answered" [ref=f129e533]
+                - cell "00:00:00" [ref=f129e534]
+                - cell "Aishwarya Kadam" [ref=f129e535]
+                - cell "Pooja Sade" [ref=f129e536]
+                - cell "Oct 19, 2026 at 8:23 AM" [ref=f129e537]
+                - cell "No recording available" [ref=f129e538]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e540]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e542]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e543]: 
+                - cell [ref=f129e544]:
+                  - link "" [ref=f129e546] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e548]:
+                - cell [ref=f129e549]:
+                  - link "#86331" [ref=f129e550] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Niranjan Lad" [ref=f129e551]
+                - cell "Not Answered" [ref=f129e552]
+                - cell "00:00:00" [ref=f129e553]
+                - cell "Anand Abnave" [ref=f129e554]
+                - cell "Pooja Sade" [ref=f129e555]
+                - cell "Oct 19, 2026 at 8:23 AM" [ref=f129e556]
+                - cell "No recording available" [ref=f129e557]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e559]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e561]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e562]: 
+                - cell [ref=f129e563]:
+                  - link "" [ref=f129e565] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e567]:
+                - cell [ref=f129e568]:
+                  - link "#86331" [ref=f129e569] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Niranjan Lad" [ref=f129e570]
+                - cell "Answered" [ref=f129e571]
+                - cell "00:00:02" [ref=f129e572]
+                - cell "Monika Chavan" [ref=f129e573]
+                - cell "Pooja Sade" [ref=f129e574]
+                - cell "Oct 19, 2026 at 8:23 AM" [ref=f129e575]
+                - cell "No recording available" [ref=f129e576]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e578]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e580]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e581]: 
+                - cell [ref=f129e582]:
+                  - link "" [ref=f129e584] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e586]:
+                - cell [ref=f129e587]:
+                  - link "#71139" [ref=f129e588] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Surekha Dendge" [ref=f129e589]
+                - cell "Not Answered" [ref=f129e590]
+                - cell "00:00:00" [ref=f129e591]
+                - cell "Jyoti Inamdar" [ref=f129e592]
+                - cell "Roma Tejwaney" [ref=f129e593]
+                - cell "Oct 18, 2026 at 8:24 PM" [ref=f129e594]
+                - cell "No recording available" [ref=f129e595]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e597]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e599]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e600]: 
+                - cell [ref=f129e601]:
+                  - link "" [ref=f129e603] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e605]:
+                - cell [ref=f129e606]:
+                  - link "#88566" [ref=f129e607] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Ms Priyanka" [ref=f129e608]
+                - cell "Answered" [ref=f129e609]
+                - cell "00:00:11" [ref=f129e610]
+                - cell "Pooja Sade" [ref=f129e611]
+                - cell "Pooja Sade" [ref=f129e612]
+                - cell "Oct 18, 2026 at 8:03 PM" [ref=f129e613]
+                - cell "No recording available" [ref=f129e614]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e616]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e618]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e619]: 
+                - cell [ref=f129e620]:
+                  - link "" [ref=f129e622] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e624]:
+                - cell [ref=f129e625]:
+                  - link "#81568" [ref=f129e626] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Vikash pandey" [ref=f129e627]
+                - cell "Not Answered" [ref=f129e628]
+                - cell "00:00:00" [ref=f129e629]
+                - cell "Abhishek Ranpise" [ref=f129e630]
+                - cell "Anand Abnave" [ref=f129e631]
+                - cell "Oct 18, 2026 at 7:16 PM" [ref=f129e632]
+                - cell "No recording available" [ref=f129e633]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e635]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e637]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e638]: 
+                - cell [ref=f129e639]:
+                  - link "" [ref=f129e641] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e643]:
+                - cell [ref=f129e644]:
+                  - link "#88151" [ref=f129e645] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Sandya Jagtap" [ref=f129e646]
+                - cell "Answered" [ref=f129e647]
+                - cell "00:05:51" [ref=f129e648]
+                - cell "Chetan Bankar" [ref=f129e649]
+                - cell "Chandrakant Sakat" [ref=f129e650]
+                - cell "Oct 18, 2026 at 7:00 PM" [ref=f129e651]
+                - cell "No recording available" [ref=f129e652]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e654]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e656]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e657]: 
+                - cell [ref=f129e658]:
+                  - link "" [ref=f129e660] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e662]:
+                - cell [ref=f129e663]:
+                  - link "#71139" [ref=f129e664] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Surekha Dendge" [ref=f129e665]
+                - cell "Answered" [ref=f129e666]
+                - cell "00:00:06" [ref=f129e667]
+                - cell "Sana Shaikh" [ref=f129e668]
+                - cell "Roma Tejwaney" [ref=f129e669]
+                - cell "Oct 18, 2026 at 6:57 PM" [ref=f129e670]
+                - cell "Your browser does not support the audio element. You can" [ref=f129e671]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e674]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e676]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e677]: 
+                - cell [ref=f129e678]:
+                  - link "" [ref=f129e680] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e682]:
+                - cell [ref=f129e683]:
+                  - link "#80594" [ref=f129e684] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Jakir Husen" [ref=f129e685]
+                - cell "Answered" [ref=f129e686]
+                - cell "00:00:04" [ref=f129e687]
+                - cell "Monika Chavan" [ref=f129e688]
+                - cell "Anand Abnave" [ref=f129e689]
+                - cell "Oct 18, 2026 at 6:57 PM" [ref=f129e690]
+                - cell "No recording available" [ref=f129e691]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e693]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e695]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e696]: 
+                - cell [ref=f129e697]:
+                  - link "" [ref=f129e699] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e701]:
+                - cell [ref=f129e702]:
+                  - link "#88831" [ref=f129e703] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Digvijay" [ref=f129e704]
+                - cell "Answered" [ref=f129e705]
+                - cell "00:05:55" [ref=f129e706]
+                - cell "Roma Tejwaney" [ref=f129e707]
+                - cell "Roma Tejwaney" [ref=f129e708]
+                - cell "Oct 18, 2026 at 6:49 PM" [ref=f129e709]
+                - cell "Your browser does not support the audio element. You can" [ref=f129e710]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e713]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e715]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e716]: 
+                - cell [ref=f129e717]:
+                  - link "" [ref=f129e719] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e721]:
+                - cell [ref=f129e722]:
+                  - link "#81568" [ref=f129e723] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Vikash pandey" [ref=f129e724]
+                - cell "Answered" [ref=f129e725]
+                - cell "00:00:19" [ref=f129e726]
+                - cell "Abhishek Ranpise" [ref=f129e727]
+                - cell "Anand Abnave" [ref=f129e728]
+                - cell "Oct 18, 2026 at 6:43 PM" [ref=f129e729]
+                - cell "Your browser does not support the audio element. You can" [ref=f129e730]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e733]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e735]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e736]: 
+                - cell [ref=f129e737]:
+                  - link "" [ref=f129e739] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e741]:
+                - cell [ref=f129e742]:
+                  - link "#81568" [ref=f129e743] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Vikash pandey" [ref=f129e744]
+                - cell "Answered" [ref=f129e745]
+                - cell "00:00:05" [ref=f129e746]
+                - cell "Abhishek Ranpise" [ref=f129e747]
+                - cell "Anand Abnave" [ref=f129e748]
+                - cell "Oct 18, 2026 at 6:36 PM" [ref=f129e749]
+                - cell "No recording available" [ref=f129e750]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e752]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e754]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e755]: 
+                - cell [ref=f129e756]:
+                  - link "" [ref=f129e758] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e760]:
+                - cell [ref=f129e761]:
+                  - link "#65198" [ref=f129e762] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Shailendra Thakur" [ref=f129e763]
+                - cell "Not Answered" [ref=f129e764]
+                - cell "00:00:00" [ref=f129e765]
+                - cell "Abhishek Ranpise" [ref=f129e766]
+                - cell "Abhishek Ranpise" [ref=f129e767]
+                - cell "Oct 18, 2026 at 6:35 PM" [ref=f129e768]
+                - cell "No recording available" [ref=f129e769]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e771]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e773]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e774]: 
+                - cell [ref=f129e775]:
+                  - link "" [ref=f129e777] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e779]:
+                - cell [ref=f129e780]:
+                  - link "#88297" [ref=f129e781] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Hemant Rathod" [ref=f129e782]
+                - cell "Answered" [ref=f129e783]
+                - cell "00:00:17" [ref=f129e784]
+                - cell "Rohit Gaikwad" [ref=f129e785]
+                - cell "Rohit Gaikwad" [ref=f129e786]
+                - cell "Oct 18, 2026 at 6:20 PM" [ref=f129e787]
+                - cell "Your browser does not support the audio element. You can" [ref=f129e788]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e791]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e793]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e794]: 
+                - cell [ref=f129e795]:
+                  - link "" [ref=f129e797] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e799]:
+                - cell [ref=f129e800]:
+                  - link "#88150" [ref=f129e801] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Rakesh Gite" [ref=f129e802]
+                - cell "Not Answered" [ref=f129e803]
+                - cell "00:00:00" [ref=f129e804]
+                - cell "Sana Shaikh" [ref=f129e805]
+                - cell "Sana Shaikh" [ref=f129e806]
+                - cell "Oct 18, 2026 at 6:07 PM" [ref=f129e807]
+                - cell "No recording available" [ref=f129e808]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e810]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e812]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e813]: 
+                - cell [ref=f129e814]:
+                  - link "" [ref=f129e816] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e818]:
+                - cell [ref=f129e819]:
+                  - link "#88950" [ref=f129e820] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Amit" [ref=f129e821]
+                - cell "Answered" [ref=f129e822]
+                - cell "00:03:34" [ref=f129e823]
+                - cell "Roma Tejwaney" [ref=f129e824]
+                - cell "Roma Tejwaney" [ref=f129e825]
+                - cell "Oct 18, 2026 at 6:06 PM" [ref=f129e826]
+                - cell "Your browser does not support the audio element. You can" [ref=f129e827]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e830]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e832]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e833]: 
+                - cell [ref=f129e834]:
+                  - link "" [ref=f129e836] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e838]:
+                - cell [ref=f129e839]:
+                  - link "#88150" [ref=f129e840] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Rakesh Gite" [ref=f129e841]
+                - cell "Not Answered" [ref=f129e842]
+                - cell "00:00:00" [ref=f129e843]
+                - cell "Sana Shaikh" [ref=f129e844]
+                - cell "Sana Shaikh" [ref=f129e845]
+                - cell "Oct 18, 2026 at 6:03 PM" [ref=f129e846]
+                - cell "No recording available" [ref=f129e847]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e849]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e851]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e852]: 
+                - cell [ref=f129e853]:
+                  - link "" [ref=f129e855] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e857]:
+                - cell [ref=f129e858]:
+                  - link "#48917" [ref=f129e859] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Sandesh Satam" [ref=f129e860]
+                - cell "Not Answered" [ref=f129e861]
+                - cell "00:00:00" [ref=f129e862]
+                - cell "Pooja Sade" [ref=f129e863]
+                - cell "Pooja Sade" [ref=f129e864]
+                - cell "Oct 18, 2026 at 5:53 PM" [ref=f129e865]
+                - cell "No recording available" [ref=f129e866]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e868]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e870]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e871]: 
+                - cell [ref=f129e872]:
+                  - link "" [ref=f129e874] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e876]:
+                - cell [ref=f129e877]:
+                  - link "#88811" [ref=f129e878] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "tukaram alande" [ref=f129e879]
+                - cell "Not Answered" [ref=f129e880]
+                - cell "00:00:00" [ref=f129e881]
+                - cell "Viraj Vcpipl" [ref=f129e882]
+                - cell "Viraj Vcpipl" [ref=f129e883]
+                - cell "Oct 18, 2026 at 5:50 PM" [ref=f129e884]
+                - cell "No recording available" [ref=f129e885]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e887]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e889]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e890]: 
+                - cell [ref=f129e891]:
+                  - link "" [ref=f129e893] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e895]:
+                - cell [ref=f129e896]:
+                  - link "#82602" [ref=f129e897] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Rohit Shingare" [ref=f129e898]
+                - cell "Not Answered" [ref=f129e899]
+                - cell "00:00:00" [ref=f129e900]
+                - cell "Pravin Malusare" [ref=f129e901]
+                - cell "Chetan Bankar" [ref=f129e902]
+                - cell "Oct 18, 2026 at 5:42 PM" [ref=f129e903]
+                - cell "No recording available" [ref=f129e904]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e906]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e908]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e909]: 
+                - cell [ref=f129e910]:
+                  - link "" [ref=f129e912] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e914]:
+                - cell [ref=f129e915]:
+                  - link "#79008" [ref=f129e916] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Suverna Ma'am" [ref=f129e917]
+                - cell "Not Answered" [ref=f129e918]
+                - cell "00:00:00" [ref=f129e919]
+                - cell "Asif Sayyad" [ref=f129e920]
+                - cell "Komal Ovhal" [ref=f129e921]
+                - cell "Oct 18, 2026 at 5:27 PM" [ref=f129e922]
+                - cell "No recording available" [ref=f129e923]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e925]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e927]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e928]: 
+                - cell [ref=f129e929]:
+                  - link "" [ref=f129e931] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e933]:
+                - cell [ref=f129e934]:
+                  - link "#88946" [ref=f129e935] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Mjf Lion Jagdish Agrawal" [ref=f129e936]
+                - cell "Answered" [ref=f129e937]
+                - cell "00:00:15" [ref=f129e938]
+                - cell "Roma Tejwaney" [ref=f129e939]
+                - cell "Roma Tejwaney" [ref=f129e940]
+                - cell "Oct 18, 2026 at 5:20 PM" [ref=f129e941]
+                - cell "Your browser does not support the audio element. You can" [ref=f129e942]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e945]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e947]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e948]: 
+                - cell [ref=f129e949]:
+                  - link "" [ref=f129e951] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e953]:
+                - cell [ref=f129e954]:
+                  - link "#88841" [ref=f129e955] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Rupesh Raj Yaduvanshi" [ref=f129e956]
+                - cell "Answered" [ref=f129e957]
+                - cell "00:00:23" [ref=f129e958]
+                - cell "Viraj Vcpipl" [ref=f129e959]
+                - cell "Viraj Vcpipl" [ref=f129e960]
+                - cell "Oct 18, 2026 at 5:18 PM" [ref=f129e961]
+                - cell "Your browser does not support the audio element. You can" [ref=f129e962]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e965]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e967]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e968]: 
+                - cell [ref=f129e969]:
+                  - link "" [ref=f129e971] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e973]:
+                - cell [ref=f129e974]:
+                  - link "#72838" [ref=f129e975] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Tukaram Deshmukh" [ref=f129e976]
+                - cell "Not Answered" [ref=f129e977]
+                - cell "00:00:00" [ref=f129e978]
+                - cell "Abhishek Ranpise" [ref=f129e979]
+                - cell "Sana Shaikh" [ref=f129e980]
+                - cell "Oct 18, 2026 at 5:14 PM" [ref=f129e981]
+                - cell "No recording available" [ref=f129e982]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e984]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e986]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e987]: 
+                - cell [ref=f129e988]:
+                  - link "" [ref=f129e990] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e992]:
+                - cell [ref=f129e993]:
+                  - link "#88884" [ref=f129e994] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Nitish Anandache" [ref=f129e995]
+                - cell "Not Answered" [ref=f129e996]
+                - cell "00:00:00" [ref=f129e997]
+                - cell "Viraj Vcpipl" [ref=f129e998]
+                - cell "Viraj Vcpipl" [ref=f129e999]
+                - cell "Oct 18, 2026 at 4:42 PM" [ref=f129e1000]
+                - cell "No recording available" [ref=f129e1001]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1003]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1005]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1006]: 
+                - cell [ref=f129e1007]:
+                  - link "" [ref=f129e1009] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e1011]:
+                - cell [ref=f129e1012]:
+                  - link "#51865" [ref=f129e1013] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Datta" [ref=f129e1014]
+                - cell "Answered" [ref=f129e1015]
+                - cell "00:01:02" [ref=f129e1016]
+                - cell "Pooja Sade" [ref=f129e1017]
+                - cell "Pooja Sade" [ref=f129e1018]
+                - cell "Oct 18, 2026 at 4:41 PM" [ref=f129e1019]
+                - cell "No recording available" [ref=f129e1020]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1022]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1024]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1025]: 
+                - cell [ref=f129e1026]:
+                  - link "" [ref=f129e1028] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e1030]:
+                - cell [ref=f129e1031]:
+                  - link "#63113" [ref=f129e1032] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Rohit Shinde" [ref=f129e1033]
+                - cell "Not Answered" [ref=f129e1034]
+                - cell "00:00:00" [ref=f129e1035]
+                - cell "Pravin Malusare" [ref=f129e1036]
+                - cell "Pravin Malusare" [ref=f129e1037]
+                - cell "Oct 18, 2026 at 4:27 PM" [ref=f129e1038]
+                - cell "No recording available" [ref=f129e1039]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1041]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1043]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1044]: 
+                - cell [ref=f129e1045]:
+                  - link "" [ref=f129e1047] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e1049]:
+                - cell [ref=f129e1050]:
+                  - link "#83155" [ref=f129e1051] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Aditya Thorat" [ref=f129e1052]
+                - cell "Answered" [ref=f129e1053]
+                - cell "00:00:49" [ref=f129e1054]
+                - cell "Rachna Gaikwad" [ref=f129e1055]
+                - cell "Rachna Gaikwad" [ref=f129e1056]
+                - cell "Oct 18, 2026 at 4:24 PM" [ref=f129e1057]
+                - cell "No recording available" [ref=f129e1058]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1060]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1062]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1063]: 
+                - cell [ref=f129e1064]:
+                  - link "" [ref=f129e1066] [cursor=pointer]:
+                    - /url: javascript:void(0);
+              - row [ref=f129e1068]:
+                - cell [ref=f129e1069]:
+                  - link "#87860" [ref=f129e1070] [cursor=pointer]:
+                    - /url: javascript:;
+                - cell "Yash Vyankat Bhosle" [ref=f129e1071]
+                - cell "Answered" [ref=f129e1072]
+                - cell "00:00:45" [ref=f129e1073]
+                - cell "Almas Khan" [ref=f129e1074]
+                - cell "Almas Khan" [ref=f129e1075]
+                - cell "Oct 18, 2026 at 3:38 PM" [ref=f129e1076]
+                - cell "No recording available" [ref=f129e1077]
+                - cell "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1079]:
+                  - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1081]:
+                    - generic "AI features are currently unavailable. Please enable the AI feature flag or contact your administrator to grant the required access." [ref=f129e1082]: 
+                - cell [ref=f129e1083]:
+                  - link "" [ref=f129e1085] [cursor=pointer]:
+                    - /url: javascript:void(0);
+          - navigation [ref=f129e1089]:
+            - list [ref=f129e1090]:
+              - listitem [ref=f129e1091]:
+                - generic [ref=f129e1092] [cursor=pointer]: Next »
+          - text:    
+        - text: 
+  - text:   
+  - iframe [aria-hidden] [ref=f129e1093]:
+    - generic [ref=f130e4]:
+      - generic [ref=f130e5]:
+        - heading "Latest changes" [level=3] [ref=f130e7]
+        - generic [ref=f130e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f130e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f130e10]: New
+            - generic [ref=f130e11]: Improvement
+            - strong [ref=f130e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f130e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f130e14]: New
+            - generic [ref=f130e15]: Improvement
+            - strong [ref=f130e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f130e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f130e18]: New
+            - strong [ref=f130e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f130e20]:
+          - link "Sell-Do updates" [ref=f130e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f130e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f130e23]:
+        - generic [ref=f130e24]:
+          - generic [ref=f130e25]:
+            - link [ref=f130e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f130e27]
+          - paragraph [ref=f130e30]:
+            - link "Read the whole post" [ref=f130e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f130e32]:
+          - generic [ref=f130e33]:
+            - link [ref=f130e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f130e35]
+          - paragraph [ref=f130e38]:
+            - link "Read the whole post" [ref=f130e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f130e40]:
+          - generic [ref=f130e41]:
+            - link [ref=f130e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f130e43]
+          - paragraph [ref=f130e46]:
+            - link "Read the whole post" [ref=f130e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

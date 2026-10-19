@@ -1,0 +1,253 @@
+- generic [active] [ref=f123e1]:
+  - navigation [ref=f123e2]:
+    - generic [ref=f123e3]:
+      - generic [ref=f123e4]: 
+      - generic [ref=f123e6]:
+        - link "Search..." [ref=f123e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f123e9]
+      - searchbox "Search..." [ref=f123e10]
+    - generic [ref=f123e11]:
+      - generic [ref=f123e12]:
+        - link "" [ref=f123e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f123e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f123e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f123e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f123e22]:
+        - generic [aria-hidden] [ref=f123e23]: 
+        - text: "+918069150607"
+      - generic [ref=f123e24]: "Balance: ₹ -2686.54"
+      - generic [ref=f123e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f123e26]:
+    - generic [ref=f123e27]:
+      - link "" [ref=f123e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f123e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f123e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f123e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f123e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f123e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f123e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f123e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f123e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f123e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f123e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f123e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f123e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f123e77]:
+    - generic [ref=f123e78]:
+      - generic [ref=f123e79]:
+        - generic [ref=f123e81]:
+          - generic [ref=f123e82]:
+            - generic [ref=f123e84]:
+              - log [ref=f123e86]
+              - generic [ref=f123e88]:
+                - generic [ref=f123e89]: Project
+                - combobox [ref=f123e91]
+            - generic [ref=f123e98]:
+              - log [ref=f123e100]
+              - generic [ref=f123e102]:
+                - generic [ref=f123e103]: Source
+                - combobox [ref=f123e105]
+            - generic [ref=f123e112]:
+              - log [ref=f123e114]
+              - generic [ref=f123e116]:
+                - generic [ref=f123e117]: Sales Person
+                - combobox [ref=f123e119]
+            - generic [ref=f123e126]:
+              - log [ref=f123e128]
+              - generic [ref=f123e130]:
+                - generic [ref=f123e131]: Booking Stage
+                - combobox [ref=f123e133]
+          - group [ref=f123e139]:
+            - generic [aria-hidden] [ref=f123e141]: 
+        - generic [ref=f123e142]:
+          - generic [ref=f123e144]:
+            - log [ref=f123e146]
+            - generic [ref=f123e148]:
+              - generic [ref=f123e149]: Monthly Till Date
+              - combobox [ref=f123e151]
+          - generic [ref=f123e158]:
+            - textbox "Select Date" [disabled] [ref=f123e159]: Oct 1, 2026
+            - img [aria-hidden] [ref=f123e161] [cursor=pointer]: 
+          - generic [ref=f123e163]:
+            - textbox "Pick a time" [ref=f123e164]: 12:00 am
+            - generic [ref=f123e165] [cursor=pointer]
+          - generic [ref=f123e169]:
+            - textbox "Select Date" [disabled] [ref=f123e170]: Oct 19, 2026
+            - img [aria-hidden] [ref=f123e172] [cursor=pointer]: 
+          - generic [ref=f123e174]:
+            - textbox "Pick a Time" [ref=f123e175]: 11:59 pm
+            - generic [ref=f123e176] [cursor=pointer]
+          - button "Apply" [disabled]
+      - generic [ref=f123e179]:
+        - generic [ref=f123e180]:
+          - generic [ref=f123e181]: Quick Summary
+          - generic [ref=f123e183]:
+            - generic [ref=f123e184]:
+              - generic [ref=f123e185]: Total Leads
+              - link "626" [ref=f123e188] [cursor=pointer]:
+                - /url: /client/0/custom-reporting?filter_params=%7B%22created_at%22:%7B%22operator%22:%22between%22,%22value%22:%5B%222026-09-30%2018:30:00%22,%222026-10-19%2018:29:59%22%5D%7D,%22campaign_responses.is_new%22:%7B%22operator%22:%22equal%22,%22value%22:%22true%22%7D,%22active%22:%7B%22operator%22:%22equal%22,%22value%22:%22true%22%7D%7D
+            - generic [ref=f123e189]:
+              - generic [ref=f123e190]: Conducted Site Visits
+              - link "165" [ref=f123e193] [cursor=pointer]:
+                - /url: /client/0/site_visits/custom-reporting?filter_params=%7B%22created_at%22:%7B%22operator%22:%22between%22,%22value%22:%5B%222026-09-30%2018:30:00%22,%222026-10-19%2018:29:59%22%5D%7D,%22status%22:%7B%22operator%22:%22equal%22,%22value%22:%22conducted%22%7D%7D
+            - generic [ref=f123e194]:
+              - generic [ref=f123e195]: Bookings
+              - link "24" [ref=f123e198] [cursor=pointer]:
+                - /url: /client/post_sales/custom-reporting?filter_params=%7B%22created_at%22:%7B%22operator%22:%22between%22,%22value%22:%5B%222026-09-30%2018:30:00%22,%222026-10-19%2018:29:59%22%5D%7D%7D
+            - generic [ref=f123e199]:
+              - generic [ref=f123e200]: Agreement Value (INR)
+              - link "6,04,59,784" [ref=f123e203] [cursor=pointer]:
+                - /url: /client/post_sales/custom-reporting?filter_params=%7B%22created_at%22:%7B%22operator%22:%22between%22,%22value%22:%5B%222026-09-30%2018:30:00%22,%222026-10-19%2018:29:59%22%5D%7D%7D
+        - generic [ref=f123e204]:
+          - generic [ref=f123e205]:
+            - generic [ref=f123e206] [cursor=pointer]: Leads
+            - generic [ref=f123e208] [cursor=pointer]: Site Visits
+            - generic [ref=f123e210] [cursor=pointer]: Bookings
+          - generic [ref=f123e214]:
+            - generic [ref=f123e215]:
+              - generic [ref=f123e216]:
+                - generic [ref=f123e217]: ‌
+                - generic [ref=f123e222]:
+                  - generic [ref=f123e223]: ‌
+                  - generic [ref=f123e225]: ‌
+              - generic [ref=f123e228]:
+                - generic [ref=f123e229]: ‌
+                - generic [ref=f123e234]:
+                  - generic [ref=f123e235]: ‌
+                  - generic [ref=f123e237]: ‌
+            - generic [ref=f123e240]:
+              - generic [ref=f123e241]:
+                - generic [ref=f123e242]: ‌
+                - generic [ref=f123e247]:
+                  - generic [ref=f123e248]: ‌
+                  - generic [ref=f123e250]: ‌
+              - generic [ref=f123e253]:
+                - generic [ref=f123e254]: ‌
+                - generic [ref=f123e259]:
+                  - generic [ref=f123e260]: ‌
+                  - generic [ref=f123e262]: ‌
+    - generic [ref=f123e265]:
+      - generic [ref=f123e266]:
+        - generic [ref=f123e267]: User Availability
+        - generic [ref=f123e268]:
+          - generic [ref=f123e269]:
+            - generic [ref=f123e270]: Total In
+            - generic [ref=f123e271]: Total Not In
+            - generic [ref=f123e272]: Total On Leave
+          - generic [ref=f123e273]:
+            - link "0" [ref=f123e274] [cursor=pointer]:
+              - /url: /client/users?search_params[state]=check_in
+            - link "30" [ref=f123e275] [cursor=pointer]:
+              - /url: /client/users?search_params[state]=check_out
+            - link "0" [ref=f123e276] [cursor=pointer]:
+              - /url: /client/users?search_params[state]=on_leave
+      - generic [ref=f123e277]:
+        - generic [ref=f123e278]:
+          - generic [ref=f123e279]:
+            - img [aria-hidden] [ref=f123e281] [cursor=pointer]: 
+            - text: Mon, 19 Oct
+            - img [aria-hidden] [ref=f123e284] [cursor=pointer]: 
+          - img [aria-hidden] [ref=f123e291] [cursor=pointer]: 
+        - generic [ref=f123e293]:
+          - generic [ref=f123e294] [cursor=pointer]:
+            - generic [ref=f123e295]: Site Visits
+            - generic [ref=f123e296]: (2)
+          - generic [ref=f123e297] [cursor=pointer]:
+            - generic [ref=f123e298]: Follow Ups
+            - generic [ref=f123e299]: (504)
+          - generic [ref=f123e300] [cursor=pointer]:
+            - generic [ref=f123e301]: Tasks
+            - generic [ref=f123e302]: (0)
+        - generic [ref=f123e304]:
+          - generic [ref=f123e305] [cursor=pointer]:
+            - generic [ref=f123e306]:
+              - generic [ref=f123e307]:
+                - generic [ref=f123e308]: (#73766) Rahul (Owner)
+                - generic [ref=f123e309]: 
+              - generic [ref=f123e312]: Prospect
+            - generic [ref=f123e314]:
+              - generic [ref=f123e315]: Scheduled
+              - generic [ref=f123e317]: 12:16 PM to 12:31 PM
+              - generic [ref=f123e319]: by Sana Shaikh
+          - generic [ref=f123e321] [cursor=pointer]:
+            - generic [ref=f123e322]:
+              - generic [ref=f123e323]:
+                - generic [ref=f123e324]: (#73766) Rahul (Owner)
+                - generic [ref=f123e325]: 
+              - generic [ref=f123e328]: Prospect
+            - generic [ref=f123e330]:
+              - generic [ref=f123e331]: Scheduled
+              - generic [ref=f123e333]: 01:34 PM to 01:49 PM
+              - generic [ref=f123e335]: by Sana Shaikh
+  - iframe [aria-hidden] [ref=f123e338]:
+    - generic [ref=f124e4]:
+      - generic [ref=f124e5]:
+        - heading "Latest changes" [level=3] [ref=f124e7]
+        - generic [ref=f124e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f124e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f124e10]: New
+            - generic [ref=f124e11]: Improvement
+            - strong [ref=f124e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f124e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f124e14]: New
+            - generic [ref=f124e15]: Improvement
+            - strong [ref=f124e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f124e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f124e18]: New
+            - strong [ref=f124e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f124e20]:
+          - link "Sell-Do updates" [ref=f124e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f124e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f124e23]:
+        - generic [ref=f124e24]:
+          - generic [ref=f124e25]:
+            - link [ref=f124e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f124e27]
+          - paragraph [ref=f124e30]:
+            - link "Read the whole post" [ref=f124e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f124e32]:
+          - generic [ref=f124e33]:
+            - link [ref=f124e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f124e35]
+          - paragraph [ref=f124e38]:
+            - link "Read the whole post" [ref=f124e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f124e40]:
+          - generic [ref=f124e41]:
+            - link [ref=f124e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f124e43]
+          - paragraph [ref=f124e46]:
+            - link "Read the whole post" [ref=f124e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

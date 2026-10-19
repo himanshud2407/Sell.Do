@@ -1,0 +1,337 @@
+- generic [active] [ref=f55e1]:
+  - navigation [ref=f55e2]:
+    - generic [ref=f55e3]:
+      - generic [ref=f55e4]: 
+      - generic [ref=f55e6]:
+        - link "Search..." [ref=f55e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f55e9]
+      - searchbox "Search..." [ref=f55e10]
+    - generic [ref=f55e11]:
+      - generic [ref=f55e12]:
+        - link "" [ref=f55e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f55e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f55e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f55e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f55e22]:
+        - generic [aria-hidden] [ref=f55e23]: 
+        - text: "+918069150607"
+      - generic [ref=f55e24]: "Balance: ₹ -2684.84"
+      - generic [ref=f55e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f55e26]:
+    - generic [ref=f55e27]:
+      - link "" [ref=f55e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f55e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f55e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f55e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f55e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f55e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f55e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f55e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f55e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f55e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f55e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f55e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f55e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f55e71]:
+    - navigation "breadcrumb" [ref=f55e74]:
+      - list [ref=f55e75]:
+        - listitem [ref=f55e76]:
+          - link "Home" [ref=f55e77] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f55e78]:
+          - text: 
+          - link "Settings Management" [ref=f55e79] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f55e80]:  Export
+    - generic [ref=f55e82]:
+      - generic [ref=f55e84]:
+        - generic [ref=f55e85]: administration
+        - list [ref=f55e86] [cursor=pointer]:
+          - listitem [ref=f55e87]:
+            - link "User Management" [ref=f55e88]:
+              - /url: /client/dashboard/users
+          - listitem [ref=f55e89]:
+            - link "Billing" [ref=f55e90]:
+              - /url: /client/dashboard/billing
+          - listitem [ref=f55e91]:
+            - link "Search Lists" [ref=f55e92]:
+              - /url: /client/search_criteria
+          - listitem [ref=f55e93]:
+            - link "Lead Settings" [ref=f55e94]:
+              - /url: /client/dashboard/lead_settings
+          - listitem [ref=f55e95]:
+            - link "Import" [ref=f55e96]:
+              - /url: /client/dashboard/import
+          - listitem [ref=f55e97]:
+            - link "Export" [ref=f55e98]:
+              - /url: /client/export/export_types
+          - listitem [ref=f55e99]:
+            - link "Telephony" [ref=f55e100]:
+              - /url: /client/dashboard/telephony_settings
+          - listitem [ref=f55e101]:
+            - link "Partner Settings" [ref=f55e102]:
+              - /url: /client/dashboard/channel_partners_settings
+          - listitem [ref=f55e103]:
+            - link "Custom Fields" [ref=f55e104]:
+              - /url: /client/dashboard/custom_fields
+          - listitem [ref=f55e105]:
+            - link "Company Details" [ref=f55e106]:
+              - /url: /client/edit
+          - listitem [ref=f55e107]:
+            - link "Pre/Sales Configuration" [ref=f55e108]:
+              - /url: /client/configuration/pre_sales
+          - listitem [ref=f55e109]:
+            - link "Booking Lists" [ref=f55e110]:
+              - /url: /client/bookings_search_criteria
+          - listitem [ref=f55e111]:
+            - link "Goals" [ref=f55e112]:
+              - /url: /client/goals
+          - listitem [ref=f55e113]:
+            - link "User Targets" [ref=f55e114]:
+              - /url: /client/user_targets
+          - listitem [ref=f55e115]:
+            - link "Reassign Leads" [ref=f55e116]:
+              - /url: /client/reassign_leads_form
+          - listitem [ref=f55e117]:
+            - link "Bulk Job History" [ref=f55e118]:
+              - /url: /client/bulk_jobs
+          - listitem [ref=f55e119]:
+            - link "Webhook History" [ref=f55e120]:
+              - /url: /client/audits?type=Webhook
+          - listitem [ref=f55e121]:
+            - link "Routing Setup" [ref=f55e122]:
+              - /url: /client/dashboard/routing_setup
+          - listitem [ref=f55e123]:
+            - link "Bulk Check Lead Presence" [ref=f55e124]:
+              - /url: /client/bulk_check_leads_presence_form
+      - generic [ref=f55e126]:
+        - link [ref=f55e128] [cursor=pointer]:
+          - /url: /client/export_lists
+          - generic [ref=f55e130]:
+            - heading "" [level=1] [ref=f55e131]
+            - text: Export Templates
+            - paragraph [ref=f55e133]: View export templates here.
+        - link [ref=f55e135] [cursor=pointer]:
+          - /url: /client/job_schedules
+          - generic [ref=f55e137]:
+            - heading "" [level=1] [ref=f55e138]
+            - text: Export Job Schedules
+            - paragraph [ref=f55e140]: View automated export jobs schedule.
+        - link [ref=f55e142] [cursor=pointer]:
+          - /url: /client/export/check_user_access/leads
+          - generic [ref=f55e144]:
+            - heading "" [level=1] [ref=f55e145]
+            - text: Export Leads
+            - paragraph [ref=f55e147]: Download your leads data.
+        - link [ref=f55e149] [cursor=pointer]:
+          - /url: /client/export/check_user_access/lead_analytics
+          - generic [ref=f55e151]:
+            - heading "" [level=1] [ref=f55e152]
+            - text: Export Lead Analytics
+            - paragraph [ref=f55e154]: Download your lead analytics data.
+        - link [ref=f55e156] [cursor=pointer]:
+          - /url: /client/export/check_user_access/users
+          - generic [ref=f55e158]:
+            - heading "" [level=1] [ref=f55e159]
+            - text: Export Users
+            - paragraph [ref=f55e161]: Download your users data.
+        - link [ref=f55e163] [cursor=pointer]:
+          - /url: /client/export/check_user_access/user_logs
+          - generic [ref=f55e165]:
+            - heading "" [level=1] [ref=f55e166]
+            - text: Export User Logs
+            - paragraph [ref=f55e168]: Download your user logs data.
+        - link [ref=f55e170] [cursor=pointer]:
+          - /url: /client/export/check_user_access/tasks
+          - generic [ref=f55e172]:
+            - heading "" [level=1] [ref=f55e173]
+            - text: Export Tasks
+            - paragraph [ref=f55e175]: Download your tasks data.
+        - link [ref=f55e177] [cursor=pointer]:
+          - /url: /client/export/check_user_access/virtual_numbers
+          - generic [ref=f55e179]:
+            - heading "" [level=1] [ref=f55e180]
+            - text: Export Virtual Numbers
+            - paragraph [ref=f55e182]: Download your virtual numbers data.
+        - link [ref=f55e184] [cursor=pointer]:
+          - /url: /client/export/check_user_access/bookings
+          - generic [ref=f55e186]:
+            - heading "" [level=1] [ref=f55e187]
+            - text: Export Booking Details
+            - paragraph [ref=f55e189]: Download your lead booking details.
+        - link [ref=f55e191] [cursor=pointer]:
+          - /url: /client/export/check_user_access/campaigns
+          - generic [ref=f55e193]:
+            - heading "" [level=1] [ref=f55e194]
+            - text: Export Campaigns
+            - paragraph [ref=f55e196]: Download your campaigns data.
+        - link [ref=f55e198] [cursor=pointer]:
+          - /url: /client/export/check_user_access/invoices
+          - generic [ref=f55e200]:
+            - heading "" [level=1] [ref=f55e201]
+            - text: Export Invoices
+            - paragraph [ref=f55e203]: Download your invoies.
+        - link [ref=f55e205] [cursor=pointer]:
+          - /url: /client/export/check_user_access/calls
+          - generic [ref=f55e207]:
+            - heading "" [level=1] [ref=f55e208]
+            - text: Export Calls
+            - paragraph [ref=f55e210]: Download your calls data.
+        - link [ref=f55e212] [cursor=pointer]:
+          - /url: /client/export/check_user_access/site_visits
+          - generic [ref=f55e214]:
+            - heading "" [level=1] [ref=f55e215]
+            - text: Export Site Visits
+            - paragraph [ref=f55e217]: Download your Site Visits.
+        - link [ref=f55e219] [cursor=pointer]:
+          - /url: /client/export/check_user_access/followups
+          - generic [ref=f55e221]:
+            - heading "" [level=1] [ref=f55e222]
+            - text: Export Followups
+            - paragraph [ref=f55e224]: Download your followups data.
+        - link [ref=f55e226] [cursor=pointer]:
+          - /url: /client/export/check_user_access/sms
+          - generic [ref=f55e228]:
+            - heading "" [level=1] [ref=f55e229]
+            - text: Export Sms
+            - paragraph [ref=f55e231]: Download your sms data.
+        - link [ref=f55e233] [cursor=pointer]:
+          - /url: /client/export/check_user_access/emails
+          - generic [ref=f55e235]:
+            - heading "" [level=1] [ref=f55e236]
+            - text: Export Emails
+            - paragraph [ref=f55e238]: Download your emails data.
+        - link [ref=f55e240] [cursor=pointer]:
+          - /url: /client/export/check_user_access/channel_partners
+          - generic [ref=f55e242]:
+            - heading "" [level=1] [ref=f55e243]
+            - text: Export Partners
+            - paragraph [ref=f55e245]: Download your partner data.
+        - link [ref=f55e247] [cursor=pointer]:
+          - /url: /client/export/check_user_access/projects
+          - generic [ref=f55e249]:
+            - heading "" [level=1] [ref=f55e250]
+            - text: Export Projects
+            - paragraph [ref=f55e252]: Download your projects data.
+        - link [ref=f55e254] [cursor=pointer]:
+          - /url: /client/export/check_user_access/templates
+          - generic [ref=f55e256]:
+            - heading "" [level=1] [ref=f55e257]
+            - text: Export Email/Sms/Whatsapp Templates
+            - paragraph [ref=f55e259]: Download your Email/Sms/Whatsapp templates.
+        - link [ref=f55e261] [cursor=pointer]:
+          - /url: /client/export/check_user_access/routing_rules
+          - generic [ref=f55e263]:
+            - heading "" [level=1] [ref=f55e264]
+            - text: Export Routing Rules
+            - paragraph [ref=f55e266]: Download your routing rules.
+        - link [ref=f55e268] [cursor=pointer]:
+          - /url: /client/export/check_user_access/brokerage_invoices
+          - generic [ref=f55e270]:
+            - heading "" [level=1] [ref=f55e271]
+            - text: Export Brokerage Invoices
+            - paragraph [ref=f55e273]: Download your brokerage invoices data.
+        - link [ref=f55e275] [cursor=pointer]:
+          - /url: /client/export/check_user_access/booking_receipts
+          - generic [ref=f55e277]:
+            - heading "" [level=1] [ref=f55e278]
+            - text: Export Booking Receipts
+            - paragraph [ref=f55e280]: Download your booking receipts data.
+        - link [ref=f55e282] [cursor=pointer]:
+          - /url: /client/export/check_user_access/demand_letters
+          - generic [ref=f55e284]:
+            - heading "" [level=1] [ref=f55e285]
+            - text: Export Demand Letters
+            - paragraph [ref=f55e287]: Download your demand letters data.
+        - link [ref=f55e289] [cursor=pointer]:
+          - /url: /client/export/check_user_access/marketing
+          - generic [ref=f55e291]:
+            - heading "" [level=1] [ref=f55e292]
+            - text: Export Marketing Lead
+            - paragraph [ref=f55e294]: Download your Marketing data.
+        - link "NEW  Export WhatsApp Download your WhatsApp data." [ref=f55e296] [cursor=pointer]:
+          - /url: /client/export/check_user_access/whatsapps
+          - generic [ref=f55e297]:
+            - generic [ref=f55e298]: NEW
+            - generic [ref=f55e299]:
+              - heading "" [level=1] [ref=f55e300]
+              - text: Export WhatsApp
+              - paragraph [ref=f55e302]: Download your WhatsApp data.
+        - link [ref=f55e304] [cursor=pointer]:
+          - /url: /client/export
+          - generic [ref=f55e306]:
+            - heading "" [level=1] [ref=f55e307]
+            - text: Export History
+            - paragraph [ref=f55e309]: View audit logs for all your data downloads.
+  - iframe [aria-hidden] [ref=f55e311]:
+    - generic [ref=f56e4]:
+      - generic [ref=f56e5]:
+        - heading "Latest changes" [level=3] [ref=f56e7]
+        - generic [ref=f56e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f56e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f56e10]: New
+            - generic [ref=f56e11]: Improvement
+            - strong [ref=f56e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f56e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f56e14]: New
+            - generic [ref=f56e15]: Improvement
+            - strong [ref=f56e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f56e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f56e18]: New
+            - strong [ref=f56e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f56e20]:
+          - link "Sell-Do updates" [ref=f56e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f56e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f56e23]:
+        - generic [ref=f56e24]:
+          - generic [ref=f56e25]:
+            - link [ref=f56e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f56e27]
+          - paragraph [ref=f56e30]:
+            - link "Read the whole post" [ref=f56e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f56e32]:
+          - generic [ref=f56e33]:
+            - link [ref=f56e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f56e35]
+          - paragraph [ref=f56e38]:
+            - link "Read the whole post" [ref=f56e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f56e40]:
+          - generic [ref=f56e41]:
+            - link [ref=f56e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f56e43]
+          - paragraph [ref=f56e46]:
+            - link "Read the whole post" [ref=f56e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

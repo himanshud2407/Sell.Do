@@ -1,0 +1,330 @@
+- generic [active] [ref=f31e1]:
+  - navigation [ref=f31e2]:
+    - generic [ref=f31e3]:
+      - generic [ref=f31e4]: 
+      - generic [ref=f31e6]:
+        - link "Search..." [ref=f31e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f31e9]
+      - searchbox "Search..." [ref=f31e10]
+    - generic [ref=f31e11]:
+      - generic [ref=f31e12]:
+        - link "" [ref=f31e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f31e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f31e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f31e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f31e22]:
+        - generic [aria-hidden] [ref=f31e23]: 
+        - text: "+918069150607"
+      - generic [ref=f31e24]: "Balance: ₹ -2683.94"
+      - generic [ref=f31e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f31e26]:
+    - generic [ref=f31e27]:
+      - link "" [ref=f31e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f31e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f31e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f31e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f31e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f31e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f31e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f31e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f31e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f31e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f31e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f31e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f31e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f31e71]:
+    - navigation "breadcrumb" [ref=f31e74]:
+      - list [ref=f31e75]:
+        - listitem [ref=f31e76]:
+          - link "Home" [ref=f31e77] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f31e78]:
+          - text: 
+          - link "Settings Management" [ref=f31e79] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f31e80]:  Billing
+    - generic [ref=f31e82]:
+      - generic [ref=f31e84]:
+        - generic [ref=f31e85]: administration
+        - list [ref=f31e86] [cursor=pointer]:
+          - listitem [ref=f31e87]:
+            - link "User Management" [ref=f31e88]:
+              - /url: /client/dashboard/users
+          - listitem [ref=f31e89]:
+            - link "Billing" [ref=f31e90]:
+              - /url: /client/dashboard/billing
+          - listitem [ref=f31e91]:
+            - link "Search Lists" [ref=f31e92]:
+              - /url: /client/search_criteria
+          - listitem [ref=f31e93]:
+            - link "Lead Settings" [ref=f31e94]:
+              - /url: /client/dashboard/lead_settings
+          - listitem [ref=f31e95]:
+            - link "Import" [ref=f31e96]:
+              - /url: /client/dashboard/import
+          - listitem [ref=f31e97]:
+            - link "Export" [ref=f31e98]:
+              - /url: /client/export/export_types
+          - listitem [ref=f31e99]:
+            - link "Telephony" [ref=f31e100]:
+              - /url: /client/dashboard/telephony_settings
+          - listitem [ref=f31e101]:
+            - link "Partner Settings" [ref=f31e102]:
+              - /url: /client/dashboard/channel_partners_settings
+          - listitem [ref=f31e103]:
+            - link "Custom Fields" [ref=f31e104]:
+              - /url: /client/dashboard/custom_fields
+          - listitem [ref=f31e105]:
+            - link "Company Details" [ref=f31e106]:
+              - /url: /client/edit
+          - listitem [ref=f31e107]:
+            - link "Pre/Sales Configuration" [ref=f31e108]:
+              - /url: /client/configuration/pre_sales
+          - listitem [ref=f31e109]:
+            - link "Booking Lists" [ref=f31e110]:
+              - /url: /client/bookings_search_criteria
+          - listitem [ref=f31e111]:
+            - link "Goals" [ref=f31e112]:
+              - /url: /client/goals
+          - listitem [ref=f31e113]:
+            - link "User Targets" [ref=f31e114]:
+              - /url: /client/user_targets
+          - listitem [ref=f31e115]:
+            - link "Reassign Leads" [ref=f31e116]:
+              - /url: /client/reassign_leads_form
+          - listitem [ref=f31e117]:
+            - link "Bulk Job History" [ref=f31e118]:
+              - /url: /client/bulk_jobs
+          - listitem [ref=f31e119]:
+            - link "Webhook History" [ref=f31e120]:
+              - /url: /client/audits?type=Webhook
+          - listitem [ref=f31e121]:
+            - link "Routing Setup" [ref=f31e122]:
+              - /url: /client/dashboard/routing_setup
+          - listitem [ref=f31e123]:
+            - link "Bulk Check Lead Presence" [ref=f31e124]:
+              - /url: /client/bulk_check_leads_presence_form
+      - generic [ref=f31e125]:
+        - generic [ref=f31e126]:
+          - generic [ref=f31e128]:
+            - generic [ref=f31e130]:
+              - generic [ref=f31e131]: 
+              - text: Last invoice
+            - generic [ref=f31e132]:
+              - generic [ref=f31e133]:
+                - generic [ref=f31e134]:
+                  - generic [ref=f31e135]: Amount
+                  - generic [ref=f31e136]: ₹ 41575.0
+                - generic [ref=f31e137]:
+                  - generic [ref=f31e138]: Invoice raised on
+                  - generic [ref=f31e139]: 25/09/2026 05:30 AM
+                - generic [ref=f31e140]:
+                  - generic [ref=f31e141]: Due date
+                  - generic [ref=f31e142]: 25/09/2026 05:30 AM
+              - generic [ref=f31e143]:
+                - generic [ref=f31e144]:
+                  - generic [ref=f31e145]: Status
+                  - generic [ref=f31e146]: Paid
+                - generic [ref=f31e147]:
+                  - generic [ref=f31e148]: invoice number
+                  - generic [ref=f31e149]: Vishal Chugera Properties pvt ltd-16482268372260925
+                - generic [ref=f31e150]:
+                  - generic [ref=f31e151]: Download
+                  - link "View" [ref=f31e153] [cursor=pointer]:
+                    - /url: /client/invoices/6ab5b99897ce41056347776d
+          - generic [ref=f31e155]:
+            - generic [ref=f31e156]:
+              - generic [ref=f31e157]:
+                - generic [ref=f31e158]: 
+                - text: Plan
+              - button "View Usage" [ref=f31e161] [cursor=pointer]
+            - generic [ref=f31e162]:
+              - generic [ref=f31e163]:
+                - generic [ref=f31e164]:
+                  - generic [ref=f31e165]: Plan
+                  - generic [ref=f31e166]: Platinum
+                - generic [ref=f31e167]:
+                  - generic [ref=f31e168]: Billing Cycle End date
+                  - generic [ref=f31e169]: 25/11/2026
+                - generic [ref=f31e170]:
+                  - generic [ref=f31e171]: Balance
+                  - generic [ref=f31e172]: ₹ -2683.94
+                - generic [ref=f31e173]:
+                  - generic [ref=f31e174]: Leads Left/ Total Leads
+                  - generic [ref=f31e175]: 8105/50000
+                - generic [ref=f31e176]:
+                  - generic [ref=f31e177]: AI Credits
+                  - generic [ref=f31e178]: "500.0"
+                - generic [ref=f31e179]:
+                  - generic [ref=f31e180]: Calling Agent Credits
+                  - generic [ref=f31e181]: "0.0"
+              - separator [ref=f31e182]
+              - generic [ref=f31e183]:
+                - generic [ref=f31e185]: Users
+                - generic [ref=f31e187]: Virtual Numbers
+                - generic [ref=f31e189]: Whatsapp Business
+              - generic [ref=f31e191]:
+                - generic "Sales/Pre sales users" [ref=f31e194]: Sl/Psl
+                - generic "Admin users" [ref=f31e196]: admin
+                - generic "Marketing users" [ref=f31e198]: Mu
+                - generic "Post sales users" [ref=f31e200]: Posl
+                - generic "Unlimited Calling Users" [ref=f31e202]: UC
+                - generic "Virtual numbers(Kookoo,Mcube,Generic)" [ref=f31e204]: VNS
+                - generic "mobile virtual number" [ref=f31e206]: Mbl
+                - generic "International virtual number" [ref=f31e208]: Intnl
+              - generic [ref=f31e209]:
+                - generic [ref=f31e210]: Subscribed
+                - generic [ref=f31e212]: "31"
+                - generic [ref=f31e213]: "1"
+                - generic [ref=f31e214]: "0"
+                - generic [ref=f31e215]: "0"
+                - generic [ref=f31e216]: "0"
+                - generic [ref=f31e217]: "1"
+                - generic [ref=f31e218]: "2"
+                - generic [ref=f31e219]: "0"
+                - generic [ref=f31e220]: "0"
+              - generic [ref=f31e221]:
+                - generic [ref=f31e222]: Consumed
+                - generic [ref=f31e224]: "30"
+                - generic [ref=f31e225]: "1"
+                - generic [ref=f31e226]: "0"
+                - generic [ref=f31e227]: "0"
+                - generic [ref=f31e228]: "0"
+                - generic [ref=f31e229]: "1"
+                - generic [ref=f31e230]: "0"
+                - generic [ref=f31e231]: "0"
+                - generic [ref=f31e232]: "0"
+              - generic [ref=f31e233]:
+                - generic [ref=f31e235]:
+                  - button "Change Plan" [ref=f31e236] [cursor=pointer]
+                  - button "Add Balance" [ref=f31e237] [cursor=pointer]
+                - button "View Plan" [ref=f31e239] [cursor=pointer]
+        - generic [ref=f31e242]:
+          - generic [ref=f31e244]:
+            - table [ref=f31e246]:
+              - rowgroup [ref=f31e247]:
+                - row [ref=f31e248]:
+                  - columnheader "invoice number" [ref=f31e249]
+                  - columnheader "invoice type" [ref=f31e250]
+                  - columnheader "billing period" [ref=f31e251]
+                  - columnheader "amount" [ref=f31e252]
+                  - columnheader "status" [ref=f31e253]
+                  - columnheader "created at" [ref=f31e254]
+                  - columnheader "Actions" [ref=f31e255]
+              - rowgroup [ref=f31e256]:
+                - row [ref=f31e257]:
+                  - 'cell "Vishal Chugera Properties pvt ltd-16482268372260925 Billing Name: Vishal Chugera Properties pvt ltd" [ref=f31e258]'
+                  - cell "Monthly" [ref=f31e259]
+                  - cell "25/10/2026 - 25/11/2026" [ref=f31e260]
+                  - cell "₹ 41575.0 (Excluding Taxes) Net Amount ₹" [ref=f31e261]
+                  - cell [ref=f31e262]:
+                    - text: Paid
+                    - link "View" [ref=f31e264] [cursor=pointer]:
+                      - /url: "#"
+                  - cell "25/09/2026 05:30 AM Due Immediately" [ref=f31e265]
+                  - cell [ref=f31e266]:
+                    - link "" [ref=f31e268] [cursor=pointer]:
+                      - /url: javascript:void(0);
+                - row [ref=f31e270]:
+                  - 'cell "Vishal Chugera Properties pvt ltd-11402477257260919 Billing Name: Vishal Chugera Properties pvt ltd" [ref=f31e271]'
+                  - cell [ref=f31e272]
+                  - cell "19/09/2026 - 24/10/2026" [ref=f31e273]
+                  - cell "₹ 9600.0 (Excluding Taxes) Net Amount ₹" [ref=f31e274]
+                  - cell [ref=f31e275]:
+                    - text: Paid
+                    - link "View" [ref=f31e277] [cursor=pointer]:
+                      - /url: "#"
+                  - cell "19/09/2026 05:19 PM Due Immediately" [ref=f31e278]
+                  - cell [ref=f31e279]:
+                    - link "" [ref=f31e281] [cursor=pointer]:
+                      - /url: javascript:void(0);
+                - row [ref=f31e283]:
+                  - 'cell "Vishal Chugera Properties pvt ltd-21705306481260824 Billing Name: Vishal Chugera Properties pvt ltd" [ref=f31e284]'
+                  - cell "Monthly" [ref=f31e285]
+                  - cell "23/09/2026 - 24/10/2026" [ref=f31e286]
+                  - cell "₹ 41575.0 (Excluding Taxes) Net Amount ₹" [ref=f31e287]
+                  - cell [ref=f31e288]:
+                    - text: Paid
+                    - link "View" [ref=f31e290] [cursor=pointer]:
+                      - /url: "#"
+                  - cell "24/08/2026 05:30 AM Due Immediately" [ref=f31e291]
+                  - cell [ref=f31e292]:
+                    - link "" [ref=f31e294] [cursor=pointer]:
+                      - /url: javascript:void(0);
+            - text:  
+          - link "View All" [ref=f31e297] [cursor=pointer]:
+            - /url: /client/invoices
+        - text: 
+  - text:    
+  - iframe [aria-hidden] [ref=f31e298]:
+    - generic [ref=f35e4]:
+      - generic [ref=f35e5]:
+        - heading "Latest changes" [level=3] [ref=f35e7]
+        - generic [ref=f35e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f35e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f35e10]: New
+            - generic [ref=f35e11]: Improvement
+            - strong [ref=f35e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f35e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f35e14]: New
+            - generic [ref=f35e15]: Improvement
+            - strong [ref=f35e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f35e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f35e18]: New
+            - strong [ref=f35e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f35e20]:
+          - link "Sell-Do updates" [ref=f35e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f35e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f35e23]:
+        - generic [ref=f35e24]:
+          - generic [ref=f35e25]:
+            - link [ref=f35e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f35e27]
+          - paragraph [ref=f35e30]:
+            - link "Read the whole post" [ref=f35e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f35e32]:
+          - generic [ref=f35e33]:
+            - link [ref=f35e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f35e35]
+          - paragraph [ref=f35e38]:
+            - link "Read the whole post" [ref=f35e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f35e40]:
+          - generic [ref=f35e41]:
+            - link [ref=f35e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f35e43]
+          - paragraph [ref=f35e46]:
+            - link "Read the whole post" [ref=f35e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

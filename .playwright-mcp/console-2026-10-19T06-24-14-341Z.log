@@ -1,0 +1,1 @@
+[    3466ms] [WARNING] WebSocket connection to 'wss://ws.pusherapp.com/app/da7b21f3cf75f91a569c?protocol=7&client=js&version=2.1.6&flash=false' failed: WebSocket is closed before the connection is established. @ https://selldo-v2cdn-production.blr1.cdn.digitaloceanspaces.com/assets/client-422403b3945c8f78009e0fa49e4e05ee85daccac813aa2aa157447efb744e5a9.js:54064

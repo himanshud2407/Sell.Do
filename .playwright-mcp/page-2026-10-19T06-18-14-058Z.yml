@@ -1,0 +1,191 @@
+- generic [active] [ref=f40e1]:
+  - navigation [ref=f40e2]:
+    - generic [ref=f40e3]:
+      - generic [ref=f40e4]: 
+      - generic [ref=f40e6]:
+        - link "Search..." [ref=f40e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f40e9]
+      - searchbox "Search..." [ref=f40e10]
+    - generic [ref=f40e11]:
+      - generic [ref=f40e12]:
+        - link "" [ref=f40e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f40e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f40e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f40e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f40e22]:
+        - generic [aria-hidden] [ref=f40e23]: 
+        - text: "+918069150607"
+      - generic [ref=f40e24]: "Balance: ₹ -2683.94"
+      - generic [ref=f40e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f40e26]:
+    - generic [ref=f40e27]:
+      - link "" [ref=f40e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f40e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f40e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f40e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f40e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f40e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f40e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f40e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f40e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f40e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f40e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f40e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f40e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f40e71]:
+    - navigation "breadcrumb" [ref=f40e74]:
+      - list [ref=f40e75]:
+        - listitem [ref=f40e76]:
+          - link "Home" [ref=f40e77] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f40e78]:
+          - text: 
+          - link "Settings Management" [ref=f40e79] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f40e80]:  Telephony Settings
+    - generic [ref=f40e82]:
+      - generic [ref=f40e84]:
+        - generic [ref=f40e85]: administration
+        - list [ref=f40e86] [cursor=pointer]:
+          - listitem [ref=f40e87]:
+            - link "User Management" [ref=f40e88]:
+              - /url: /client/dashboard/users
+          - listitem [ref=f40e89]:
+            - link "Billing" [ref=f40e90]:
+              - /url: /client/dashboard/billing
+          - listitem [ref=f40e91]:
+            - link "Search Lists" [ref=f40e92]:
+              - /url: /client/search_criteria
+          - listitem [ref=f40e93]:
+            - link "Lead Settings" [ref=f40e94]:
+              - /url: /client/dashboard/lead_settings
+          - listitem [ref=f40e95]:
+            - link "Import" [ref=f40e96]:
+              - /url: /client/dashboard/import
+          - listitem [ref=f40e97]:
+            - link "Export" [ref=f40e98]:
+              - /url: /client/export/export_types
+          - listitem [ref=f40e99]:
+            - link "Telephony" [ref=f40e100]:
+              - /url: /client/dashboard/telephony_settings
+          - listitem [ref=f40e101]:
+            - link "Partner Settings" [ref=f40e102]:
+              - /url: /client/dashboard/channel_partners_settings
+          - listitem [ref=f40e103]:
+            - link "Custom Fields" [ref=f40e104]:
+              - /url: /client/dashboard/custom_fields
+          - listitem [ref=f40e105]:
+            - link "Company Details" [ref=f40e106]:
+              - /url: /client/edit
+          - listitem [ref=f40e107]:
+            - link "Pre/Sales Configuration" [ref=f40e108]:
+              - /url: /client/configuration/pre_sales
+          - listitem [ref=f40e109]:
+            - link "Booking Lists" [ref=f40e110]:
+              - /url: /client/bookings_search_criteria
+          - listitem [ref=f40e111]:
+            - link "Goals" [ref=f40e112]:
+              - /url: /client/goals
+          - listitem [ref=f40e113]:
+            - link "User Targets" [ref=f40e114]:
+              - /url: /client/user_targets
+          - listitem [ref=f40e115]:
+            - link "Reassign Leads" [ref=f40e116]:
+              - /url: /client/reassign_leads_form
+          - listitem [ref=f40e117]:
+            - link "Bulk Job History" [ref=f40e118]:
+              - /url: /client/bulk_jobs
+          - listitem [ref=f40e119]:
+            - link "Webhook History" [ref=f40e120]:
+              - /url: /client/audits?type=Webhook
+          - listitem [ref=f40e121]:
+            - link "Routing Setup" [ref=f40e122]:
+              - /url: /client/dashboard/routing_setup
+          - listitem [ref=f40e123]:
+            - link "Bulk Check Lead Presence" [ref=f40e124]:
+              - /url: /client/bulk_check_leads_presence_form
+      - generic [ref=f40e126]:
+        - link [ref=f40e128] [cursor=pointer]:
+          - /url: /client/settings/ivr
+          - generic [ref=f40e130]:
+            - heading "" [level=1] [ref=f40e131]
+            - text: IVR Settings
+            - paragraph [ref=f40e133]: Setup welcome message, working hours and call forwarding details.
+        - link [ref=f40e135] [cursor=pointer]:
+          - /url: /client/configuration?type=call
+          - generic [ref=f40e137]:
+            - heading "" [level=1] [ref=f40e138]
+            - text: call settings
+            - paragraph [ref=f40e140]: Manage call settings.
+  - iframe [aria-hidden] [ref=f40e142]:
+    - generic [ref=f41e4]:
+      - generic [ref=f41e5]:
+        - heading "Latest changes" [level=3] [ref=f41e7]
+        - generic [ref=f41e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f41e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f41e10]: New
+            - generic [ref=f41e11]: Improvement
+            - strong [ref=f41e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f41e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f41e14]: New
+            - generic [ref=f41e15]: Improvement
+            - strong [ref=f41e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f41e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f41e18]: New
+            - strong [ref=f41e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f41e20]:
+          - link "Sell-Do updates" [ref=f41e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f41e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f41e23]:
+        - generic [ref=f41e24]:
+          - generic [ref=f41e25]:
+            - link [ref=f41e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f41e27]
+          - paragraph [ref=f41e30]:
+            - link "Read the whole post" [ref=f41e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f41e32]:
+          - generic [ref=f41e33]:
+            - link [ref=f41e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f41e35]
+          - paragraph [ref=f41e38]:
+            - link "Read the whole post" [ref=f41e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f41e40]:
+          - generic [ref=f41e41]:
+            - link [ref=f41e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f41e43]
+          - paragraph [ref=f41e46]:
+            - link "Read the whole post" [ref=f41e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

@@ -1,0 +1,38 @@
+- form [ref=f52e2]:
+  - dialog [ref=f52e3]:
+    - document [ref=f52e4]:
+      - generic [ref=f52e5]:
+        - generic [ref=f52e6]:
+          - heading "Pre/Sales Configuration" [level=5] [ref=f52e7]
+          - button "Close" [ref=f52e8]
+        - generic [ref=f52e9]:
+          - generic [ref=f52e10]:
+            - generic [ref=f52e12]:
+              - checkbox "Enable pre sales module" [disabled] [ref=f52e13]
+              - text: Enable pre sales module
+            - paragraph [ref=f52e14]: Enabling this will allow your sales to move leads from presales to sales. You can either allow an automated routing or allow your pre-sales team to choose a sales person. Even if this module is not enabled, you can still run a pre sales team and allow them to re-assign the customers (presales and sales tagging on customers is disabled)
+          - generic [ref=f52e15]:
+            - generic [ref=f52e17]:
+              - text: Select strategy for Lead push to sales
+              - link "This will be used to select strategy during Lead pushed to sales. If it is project-wise reassingment, it will pick pre-sales/sales names from project.":
+                - /url: javascript:;
+              - textbox "Select strategy for Lead push to sales" [disabled] [ref=f52e18]: team
+            - generic [ref=f52e20]:
+              - text: Allow Auto Forward
+              - link "Enabling this will allow pre-sales users to select only the team name before pushing the lead. No Sales Name in the team/project will be displayed. The lead will be pushed to the sales person from the team/project selected based on the scores of the Team Member.<br>**This will help avoiding biasness towards a particular sales & ensure equal lead allocation to your sales team'":
+                - /url: javascript:;
+              - textbox "Allow Auto Forward" [disabled] [ref=f52e21]: "false"
+          - generic [ref=f52e22]:
+            - generic [ref=f52e24]:
+              - checkbox "Enable pull to sales functionality" [disabled] [ref=f52e25]
+              - text: Enable pull to sales functionality
+            - paragraph [ref=f52e26]: Enabling this will allow your sales to pull leads from presales to sales.
+          - generic [ref=f52e27]:
+            - text: Disposition timeout
+            - spinbutton "Disposition timeout" [disabled] [ref=f52e28]: "30"
+          - generic [ref=f52e29]:
+            - text: Call center presence management
+            - generic [ref=f52e31]:
+              - checkbox "Call center presence management Enable Presence Management for call-center" [checked] [disabled] [ref=f52e32]
+              - text: Enable Presence Management for call-center
+          - generic [ref=f52e33]: Enable Pre-Sales Module to use Call-Center feature.

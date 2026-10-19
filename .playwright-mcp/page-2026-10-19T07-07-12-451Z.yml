@@ -1,0 +1,168 @@
+- generic [active] [ref=f190e1]:
+  - navigation [ref=f190e2]:
+    - generic [ref=f190e3]:
+      - generic [ref=f190e4]: 
+      - generic [ref=f190e6]:
+        - link "Search..." [ref=f190e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f190e9]
+      - searchbox "Search..." [ref=f190e10]
+    - generic [ref=f190e11]:
+      - generic [ref=f190e12]:
+        - link "" [ref=f190e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f190e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f190e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f190e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f190e22]:
+        - generic [aria-hidden] [ref=f190e23]: 
+        - text: "+918069150607"
+      - generic [ref=f190e24]: "Balance: ₹ -2688.84"
+      - generic [ref=f190e25]: "Leads Balance: 8101"
+  - text:  
+  - generic [ref=f190e26]:
+    - generic [ref=f190e27]:
+      - link "" [ref=f190e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f190e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f190e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f190e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f190e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f190e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f190e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f190e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f190e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f190e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f190e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f190e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f190e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f190e71]:
+    - navigation "breadcrumb" [ref=f190e74]:
+      - list [ref=f190e75]:
+        - listitem [ref=f190e76]:
+          - link "Home" [ref=f190e77] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f190e78]:
+          - text: 
+          - link "Project & Inventory Management" [ref=f190e79] [cursor=pointer]:
+            - /url: /client/dashboard/products
+        - listitem [ref=f190e80]:  Project Unit Stages
+    - generic [ref=f190e82]:
+      - generic [ref=f190e84]:
+        - generic [ref=f190e85]: Projects & Inventory
+        - list [ref=f190e86] [cursor=pointer]:
+          - listitem [ref=f190e87]:
+            - link "Projects" [ref=f190e88]:
+              - /url: /client/projects?status=true
+          - listitem [ref=f190e89]:
+            - link "Inventory Configuration" [ref=f190e90]:
+              - /url: /client/configuration/inventory_configuration
+          - listitem [ref=f190e91]:
+            - link "Project Tower Stages" [ref=f190e92]:
+              - /url: /client/configuration/project_tower_stages
+          - listitem [ref=f190e93]:
+            - link "Project Unit Stages" [ref=f190e94]:
+              - /url: /client/configuration/project_unit_stages
+      - generic [ref=f190e95]:
+        - generic [ref=f190e96]: You cannot modify the category of project unit stages. For Hold category, you can not add additional stages.
+        - generic [ref=f190e98]:
+          - generic [ref=f190e99]:
+            - generic [ref=f190e100]: Name
+            - generic [ref=f190e102]: Category
+            - generic [ref=f190e104]: Color Code
+          - generic [ref=f190e106]:
+            - textbox [ref=f190e108]: Available
+            - textbox [ref=f190e110]: Available
+            - textbox [ref=f190e112]
+            - link "" [ref=f190e114] [cursor=pointer]:
+              - /url: javascript:;
+          - generic [ref=f190e116]:
+            - textbox [ref=f190e118]: Booked
+            - textbox [ref=f190e120]: Booked
+            - textbox [ref=f190e122]
+            - link "" [ref=f190e124] [cursor=pointer]:
+              - /url: javascript:;
+          - generic [ref=f190e126]:
+            - textbox [ref=f190e128]: Hold
+            - textbox [ref=f190e130]: Hold
+            - textbox [ref=f190e132]
+            - link "" [ref=f190e134] [cursor=pointer]:
+              - /url: javascript:;
+          - generic [ref=f190e136]:
+            - textbox [ref=f190e138]: Not Available
+            - textbox [ref=f190e140]: Not Available
+            - textbox [ref=f190e142]
+            - link "" [ref=f190e144] [cursor=pointer]:
+              - /url: javascript:;
+        - generic [ref=f190e146]:
+          - link "Add a stage" [ref=f190e147] [cursor=pointer]:
+            - /url: javascript:;
+          - button "Save" [ref=f190e148] [cursor=pointer]
+  - iframe [aria-hidden] [ref=f190e149]:
+    - generic [ref=f191e4]:
+      - generic [ref=f191e5]:
+        - heading "Latest changes" [level=3] [ref=f191e7]
+        - generic [ref=f191e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f191e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f191e10]: New
+            - generic [ref=f191e11]: Improvement
+            - strong [ref=f191e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f191e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f191e14]: New
+            - generic [ref=f191e15]: Improvement
+            - strong [ref=f191e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f191e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f191e18]: New
+            - strong [ref=f191e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f191e20]:
+          - link "Sell-Do updates" [ref=f191e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f191e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f191e23]:
+        - generic [ref=f191e24]:
+          - generic [ref=f191e25]:
+            - link [ref=f191e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f191e27]
+          - paragraph [ref=f191e30]:
+            - link "Read the whole post" [ref=f191e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f191e32]:
+          - generic [ref=f191e33]:
+            - link [ref=f191e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f191e35]
+          - paragraph [ref=f191e38]:
+            - link "Read the whole post" [ref=f191e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f191e40]:
+          - generic [ref=f191e41]:
+            - link [ref=f191e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f191e43]
+          - paragraph [ref=f191e46]:
+            - link "Read the whole post" [ref=f191e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

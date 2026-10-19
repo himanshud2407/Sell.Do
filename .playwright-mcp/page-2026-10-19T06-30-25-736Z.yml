@@ -1,0 +1,229 @@
+- generic [active] [ref=f94e1]:
+  - navigation [ref=f94e2]:
+    - generic [ref=f94e3]:
+      - generic [ref=f94e4]: 
+      - generic [ref=f94e6]:
+        - link "Search..." [ref=f94e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f94e9]
+      - searchbox "Search..." [ref=f94e10]
+    - generic [ref=f94e11]:
+      - generic [ref=f94e12]:
+        - link "" [ref=f94e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f94e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f94e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f94e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f94e22]:
+        - generic [aria-hidden] [ref=f94e23]: 
+        - text: "+918069150607"
+      - generic [ref=f94e24]: "Balance: ₹ -2684.94"
+      - generic [ref=f94e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f94e26]:
+    - generic [ref=f94e27]:
+      - link "" [ref=f94e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f94e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f94e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f94e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f94e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f94e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f94e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f94e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f94e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f94e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f94e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f94e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f94e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f94e71]:
+    - generic [ref=f94e72]:
+      - navigation "breadcrumb" [ref=f94e74]:
+        - list [ref=f94e75]:
+          - listitem [ref=f94e76]:
+            - link "Home" [ref=f94e77] [cursor=pointer]:
+              - /url: /client/dashboard/settings
+          - listitem [ref=f94e78]:
+            - text: 
+            - link "Marketing Automation" [ref=f94e79] [cursor=pointer]:
+              - /url: /client/dashboard/automation
+          - listitem [ref=f94e80]:  Third Party Accounts
+      - button "Take a tour" [ref=f94e82] [cursor=pointer]
+    - generic [ref=f94e83]:
+      - generic [ref=f94e85]:
+        - generic [ref=f94e86]: Marketing Automation
+        - list [ref=f94e87] [cursor=pointer]:
+          - listitem [ref=f94e88]:
+            - link "Drips And Workflows" [ref=f94e89]:
+              - /url: /client/recipes?search_params%5Bis_active%5D=true
+          - listitem [ref=f94e90]:
+            - link "Bulk Activities" [ref=f94e91]:
+              - /url: /client/dashboard/bulk_activities
+          - listitem [ref=f94e92]:
+            - link "Lead Capture Forms" [ref=f94e93]:
+              - /url: /client/webforms
+          - listitem [ref=f94e94]:
+            - link "Campaign Setup" [ref=f94e95]:
+              - /url: /client/campaigns
+          - listitem [ref=f94e96]:
+            - link "Campaign Targets" [ref=f94e97]:
+              - /url: /client/campaign_targets
+          - listitem [ref=f94e98]:
+            - link "Virtual Numbers" [ref=f94e99]:
+              - /url: /client/campaigns/numbers
+          - listitem [ref=f94e100]:
+            - link "Track Source & Sub-source" [ref=f94e101]:
+              - /url: /client/source_configurations
+          - listitem [ref=f94e102]:
+            - link "Lead Score" [ref=f94e103]:
+              - /url: /client/recipes?search_params%5Bis_active%5D=true
+          - listitem [ref=f94e104]:
+            - link "Business WhatsApp Templates" [ref=f94e105]:
+              - /url: /client/whatsapp-templates
+          - listitem [ref=f94e106]:
+            - link "Other WhatsApp Templates" [ref=f94e107]:
+              - /url: /client/whatsapp_templates
+          - listitem [ref=f94e108]:
+            - link "Lead Integration" [ref=f94e109]:
+              - /url: /client/dashboard/lead_integrations
+          - listitem [ref=f94e110]:
+            - link "3rd Party Accounts" [ref=f94e111]:
+              - /url: /client/dashboard/third_party_accounts
+          - listitem [ref=f94e112]:
+            - link "ROI Configurations" [ref=f94e113]:
+              - /url: /client/roi_configs
+          - listitem [ref=f94e114]:
+            - link "Configure Webhooks" [ref=f94e115]:
+              - /url: /client/dashboard/webhooks
+      - generic [ref=f94e117]:
+        - link [ref=f94e119] [cursor=pointer]:
+          - /url: /client/configuration?type=adwords
+          - generic [ref=f94e121]:
+            - heading "" [level=1] [ref=f94e122]
+            - text: Adwords Account
+            - paragraph [ref=f94e124]: You haven't connected your Adwords Account.
+        - link [ref=f94e126] [cursor=pointer]:
+          - /url: /client/configuration?type=facebook_adverts
+          - generic [ref=f94e128]:
+            - heading "" [level=1] [ref=f94e129]
+            - text: Facebook Adverts Account
+            - paragraph [ref=f94e131]: Sync your CRM data with Facebook.
+        - link [ref=f94e133] [cursor=pointer]:
+          - /url: /client/configuration?type=x_account
+          - generic [ref=f94e135]:
+            - heading [level=1] [ref=f94e136]
+            - text: X Account
+            - paragraph [ref=f94e138]: You haven't connected your X Account.
+        - link [ref=f94e140] [cursor=pointer]:
+          - /url: /client/audits?type=Facebook
+          - generic [ref=f94e142]:
+            - heading "" [level=1] [ref=f94e143]
+            - text: Facebook Logs
+            - paragraph [ref=f94e145]: Get logs of Facebook audiences.
+        - text: 
+        - link [ref=f94e147] [cursor=pointer]:
+          - /url: /client/settings/sms?type=transactional
+          - generic [ref=f94e149]:
+            - heading "" [level=1] [ref=f94e150]
+            - text: Transactional SMS Mask Settings
+            - paragraph [ref=f94e152]: Manage Transactional sms mask.
+        - link [ref=f94e154] [cursor=pointer]:
+          - /url: /client/settings/sms?type=promotional
+          - generic [ref=f94e156]:
+            - heading "" [level=1] [ref=f94e157]
+            - text: Promotional SMS Mask Settings
+            - paragraph [ref=f94e159]: Manage Promotional sms mask.
+        - link [ref=f94e161] [cursor=pointer]:
+          - /url: /client/whatsapp-connected-accounts
+          - generic [ref=f94e163]:
+            - heading "" [level=1] [ref=f94e164]
+            - text: WhatsApp Business Accounts
+            - paragraph [ref=f94e166]: Manage your WhatsApp Business phone numbers directly.
+        - link [ref=f94e168] [cursor=pointer]:
+          - /url: /client/whatsapp_settings?search_params%5Bactive%5D=true
+          - generic [ref=f94e170]:
+            - heading "" [level=1] [ref=f94e171]
+            - text: Other WhatsApp Accounts
+            - paragraph [ref=f94e173]: Manage your WhatsApp Account Integrations.
+        - link [ref=f94e175] [cursor=pointer]:
+          - /url: /client/settings/meta_conversion_api
+          - generic [ref=f94e177]:
+            - heading "" [level=1] [ref=f94e178]
+            - text: Meta Conversion API
+            - paragraph [ref=f94e180]: Manage Meta Conversion API credentials.
+        - link "BETA  Google Conversion API Manage Google Conversion API credentials." [ref=f94e182] [cursor=pointer]:
+          - /url: /client/settings/google_conversion_api
+          - generic [ref=f94e183]:
+            - generic [ref=f94e184]: BETA
+            - generic [ref=f94e185]:
+              - heading "" [level=1] [ref=f94e186]
+              - text: Google Conversion API
+              - paragraph [ref=f94e188]: Manage Google Conversion API credentials.
+  - iframe [aria-hidden] [ref=f94e190]:
+    - generic [ref=f95e4]:
+      - generic [ref=f95e5]:
+        - heading "Latest changes" [level=3] [ref=f95e7]
+        - generic [ref=f95e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f95e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f95e10]: New
+            - generic [ref=f95e11]: Improvement
+            - strong [ref=f95e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f95e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f95e14]: New
+            - generic [ref=f95e15]: Improvement
+            - strong [ref=f95e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f95e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f95e18]: New
+            - strong [ref=f95e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f95e20]:
+          - link "Sell-Do updates" [ref=f95e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f95e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f95e23]:
+        - generic [ref=f95e24]:
+          - generic [ref=f95e25]:
+            - link [ref=f95e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f95e27]
+          - paragraph [ref=f95e30]:
+            - link "Read the whole post" [ref=f95e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f95e32]:
+          - generic [ref=f95e33]:
+            - link [ref=f95e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f95e35]
+          - paragraph [ref=f95e38]:
+            - link "Read the whole post" [ref=f95e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f95e40]:
+          - generic [ref=f95e41]:
+            - link [ref=f95e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f95e43]
+          - paragraph [ref=f95e46]:
+            - link "Read the whole post" [ref=f95e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414

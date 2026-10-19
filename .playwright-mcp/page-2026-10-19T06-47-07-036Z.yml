@@ -1,0 +1,856 @@
+- generic [active] [ref=f135e1]:
+  - navigation [ref=f135e2]:
+    - generic [ref=f135e3]:
+      - generic [ref=f135e4]: 
+      - generic [ref=f135e6]:
+        - link "Search..." [ref=f135e7] [cursor=pointer]:
+          - /url: javascript:void(0)
+        - textbox [ref=f135e9]
+      - searchbox "Search..." [ref=f135e10]
+    - generic [ref=f135e11]:
+      - generic [ref=f135e12]:
+        - link "" [ref=f135e13] [cursor=pointer]:
+          - /url: javascript:;
+        - link "" [ref=f135e16] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f135e18]: Vishal Chugera Properties pvt ltd
+      - link "Click for More Help!" [ref=f135e20] [cursor=pointer]:
+        - /url: "#need_support_help"
+      - generic [ref=f135e22]:
+        - generic [aria-hidden] [ref=f135e23]: 
+        - text: "+918069150607"
+      - generic [ref=f135e24]: "Balance: ₹ -2686.94"
+      - generic [ref=f135e25]: "Leads Balance: 8105"
+  - text:  
+  - generic [ref=f135e26]:
+    - generic [ref=f135e27]:
+      - link "" [ref=f135e31] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f135e34] [cursor=pointer]:
+        - /url: /client/0
+      - link "" [ref=f135e37] [cursor=pointer]:
+        - /url: /client/post_sales/
+      - link "" [ref=f135e40] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f135e43] [cursor=pointer]:
+        - /url: /client/whatsapp-conversations
+      - link "" [ref=f135e46] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f135e49] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "" [ref=f135e52] [cursor=pointer]:
+        - /url: /client/dashboard/products
+      - link "" [ref=f135e55] [cursor=pointer]:
+        - /url: /client/dashboard/automation
+      - link "" [ref=f135e58] [cursor=pointer]:
+        - /url: /client/assets
+      - link "" [ref=f135e61] [cursor=pointer]:
+        - /url: /client/dashboard/settings
+      - link "" [ref=f135e64] [cursor=pointer]:
+        - /url: javascript:;
+      - link "" [ref=f135e67] [cursor=pointer]:
+        - /url: javascript:;
+    - generic:           NEW         NEW
+  - generic [ref=f135e73]:
+    - navigation "breadcrumb" [ref=f135e76]:
+      - list [ref=f135e78]:
+        - listitem [ref=f135e79]:
+          - link "Home" [ref=f135e80] [cursor=pointer]:
+            - /url: /client/dashboard/settings
+        - listitem [ref=f135e81]:
+          - text: 
+          - link "All followups" [ref=f135e82] [cursor=pointer]:
+            - /url: /client/0/followups/all
+    - generic [ref=f135e86]:
+      - generic [ref=f135e87]:
+        - generic [ref=f135e88]:
+          - generic [ref=f135e89]:
+            - generic [ref=f135e90]:
+              - link "All" [ref=f135e91] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - textbox [ref=f135e95]
+            - combobox [ref=f135e96]:
+              - option "All" [selected]
+              - option "Scheduled"
+              - option "Conducted"
+              - option "Pending"
+              - option "Cancelled"
+              - option "Missed"
+          - paragraph
+        - button " 1" [ref=f135e99] [cursor=pointer]:
+          - generic [ref=f135e100]: 
+          - generic [ref=f135e101]: "1"
+      - generic [ref=f135e105]:
+        - generic [ref=f135e107]:
+          - table [ref=f135e108]:
+            - rowgroup [ref=f135e109]:
+              - row [ref=f135e110]:
+                - columnheader "Lead ID" [ref=f135e111]
+                - columnheader "Lead Name" [ref=f135e112]
+                - columnheader "Followup Type" [ref=f135e113]
+                - columnheader "Status" [ref=f135e114]
+                - columnheader "Activity Owner" [ref=f135e115]
+                - columnheader "Scheduled On" [ref=f135e116]
+                - columnheader "Conducted On" [ref=f135e117]
+                - columnheader "Actions" [ref=f135e118]
+            - rowgroup [ref=f135e119]:
+              - row [ref=f135e120]:
+                - cell [ref=f135e121]:
+                  - link "#43856" [ref=f135e122] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6612c24538fd906d32f100f1/f/AddNote
+                - cell "Rakesh Satav" [ref=f135e123]
+                - cell "Call" [ref=f135e124]
+                - cell "Scheduled" [ref=f135e125]
+                - cell "Rachna Gaikwad" [ref=f135e126]
+                - 'cell "Oct 25, 2026 at 1:16 PM Created At: Oct 19, 2026" [ref=f135e127]'
+                - cell "-" [ref=f135e128]
+                - cell [ref=f135e129]:
+                  - generic [ref=f135e130]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e131]:
+                - cell [ref=f135e132]:
+                  - link "#69405" [ref=f135e133] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/690ef1dd2f31c65dc4fd8600/f/AddNote
+                - cell "aman gupta" [ref=f135e134]
+                - cell "Call" [ref=f135e135]
+                - cell "Conducted" [ref=f135e136]
+                - cell "Chandrakant Sakat" [ref=f135e137]
+                - 'cell "Oct 19, 2026 at 6:43 PM Created At: Oct 6, 2026" [ref=f135e138]'
+                - cell "Oct 19, 2026 at 12:16 PM" [ref=f135e139]
+                - cell [ref=f135e140]:
+                  - generic [ref=f135e141]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e142]:
+                - cell [ref=f135e143]:
+                  - link "#43856" [ref=f135e144] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6612c24538fd906d32f100f1/f/AddNote
+                - cell "Rakesh Satav" [ref=f135e145]
+                - cell "Call" [ref=f135e146]
+                - cell "Conducted" [ref=f135e147]
+                - cell "Rachna Gaikwad" [ref=f135e148]
+                - 'cell "Oct 19, 2026 at 11:12 AM Created At: Oct 11, 2026" [ref=f135e149]'
+                - cell "Oct 19, 2026 at 12:16 PM" [ref=f135e150]
+                - cell [ref=f135e151]:
+                  - generic [ref=f135e152]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e153]:
+                - cell [ref=f135e154]:
+                  - link "#88309" [ref=f135e155] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6abbd221da1cdc4b6c3e8e5f/f/AddNote
+                - cell "Mr Sameer" [ref=f135e156]
+                - cell "Call" [ref=f135e157]
+                - cell "Scheduled" [ref=f135e158]
+                - cell "Almas Khan" [ref=f135e159]
+                - 'cell "Nov 5, 2026 at 1:16 PM Created At: Oct 19, 2026" [ref=f135e160]'
+                - cell "-" [ref=f135e161]
+                - cell [ref=f135e162]:
+                  - generic [ref=f135e163]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e164]:
+                - cell [ref=f135e165]:
+                  - link "#86580" [ref=f135e166] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6a885bd16750f8379c111d8c/f/AddNote
+                - cell "Pradyumn kulkarni" [ref=f135e167]
+                - cell "Call" [ref=f135e168]
+                - cell "Pending" [ref=f135e169]
+                - cell "Viraj Vcpipl" [ref=f135e170]
+                - 'cell "Oct 19, 2026 at 12:16 PM Created At: Oct 18, 2026" [ref=f135e171]'
+                - cell "-" [ref=f135e172]
+                - cell [ref=f135e173]:
+                  - generic [ref=f135e174]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e175]:
+                - cell [ref=f135e176]:
+                  - link "#87218" [ref=f135e177] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6a9d713eec836afc0a981f30/f/AddNote
+                - cell "Sunil Bishnoi" [ref=f135e178]
+                - cell "Call" [ref=f135e179]
+                - cell "Pending" [ref=f135e180]
+                - cell "Sachin Pansare" [ref=f135e181]
+                - 'cell "Oct 19, 2026 at 12:16 PM Created At: Oct 18, 2026" [ref=f135e182]'
+                - cell "-" [ref=f135e183]
+                - cell [ref=f135e184]:
+                  - generic [ref=f135e185]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e186]:
+                - cell [ref=f135e187]:
+                  - link "#59037" [ref=f135e188] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/67d960713354985d599bbb1d/f/AddNote
+                - cell "Yogesh Birari" [ref=f135e189]
+                - cell "Call" [ref=f135e190]
+                - cell "Scheduled" [ref=f135e191]
+                - cell "Anand Abnave" [ref=f135e192]
+                - 'cell "Oct 20, 2026 at 12:35 PM Created At: Oct 19, 2026" [ref=f135e193]'
+                - cell "-" [ref=f135e194]
+                - cell [ref=f135e195]:
+                  - generic [ref=f135e196]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e197]:
+                - cell [ref=f135e198]:
+                  - link "#34489" [ref=f135e199] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/64a86380bff04a2721704b75/f/AddNote
+                - cell "Bittu Rokade" [ref=f135e200]
+                - cell "Call" [ref=f135e201]
+                - cell "Cancelled" [ref=f135e202]
+                - cell "Rachna Gaikwad" [ref=f135e203]
+                - 'cell "Oct 19, 2026 at 11:05 AM Created At: Oct 12, 2026" [ref=f135e204]'
+                - cell "-" [ref=f135e205]
+                - cell [ref=f135e206]:
+                  - generic [ref=f135e207]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e208]:
+                - cell [ref=f135e209]:
+                  - link "#88560" [ref=f135e210] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6ac2856ea2e3a92cceeabe66/f/AddNote
+                - cell "Prathibha Sriramula" [ref=f135e211]
+                - cell "Call" [ref=f135e212]
+                - cell "Scheduled" [ref=f135e213]
+                - cell "Almas Khan" [ref=f135e214]
+                - 'cell "Nov 10, 2026 at 1:15 PM Created At: Oct 19, 2026" [ref=f135e215]'
+                - cell "-" [ref=f135e216]
+                - cell [ref=f135e217]:
+                  - generic [ref=f135e218]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e219]:
+                - cell [ref=f135e220]:
+                  - link "#46708" [ref=f135e221] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6680ed0358f1e71268a0f8f5/f/AddNote
+                - cell "Sourabh" [ref=f135e222]
+                - cell "Call" [ref=f135e223]
+                - cell "Conducted" [ref=f135e224]
+                - cell "Suvarna Ingle" [ref=f135e225]
+                - 'cell "Oct 19, 2026 at 12:14 PM Created At: Oct 13, 2026" [ref=f135e226]'
+                - cell "Oct 19, 2026 at 12:12 PM" [ref=f135e227]
+                - cell [ref=f135e228]:
+                  - generic [ref=f135e229]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e230]:
+                - cell [ref=f135e231]:
+                  - link "#74451" [ref=f135e232] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/69ac0dc02f31c6190fe10249/f/AddNote
+                - cell "RAVINDRA ADHAV" [ref=f135e233]
+                - cell "Call" [ref=f135e234]
+                - cell "Scheduled" [ref=f135e235]
+                - cell "Anand Abnave" [ref=f135e236]
+                - 'cell "Oct 20, 2026 at 12:39 PM Created At: Oct 19, 2026" [ref=f135e237]'
+                - cell "-" [ref=f135e238]
+                - cell [ref=f135e239]:
+                  - generic [ref=f135e240]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e241]:
+                - cell [ref=f135e242]:
+                  - link "#53723" [ref=f135e243] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/673982e0d27f4f52a3844cdc/f/AddNote
+                - cell "Chaitanya Tapkire" [ref=f135e244]
+                - cell "Call" [ref=f135e245]
+                - cell "Scheduled" [ref=f135e246]
+                - cell "Almas Khan" [ref=f135e247]
+                - 'cell "Oct 22, 2026 at 1:15 PM Created At: Oct 19, 2026" [ref=f135e248]'
+                - cell "-" [ref=f135e249]
+                - cell [ref=f135e250]:
+                  - generic [ref=f135e251]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e252]:
+                - cell [ref=f135e253]:
+                  - link "#86020" [ref=f135e254] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6a7ad46c6750f8242fb06cf8/f/AddNote
+                - cell "khushbu shukla" [ref=f135e255]
+                - cell "Call" [ref=f135e256]
+                - cell "Pending" [ref=f135e257]
+                - cell "Chandrakant Sakat" [ref=f135e258]
+                - 'cell "Oct 19, 2026 at 12:15 PM Created At: Oct 12, 2026" [ref=f135e259]'
+                - cell "-" [ref=f135e260]
+                - cell [ref=f135e261]:
+                  - generic [ref=f135e262]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e263]:
+                - cell [ref=f135e264]:
+                  - link "#88304" [ref=f135e265] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6abbb777bd500968d909fa43/f/AddNote
+                - cell "Mr Mr" [ref=f135e266]
+                - cell "Call" [ref=f135e267]
+                - cell "Scheduled" [ref=f135e268]
+                - cell "Almas Khan" [ref=f135e269]
+                - 'cell "Nov 11, 2026 at 1:13 PM Created At: Oct 19, 2026" [ref=f135e270]'
+                - cell "-" [ref=f135e271]
+                - cell [ref=f135e272]:
+                  - generic [ref=f135e273]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e274]:
+                - cell [ref=f135e275]:
+                  - link "#46708" [ref=f135e276] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6680ed0358f1e71268a0f8f5/f/AddNote
+                - cell "Sourabh" [ref=f135e277]
+                - cell "Call" [ref=f135e278]
+                - cell "Scheduled" [ref=f135e279]
+                - cell "Suvarna Ingle" [ref=f135e280]
+                - 'cell "Oct 19, 2026 at 1:13 PM Created At: Oct 19, 2026" [ref=f135e281]'
+                - cell "-" [ref=f135e282]
+                - cell [ref=f135e283]:
+                  - generic [ref=f135e284]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e285]:
+                - cell [ref=f135e286]:
+                  - link "#71304" [ref=f135e287] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6953627c2f31c62dd3eb2037/f/AddNote
+                - cell "Sunil Pishwe" [ref=f135e288]
+                - cell "Call" [ref=f135e289]
+                - cell "Scheduled" [ref=f135e290]
+                - cell "Rachna Gaikwad" [ref=f135e291]
+                - 'cell "Oct 25, 2026 at 12:30 PM Created At: Oct 19, 2026" [ref=f135e292]'
+                - cell "-" [ref=f135e293]
+                - cell [ref=f135e294]:
+                  - generic [ref=f135e295]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e296]:
+                - cell [ref=f135e297]:
+                  - link "#87795" [ref=f135e298] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6aae0730c7143343aa48abdb/f/AddNote
+                - cell "Drvishwambhar Vishal Deshmukh Pedgaonkar" [ref=f135e299]
+                - cell "Call" [ref=f135e300]
+                - cell "Pending" [ref=f135e301]
+                - cell "Viraj Vcpipl" [ref=f135e302]
+                - 'cell "Oct 19, 2026 at 12:13 PM Created At: Oct 17, 2026" [ref=f135e303]'
+                - cell "-" [ref=f135e304]
+                - cell [ref=f135e305]:
+                  - generic [ref=f135e306]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e307]:
+                - cell [ref=f135e308]:
+                  - link "#71304" [ref=f135e309] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6953627c2f31c62dd3eb2037/f/AddNote
+                - cell "Sunil Pishwe" [ref=f135e310]
+                - cell "Call" [ref=f135e311]
+                - cell "Conducted" [ref=f135e312]
+                - cell "Rachna Gaikwad" [ref=f135e313]
+                - 'cell "Oct 19, 2026 at 11:02 AM Created At: Oct 12, 2026" [ref=f135e314]'
+                - cell "Oct 19, 2026 at 12:12 PM" [ref=f135e315]
+                - cell [ref=f135e316]:
+                  - generic [ref=f135e317]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e318]:
+                - cell [ref=f135e319]:
+                  - link "#85705" [ref=f135e320] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6a73201347c7f564ed16eb88/f/AddNote
+                - cell "Shweta Rupalani" [ref=f135e321]
+                - cell "Call" [ref=f135e322]
+                - cell "Scheduled" [ref=f135e323]
+                - cell "Rachna Gaikwad" [ref=f135e324]
+                - 'cell "Oct 23, 2026 at 1:11 PM Created At: Oct 19, 2026" [ref=f135e325]'
+                - cell "-" [ref=f135e326]
+                - cell [ref=f135e327]:
+                  - generic [ref=f135e328]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e329]:
+                - cell [ref=f135e330]:
+                  - link "#85402" [ref=f135e331] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6a6dce1de0cb08cdf852299f/f/AddNote
+                - cell "Rahul Patil" [ref=f135e332]
+                - cell "Call" [ref=f135e333]
+                - cell "Scheduled" [ref=f135e334]
+                - cell "Almas Khan" [ref=f135e335]
+                - 'cell "Oct 23, 2026 at 1:12 PM Created At: Oct 19, 2026" [ref=f135e336]'
+                - cell "-" [ref=f135e337]
+                - cell [ref=f135e338]:
+                  - generic [ref=f135e339]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e340]:
+                - cell [ref=f135e341]:
+                  - link "#76666" [ref=f135e342] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/69ea7fe5e11487f4e682487e/f/AddNote
+                - cell "Taiseen Mulani" [ref=f135e343]
+                - cell "Call" [ref=f135e344]
+                - cell "Scheduled" [ref=f135e345]
+                - cell "Sana Shaikh" [ref=f135e346]
+                - 'cell "Oct 26, 2026 at 1:11 PM Created At: Oct 19, 2026" [ref=f135e347]'
+                - cell "-" [ref=f135e348]
+                - cell [ref=f135e349]:
+                  - generic [ref=f135e350]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e351]:
+                - cell [ref=f135e352]:
+                  - link "#85705" [ref=f135e353] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6a73201347c7f564ed16eb88/f/AddNote
+                - cell "Shweta Rupalani" [ref=f135e354]
+                - cell "Call" [ref=f135e355]
+                - cell "Conducted" [ref=f135e356]
+                - cell "Rachna Gaikwad" [ref=f135e357]
+                - 'cell "Oct 19, 2026 at 11:01 AM Created At: Oct 12, 2026" [ref=f135e358]'
+                - cell "Oct 19, 2026 at 12:11 PM" [ref=f135e359]
+                - cell [ref=f135e360]:
+                  - generic [ref=f135e361]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e362]:
+                - cell [ref=f135e363]:
+                  - link "#76666" [ref=f135e364] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/69ea7fe5e11487f4e682487e/f/AddNote
+                - cell "Taiseen Mulani" [ref=f135e365]
+                - cell "Call" [ref=f135e366]
+                - cell "Conducted" [ref=f135e367]
+                - cell "Sana Shaikh" [ref=f135e368]
+                - 'cell "Oct 19, 2026 at 4:50 PM Created At: Oct 16, 2026" [ref=f135e369]'
+                - cell "Oct 19, 2026 at 12:10 PM" [ref=f135e370]
+                - cell [ref=f135e371]:
+                  - generic [ref=f135e372]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e373]:
+                - cell [ref=f135e374]:
+                  - link "#88025" [ref=f135e375] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6ab37ab4659e93e0fce1011b/f/AddNote
+                - cell "Mayuri Bhutada" [ref=f135e376]
+                - cell "Call" [ref=f135e377]
+                - cell "Scheduled" [ref=f135e378]
+                - cell "Jyoti Inamdar" [ref=f135e379]
+                - 'cell "Nov 11, 2026 at 12:08 PM Created At: Oct 19, 2026" [ref=f135e380]'
+                - cell "-" [ref=f135e381]
+                - cell [ref=f135e382]:
+                  - generic [ref=f135e383]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e384]:
+                - cell [ref=f135e385]:
+                  - link "#88025" [ref=f135e386] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6ab37ab4659e93e0fce1011b/f/AddNote
+                - cell "Mayuri Bhutada" [ref=f135e387]
+                - cell "Call" [ref=f135e388]
+                - cell "Cancelled" [ref=f135e389]
+                - cell "Jyoti Inamdar" [ref=f135e390]
+                - 'cell "Oct 22, 2026 at 12:08 PM Created At: Oct 10, 2026" [ref=f135e391]'
+                - cell "-" [ref=f135e392]
+                - cell [ref=f135e393]:
+                  - generic [ref=f135e394]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e395]:
+                - cell [ref=f135e396]:
+                  - link "#88788" [ref=f135e397] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6acde2c561bcd01f84d688e0/f/AddNote
+                - cell "Harshang Chaudhari" [ref=f135e398]
+                - cell "Call" [ref=f135e399]
+                - cell "Scheduled" [ref=f135e400]
+                - cell "Almas Khan" [ref=f135e401]
+                - 'cell "Nov 10, 2026 at 1:10 PM Created At: Oct 19, 2026" [ref=f135e402]'
+                - cell "-" [ref=f135e403]
+                - cell [ref=f135e404]:
+                  - generic [ref=f135e405]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e406]:
+                - cell [ref=f135e407]:
+                  - link "#87766" [ref=f135e408] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6aaccd55c714339d037d5f9e/f/AddNote
+                - cell "A-J-A-Y" [ref=f135e409]
+                - cell "Call" [ref=f135e410]
+                - cell "Scheduled" [ref=f135e411]
+                - cell "Rachna Gaikwad" [ref=f135e412]
+                - 'cell "Oct 24, 2026 at 1:10 PM Created At: Oct 19, 2026" [ref=f135e413]'
+                - cell "-" [ref=f135e414]
+                - cell [ref=f135e415]:
+                  - generic [ref=f135e416]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e417]:
+                - cell [ref=f135e418]:
+                  - link "#88787" [ref=f135e419] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6acde2b0c0664002fdc8deff/f/AddNote
+                - cell "Mr Pradeep" [ref=f135e420]
+                - cell "Call" [ref=f135e421]
+                - cell "Scheduled" [ref=f135e422]
+                - cell "Almas Khan" [ref=f135e423]
+                - 'cell "Nov 19, 2026 at 1:10 PM Created At: Oct 19, 2026" [ref=f135e424]'
+                - cell "-" [ref=f135e425]
+                - cell [ref=f135e426]:
+                  - generic [ref=f135e427]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e428]:
+                - cell [ref=f135e429]:
+                  - link "#88752" [ref=f135e430] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6acde1f761bcd01f84d68491/f/AddNote
+                - cell "Rahul" [ref=f135e431]
+                - cell "Call" [ref=f135e432]
+                - cell "Pending" [ref=f135e433]
+                - cell "Rachna Gaikwad" [ref=f135e434]
+                - 'cell "Oct 19, 2026 at 12:10 PM Created At: Oct 14, 2026" [ref=f135e435]'
+                - cell "-" [ref=f135e436]
+                - cell [ref=f135e437]:
+                  - generic [ref=f135e438]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e439]:
+                - cell [ref=f135e440]:
+                  - link "#54778" [ref=f135e441] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6751adb87b934423041e5418/f/AddNote
+                - cell "सुमित विजय शिखरे" [ref=f135e442]
+                - cell "Call" [ref=f135e443]
+                - cell "Pending" [ref=f135e444]
+                - cell "Rachna Gaikwad" [ref=f135e445]
+                - 'cell "Oct 19, 2026 at 12:10 PM Created At: Oct 13, 2026" [ref=f135e446]'
+                - cell "-" [ref=f135e447]
+                - cell [ref=f135e448]:
+                  - generic [ref=f135e449]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e450]:
+                - cell [ref=f135e451]:
+                  - link "#63414" [ref=f135e452] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6860f0b7a3d8552dc087d763/f/AddNote
+                - cell "Sarvesh ." [ref=f135e453]
+                - cell "Call" [ref=f135e454]
+                - cell "Pending" [ref=f135e455]
+                - cell "Rachna Gaikwad" [ref=f135e456]
+                - 'cell "Oct 19, 2026 at 12:10 PM Created At: Oct 14, 2026" [ref=f135e457]'
+                - cell "-" [ref=f135e458]
+                - cell [ref=f135e459]:
+                  - generic [ref=f135e460]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e461]:
+                - cell [ref=f135e462]:
+                  - link "#73032" [ref=f135e463] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6987e2ed0d1851cf4296e66b/f/AddNote
+                - cell "sunny singh" [ref=f135e464]
+                - cell "Call" [ref=f135e465]
+                - cell "Scheduled" [ref=f135e466]
+                - cell "Rohit Gaikwad" [ref=f135e467]
+                - 'cell "Oct 23, 2026 at 10:00 AM Created At: Oct 19, 2026" [ref=f135e468]'
+                - cell "-" [ref=f135e469]
+                - cell [ref=f135e470]:
+                  - generic [ref=f135e471]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e472]:
+                - cell [ref=f135e473]:
+                  - link "#43006" [ref=f135e474] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/65f9b678e64cb941c077d2d1/f/AddNote
+                - cell "Dr.Jitendra Dorge" [ref=f135e475]
+                - cell "Call" [ref=f135e476]
+                - cell "Pending" [ref=f135e477]
+                - cell "Chetan Bankar" [ref=f135e478]
+                - 'cell "Oct 19, 2026 at 12:09 PM Created At: Oct 18, 2026" [ref=f135e479]'
+                - cell "-" [ref=f135e480]
+                - cell [ref=f135e481]:
+                  - generic [ref=f135e482]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e483]:
+                - cell [ref=f135e484]:
+                  - link "#52052" [ref=f135e485] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/671509c0a3d855976e08539b/f/AddNote
+                - cell "Meghsham Divate..." [ref=f135e486]
+                - cell "Call" [ref=f135e487]
+                - cell "Pending" [ref=f135e488]
+                - cell "Suvarna Mohite" [ref=f135e489]
+                - 'cell "Oct 19, 2026 at 12:09 PM Created At: Oct 6, 2026" [ref=f135e490]'
+                - cell "-" [ref=f135e491]
+                - cell [ref=f135e492]:
+                  - generic [ref=f135e493]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e494]:
+                - cell [ref=f135e495]:
+                  - link "#86843" [ref=f135e496] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6a932ff2735daf917a651990/f/AddNote
+                - cell "vikas kedare" [ref=f135e497]
+                - cell "Call" [ref=f135e498]
+                - cell "Pending" [ref=f135e499]
+                - cell "Rachna Gaikwad" [ref=f135e500]
+                - 'cell "Oct 19, 2026 at 12:09 PM Created At: Oct 12, 2026" [ref=f135e501]'
+                - cell "-" [ref=f135e502]
+                - cell [ref=f135e503]:
+                  - generic [ref=f135e504]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e505]:
+                - cell [ref=f135e506]:
+                  - link "#42753" [ref=f135e507] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/65f2aa417b934462721eb776/f/AddNote
+                - cell "Chetan jain" [ref=f135e508]
+                - cell "Call" [ref=f135e509]
+                - cell "Pending" [ref=f135e510]
+                - cell "Rachna Gaikwad" [ref=f135e511]
+                - 'cell "Oct 19, 2026 at 12:09 PM Created At: Oct 13, 2026" [ref=f135e512]'
+                - cell "-" [ref=f135e513]
+                - cell [ref=f135e514]:
+                  - generic [ref=f135e515]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e516]:
+                - cell [ref=f135e517]:
+                  - link "#71434" [ref=f135e518] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6957a3220d185119a5775d13/f/AddNote
+                - cell "Himanshu ." [ref=f135e519]
+                - cell "Call" [ref=f135e520]
+                - cell "Pending" [ref=f135e521]
+                - cell "Rachna Gaikwad" [ref=f135e522]
+                - 'cell "Oct 19, 2026 at 12:09 PM Created At: Oct 12, 2026" [ref=f135e523]'
+                - cell "-" [ref=f135e524]
+                - cell [ref=f135e525]:
+                  - generic [ref=f135e526]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e527]:
+                - cell [ref=f135e528]:
+                  - link "#87766" [ref=f135e529] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6aaccd55c714339d037d5f9e/f/AddNote
+                - cell "A-J-A-Y" [ref=f135e530]
+                - cell "Call" [ref=f135e531]
+                - cell "Conducted" [ref=f135e532]
+                - cell "Rachna Gaikwad" [ref=f135e533]
+                - 'cell "Oct 19, 2026 at 11:01 AM Created At: Oct 13, 2026" [ref=f135e534]'
+                - cell "Oct 19, 2026 at 12:08 PM" [ref=f135e535]
+                - cell [ref=f135e536]:
+                  - generic [ref=f135e537]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e538]:
+                - cell [ref=f135e539]:
+                  - link "#49653" [ref=f135e540] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/66d19354d4c066113cb18480/f/AddNote
+                - cell "Neha Pardeshi" [ref=f135e541]
+                - cell "Call" [ref=f135e542]
+                - cell "Pending" [ref=f135e543]
+                - cell "Almas Khan" [ref=f135e544]
+                - 'cell "Oct 19, 2026 at 12:08 PM Created At: Oct 16, 2026" [ref=f135e545]'
+                - cell "-" [ref=f135e546]
+                - cell [ref=f135e547]:
+                  - generic [ref=f135e548]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e549]:
+                - cell [ref=f135e550]:
+                  - link "#88745" [ref=f135e551] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6acdc2e4a4dfa0a0a1e56903/f/AddNote
+                - cell "Nikhil Mahajan" [ref=f135e552]
+                - cell "Call" [ref=f135e553]
+                - cell "Pending" [ref=f135e554]
+                - cell "Rachna Gaikwad" [ref=f135e555]
+                - 'cell "Oct 19, 2026 at 12:08 PM Created At: Oct 14, 2026" [ref=f135e556]'
+                - cell "-" [ref=f135e557]
+                - cell [ref=f135e558]:
+                  - generic [ref=f135e559]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e560]:
+                - cell [ref=f135e561]:
+                  - link "#85960" [ref=f135e562] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6a7856bcc32393a403fd3f09/f/AddNote
+                - cell "Devendra Madke" [ref=f135e563]
+                - cell "Call" [ref=f135e564]
+                - cell "Pending" [ref=f135e565]
+                - cell "Chetan Bankar" [ref=f135e566]
+                - 'cell "Oct 19, 2026 at 12:08 PM Created At: Oct 18, 2026" [ref=f135e567]'
+                - cell "-" [ref=f135e568]
+                - cell [ref=f135e569]:
+                  - generic [ref=f135e570]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e571]:
+                - cell [ref=f135e572]:
+                  - link "#83383" [ref=f135e573] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6a3a47370d1851f9ac455fe7/f/AddNote
+                - cell "Rahul Kauthale" [ref=f135e574]
+                - cell "Call" [ref=f135e575]
+                - cell "Scheduled" [ref=f135e576]
+                - cell "Rachna Gaikwad" [ref=f135e577]
+                - 'cell "Oct 24, 2026 at 1:06 PM Created At: Oct 19, 2026" [ref=f135e578]'
+                - cell "-" [ref=f135e579]
+                - cell [ref=f135e580]:
+                  - generic [ref=f135e581]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e582]:
+                - cell [ref=f135e583]:
+                  - link "#57240" [ref=f135e584] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/678cbe4fa3d85593dc514aec/f/AddNote
+                - cell "Yugal Jain" [ref=f135e585]
+                - cell "Call" [ref=f135e586]
+                - cell "Pending" [ref=f135e587]
+                - cell "Almas Khan" [ref=f135e588]
+                - 'cell "Oct 19, 2026 at 12:07 PM Created At: Oct 16, 2026" [ref=f135e589]'
+                - cell "-" [ref=f135e590]
+                - cell [ref=f135e591]:
+                  - generic [ref=f135e592]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e593]:
+                - cell [ref=f135e594]:
+                  - link "#88303" [ref=f135e595] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6abb9eeea2e3a9686c954f93/f/AddNote
+                - cell "Mangesh choudhari" [ref=f135e596]
+                - cell "Call" [ref=f135e597]
+                - cell "Pending" [ref=f135e598]
+                - cell "Suvarna Mohite" [ref=f135e599]
+                - 'cell "Oct 19, 2026 at 12:07 PM Created At: Oct 6, 2026" [ref=f135e600]'
+                - cell "-" [ref=f135e601]
+                - cell [ref=f135e602]:
+                  - generic [ref=f135e603]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e604]:
+                - cell [ref=f135e605]:
+                  - link "#56366" [ref=f135e606] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6776c2d3420a890f74bcfff7/f/AddNote
+                - cell "Ganesh Chavan" [ref=f135e607]
+                - cell "Call" [ref=f135e608]
+                - cell "Scheduled" [ref=f135e609]
+                - cell "Almas Khan" [ref=f135e610]
+                - 'cell "Oct 23, 2026 at 1:06 PM Created At: Oct 19, 2026" [ref=f135e611]'
+                - cell "-" [ref=f135e612]
+                - cell [ref=f135e613]:
+                  - generic [ref=f135e614]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e615]:
+                - cell [ref=f135e616]:
+                  - link "#83383" [ref=f135e617] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6a3a47370d1851f9ac455fe7/f/AddNote
+                - cell "Rahul Kauthale" [ref=f135e618]
+                - cell "Call" [ref=f135e619]
+                - cell "Cancelled" [ref=f135e620]
+                - cell "Rachna Gaikwad" [ref=f135e621]
+                - 'cell "Oct 19, 2026 at 11:00 AM Created At: Oct 12, 2026" [ref=f135e622]'
+                - cell "-" [ref=f135e623]
+                - cell [ref=f135e624]:
+                  - generic [ref=f135e625]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e626]:
+                - cell [ref=f135e627]:
+                  - link "#87262" [ref=f135e628] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6a9e9d19c7143340e1d99f89/f/AddNote
+                - cell "Harshang Chaudhari" [ref=f135e629]
+                - cell "Call" [ref=f135e630]
+                - cell "Scheduled" [ref=f135e631]
+                - cell "Viraj Vcpipl" [ref=f135e632]
+                - 'cell "Oct 21, 2026 at 1:05 PM Created At: Oct 19, 2026" [ref=f135e633]'
+                - cell "-" [ref=f135e634]
+                - cell [ref=f135e635]:
+                  - generic [ref=f135e636]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e637]:
+                - cell [ref=f135e638]:
+                  - link "#87705" [ref=f135e639] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6aaa58cca2e3a9a22487323c/f/AddNote
+                - cell "Parvez Shaikh" [ref=f135e640]
+                - cell "Call" [ref=f135e641]
+                - cell "Pending" [ref=f135e642]
+                - cell "Asif Sayyad" [ref=f135e643]
+                - 'cell "Oct 19, 2026 at 12:05 PM Created At: Oct 4, 2026" [ref=f135e644]'
+                - cell "-" [ref=f135e645]
+                - cell [ref=f135e646]:
+                  - generic [ref=f135e647]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e648]:
+                - cell [ref=f135e649]:
+                  - link "#88619" [ref=f135e650] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6ac5f758628ba2f68502d0ac/f/AddNote
+                - cell "Shailesh Chobey" [ref=f135e651]
+                - cell "Call" [ref=f135e652]
+                - cell "Pending" [ref=f135e653]
+                - cell "Chetan Bankar" [ref=f135e654]
+                - 'cell "Oct 19, 2026 at 12:05 PM Created At: Oct 18, 2026" [ref=f135e655]'
+                - cell "-" [ref=f135e656]
+                - cell [ref=f135e657]:
+                  - generic [ref=f135e658]:
+                    - link "":
+                      - /url: javascript:void(0);
+              - row [ref=f135e659]:
+                - cell [ref=f135e660]:
+                  - link "#80279" [ref=f135e661] [cursor=pointer]:
+                    - /url: /client/0/6025ff9a4443ae02700f4c50/6a0215d30d1851870771a03c/f/AddNote
+                - cell "Datta Kawad Patil" [ref=f135e662]
+                - cell "Call" [ref=f135e663]
+                - cell "Pending" [ref=f135e664]
+                - cell "Rachna Gaikwad" [ref=f135e665]
+                - 'cell "Oct 19, 2026 at 12:05 PM Created At: Oct 14, 2026" [ref=f135e666]'
+                - cell "-" [ref=f135e667]
+                - cell [ref=f135e668]:
+                  - generic [ref=f135e669]:
+                    - link "":
+                      - /url: javascript:void(0);
+          - navigation [ref=f135e672]:
+            - list [ref=f135e673]:
+              - listitem [ref=f135e674]:
+                - generic [ref=f135e675] [cursor=pointer]: Next »
+          - text:    
+        - text: 
+  - text:   
+  - iframe [aria-hidden] [ref=f135e676]:
+    - generic [ref=f136e4]:
+      - generic [ref=f136e5]:
+        - heading "Latest changes" [level=3] [ref=f136e7]
+        - generic [ref=f136e8]:
+          - 'link "New Improvement New Feature and Enhancements- 7th Oct 2026. 1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..." [ref=f136e9] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f136e10]: New
+            - generic [ref=f136e11]: Improvement
+            - strong [ref=f136e12]: New Feature and Enhancements- 7th Oct 2026.
+            - text: "1. International calling for AI bot calls (Via Twilio) For: Admins, Pre-sales, Sales Managers AI ..."
+          - 'link "New Improvement New Feature and Enhancements- 23rd Sept 2026. Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..." [ref=f136e13] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f136e14]: New
+            - generic [ref=f136e15]: Improvement
+            - strong [ref=f136e16]: New Feature and Enhancements- 23rd Sept 2026.
+            - text: "Quota-based routing For: Admins, Sales Managers A new routing strategy that splits new leads amo..."
+          - 'link "New New Feature and Enhancements-2nd Sept 2026. Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..." [ref=f136e17] [cursor=pointer]':
+            - /url: "#"
+            - generic [ref=f136e18]: New
+            - strong [ref=f136e19]: New Feature and Enhancements-2nd Sept 2026.
+            - text: "Sell.do MCP (Claude & ChatGPT) For: Sales, Pre-sales, Managers Work in Sell.do in plain language:..."
+        - generic [ref=f136e20]:
+          - link "Sell-Do updates" [ref=f136e21] [cursor=pointer]:
+            - /url: https://headwayapp.co/sell-do-updates?utm_medium=widget
+          - text: powered by
+          - link "Headway" [ref=f136e22] [cursor=pointer]:
+            - /url: https://headwayapp.co?utm_medium=widget&utm_source=sell-do
+      - generic [ref=f136e23]:
+        - generic [ref=f136e24]:
+          - generic [ref=f136e25]:
+            - link [ref=f136e26] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 7th Oct 2026" [level=3] [ref=f136e27]
+          - paragraph [ref=f136e30]:
+            - link "Read the whole post" [ref=f136e31] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-7th-oct-2026-348017
+        - generic [ref=f136e32]:
+          - generic [ref=f136e33]:
+            - link [ref=f136e34] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements- 23rd Sept 2026" [level=3] [ref=f136e35]
+          - paragraph [ref=f136e38]:
+            - link "Read the whole post" [ref=f136e39] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-23rd-sept-2026-346985
+        - generic [ref=f136e40]:
+          - generic [ref=f136e41]:
+            - link [ref=f136e42] [cursor=pointer]:
+              - /url: "#back"
+            - heading "New Feature and Enhancements-2nd Sept 2026" [level=3] [ref=f136e43]
+          - paragraph [ref=f136e46]:
+            - link "Read the whole post" [ref=f136e47] [cursor=pointer]:
+              - /url: https://headwayapp.co/sell-do-updates/new-feature-and-enhancements-2nd-sept-2026-345414
